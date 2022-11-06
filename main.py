@@ -1,4 +1,6 @@
 import select
+import os
+from tqdm import tqdm
 import pandas as pd
 from DataMgmt import *
 from selenium.webdriver.support.ui import Select
@@ -6,29 +8,30 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
 from CrawlSettings import SeleniumUtils
 from selenium.webdriver.common.by import By
+from System import InsidePath as ip
 
 def main_df():
     seleniumCls = SeleniumUtils(r'https://www.metabolomicsworkbench.org/databases/proteome/MGP.php')
-    #seleniumCls.OpenWebsite()
-    # dropDown = Select(seleniumCls.FindElement('//select[@name="SMP_PATHWAY_ID"]'))
+    # seleniumCls.OpenWebsite()
+    # dropDown = Select(seleniumCls.FindElementByXPATH('//select[@name="SMP_PATHWAY_ID"]'))
     # df_list = []
-    # for i in range(1, len(dropDown.options)-1):
+    # for i in tqdm(range(1, len(dropDown.options)-1)):
     #     dropDown.select_by_index(i)
-    #     button = seleniumCls.FindElement("//input[@type='Submit']").click()
+    #     button = seleniumCls.FindElementByXPATH("//input[@type='Submit']").click()
     #     seleniumCls.WaitElement("//*[@id='content']/table[1]/tbody/tr/td/table")
     #     df_list.append(pd.read_html(seleniumCls.driver.page_source)[2])
     #     seleniumCls.OpenWebsite()
-    #     dropDown = Select(seleniumCls.FindElement('//select[@name="SMP_PATHWAY_ID"]'))
-    # df = pd.concat(df_list)
-    # Savedf2CSV(df)
+    #     dropDown = Select(seleniumCls.FindElementByXPATH('//select[@name="SMP_PATHWAY_ID"]'))
+    # df = pd.concat(df_list, ignore_index = True)
     # df.drop('Enzyme/Reactants', axis=1, inplace=True)
-    df = pd.read_csv('Files/main_df.csv')
+    # Savedf2CSV(df, 'main_df')
+    df = Readf2CSV('main_df')
     Savedf2CSV(pd.concat(MGPdf(seleniumCls, df['MGP ID'].tolist())), 'MGPdf')
 
 
 def MGPdf(seleniumCls:SeleniumUtils, mgp_num_list:list):
     df_list = []
-    for i in range(len(mgp_num_list)):
+    for i in tqdm(range(len(mgp_num_list))):
         pageurl = 'https://www.metabolomicsworkbench.org/databases/proteome/MGP_detail.php?MGP_ID=' + mgp_num_list[i]
         seleniumCls.driver.get(pageurl)
         seleniumCls.WaitElement(xpath="//*[@id='content']/table/tbody/tr/td/fieldset/table[1]")

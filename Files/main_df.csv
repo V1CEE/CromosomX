@@ -1,0 +1,2169 @@
+,MGP ID,Entrez Gene ID,Gene name,Symbol
+0,MGP001661,3674,"integrin, alpha 2b (platelet glycoprotein IIb of IIb/IIIa complex, antigen CD41)",ITGA2B
+1,MGP001674,3690,"integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)",ITGB3
+2,MGP003028,6833,"ATP-binding cassette, sub-family C (CFTR/MRP), member 8",ABCC8
+3,MGP004107,10060,"ATP-binding cassette, sub-family C (CFTR/MRP), member 9",ABCC9
+4,MGP000085,153,adrenoceptor beta 1,ADRB1
+5,MGP000101,185,"angiotensin II receptor, type 1",AGTR1
+6,MGP000101,185,"angiotensin II receptor, type 1",AGTR1
+7,MGP006598,144245,"ALG10B, alpha-1,2-glucosyltransferase",ALG10B
+8,MGP000235,476,"ATPase, Na+/K+ transporting, alpha 1 polypeptide",ATP1A1
+9,MGP000236,477,"ATPase, Na+/K+ transporting, alpha 2 polypeptide",ATP1A2
+10,MGP000237,478,"ATPase, Na+/K+ transporting, alpha 3 polypeptide",ATP1A3
+11,MGP000239,480,"ATPase, Na+/K+ transporting, alpha 4 polypeptide",ATP1A4
+12,MGP000240,481,"ATPase, Na+/K+ transporting, beta 1 polypeptide",ATP1B1
+13,MGP000241,482,"ATPase, Na+/K+ transporting, beta 2 polypeptide",ATP1B2
+14,MGP000242,483,"ATPase, Na+/K+ transporting, beta 3 polypeptide",ATP1B3
+15,MGP000245,488,"ATPase, Ca++ transporting, cardiac muscle, slow twitch 2",ATP2A2
+16,MGP000381,775,"calcium channel, voltage-dependent, L type, alpha 1C subunit",CACNA1C
+17,MGP003746,8913,"calcium channel, voltage-dependent, T type, alpha 1G subunit",CACNA1G
+18,MGP003745,8912,"calcium channel, voltage-dependent, T type, alpha 1H subunit",CACNA1H
+19,MGP003841,9254,"calcium channel, voltage-dependent, alpha 2/delta subunit 2",CACNA2D2
+20,MGP000386,782,"calcium channel, voltage-dependent, beta 1 subunit",CACNB1
+21,MGP000396,801,"calmodulin 1 (phosphorylase kinase, delta)",CALM1
+22,MGP000549,1129,"cholinergic receptor, muscarinic 2",CHRM2
+23,MGP000839,1739,"discs, large homolog 1 (Drosophila)",DLG1
+24,MGP000243,486,FXYD domain containing ion transport regulator 2,FXYD2
+25,MGP004091,10021,hyperpolarization activated cyclic nucleotide gated potassium channel 4,HCN4
+26,MGP001686,3708,"inositol 1,4,5-trisphosphate receptor, type 1",ITPR1
+27,MGP001686,3708,"inositol 1,4,5-trisphosphate receptor, type 1",ITPR1
+28,MGP001703,3741,"potassium channel, voltage gated shaker related subfamily A, member 5",KCNA5
+29,MGP001714,3752,"potassium channel, voltage gated Shal related subfamily D, member 3",KCND3
+30,MGP001715,3753,"potassium channel, voltage gated subfamily E regulatory beta subunit 1",KCNE1
+31,MGP004078,9992,"potassium channel, voltage gated subfamily E regulatory beta subunit 2",KCNE2
+32,MGP001718,3757,"potassium channel, voltage gated eag related subfamily H, member 2",KCNH2
+33,MGP005046,30819,Kv channel interacting protein 2,KCNIP2
+34,MGP001728,3767,"potassium channel, inwardly rectifying subfamily J, member 11",KCNJ11
+35,MGP001720,3759,"potassium channel, inwardly rectifying subfamily J, member 2",KCNJ2
+36,MGP001721,3760,"potassium channel, inwardly rectifying subfamily J, member 3",KCNJ3
+37,MGP001722,3761,"potassium channel, inwardly rectifying subfamily J, member 4",KCNJ4
+38,MGP001723,3762,"potassium channel, inwardly rectifying subfamily J, member 5",KCNJ5
+39,MGP001725,3764,"potassium channel, inwardly rectifying subfamily J, member 8",KCNJ8
+40,MGP001733,3775,"potassium channel, two pore domain subfamily K, member 1",KCNK1
+41,MGP001742,3784,"potassium channel, voltage gated KQT-like subfamily Q, member 1",KCNQ1
+42,MGP002017,4638,myosin light chain kinase,MYLK
+43,MGP004616,23236,"phospholipase C, beta 1 (phosphoinositide-specific)",PLCB1
+44,MGP002329,5350,phospholamban,PLN
+45,MGP002414,5566,"protein kinase, cAMP-dependent, catalytic, alpha",PRKACA
+46,MGP002417,5573,"protein kinase, cAMP-dependent, regulatory, type I, alpha",PRKAR1A
+47,MGP002739,6262,ryanodine receptor 2 (cardiac),RYR2
+48,MGP002761,6331,"sodium channel, voltage gated, type V alpha subunit",SCN5A
+49,MGP002879,6546,"solute carrier family 8 (sodium/calcium exchanger), member 1",SLC8A1
+50,MGP002945,6640,"syntrophin, alpha 1",SNTA1
+51,MGP002946,6641,"syntrophin, beta 1 (dystrophin-associated protein A1, 59kDa, basic component 1)",SNTB1
+52,MGP002948,6645,"syntrophin, beta 2 (dystrophin-associated protein A1, 59kDa, basic component 2)",SNTB2
+53,MGP003162,7134,troponin C type 1 (slow),TNNC1
+54,MGP003159,7125,troponin C type 2 (fast),TNNC2
+55,MGP003163,7135,"troponin I type 1 (skeletal, slow)",TNNI1
+56,MGP003164,7136,"troponin I type 2 (skeletal, fast)",TNNI2
+57,MGP003165,7137,troponin I type 3 (cardiac),TNNI3
+58,MGP003166,7138,"troponin T type 1 (skeletal, slow)",TNNT1
+59,MGP003167,7139,troponin T type 2 (cardiac),TNNT2
+60,MGP003168,7140,"troponin T type 3 (skeletal, fast)",TNNT3
+61,MGP003181,7168,tropomyosin 1 (alpha),TPM1
+62,MGP003181,7168,tropomyosin 1 (alpha),TPM1
+63,MGP003182,7169,tropomyosin 2 (beta),TPM2
+64,MGP003182,7169,tropomyosin 2 (beta),TPM2
+65,MGP002268,5243,"ATP-binding cassette, sub-family B (MDR/TAP), member 1",ABCB1
+66,MGP001961,4363,"ATP-binding cassette, sub-family C (CFTR/MRP), member 1",ABCC1
+67,MGP004181,10257,"ATP-binding cassette, sub-family C (CFTR/MRP), member 4",ABCC4
+68,MGP004104,10057,"ATP-binding cassette, sub-family C (CFTR/MRP), member 5",ABCC5
+69,MGP003897,9429,"ATP-binding cassette, sub-family G (WHITE), member 2 (Junior blood group)",ABCG2
+70,MGP000746,1544,"cytochrome P450, family 1, subfamily A, polypeptide 2",CYP1A2
+71,MGP000748,1548,"cytochrome P450, family 2, subfamily A, polypeptide 6",CYP2A6
+72,MGP000757,1565,"cytochrome P450, family 2, subfamily D, polypeptide 6",CYP2D6
+73,MGP000758,1571,"cytochrome P450, family 2, subfamily E, polypeptide 1",CYP2E1
+74,MGP000761,1576,"cytochrome P450, family 3, subfamily A, polypeptide 4",CYP3A4
+75,MGP005239,51726,"DnaJ (Hsp40) homolog, subfamily B, member 11",DNAJB11
+76,MGP004417,10961,endoplasmic reticulum protein 29,ERP29
+77,MGP001357,2950,glutathione S-transferase pi 1,GSTP1
+78,MGP001358,2952,glutathione S-transferase theta 1,GSTT1
+79,MGP001358,2952,glutathione S-transferase theta 1,GSTT1
+80,MGP001516,3309,"heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa)",HSPA5
+81,MGP004274,10525,hypoxia up-regulated 1,HYOU1
+82,MGP005786,64714,"protein disulfide isomerase family A, member 2",PDIA2
+83,MGP003954,9601,"protein disulfide isomerase family A, member 4",PDIA4
+84,MGP004137,10130,"protein disulfide isomerase family A, member 6",PDIA6
+85,MGP002384,5479,peptidylprolyl isomerase B (cyclophilin B),PPIB
+86,MGP004739,23753,stromal cell-derived factor 2-like 1,SDF2L1
+87,MGP003020,6817,"sulfotransferase family, cytosolic, 1A, phenol-preferring, member 1",SULT1A1
+88,MGP003021,6818,"sulfotransferase family, cytosolic, 1A, phenol-preferring, member 3",SULT1A3
+89,MGP003008,6783,"sulfotransferase family 1E, estrogen-preferring, member 1",SULT1E1
+90,MGP003025,6822,"sulfotransferase family, cytosolic, 2A, dehydroepiandrosterone (DHEA)-preferring, member 1",SULT2A1
+91,MGP005314,54658,"UDP glucuronosyltransferase 1 family, polypeptide A1",UGT1A1
+92,MGP005308,54578,"UDP glucuronosyltransferase 1 family, polypeptide A6",UGT1A6
+93,MGP005308,54578,"UDP glucuronosyltransferase 1 family, polypeptide A6",UGT1A6
+94,MGP005312,54600,"UDP glucuronosyltransferase 1 family, polypeptide A9",UGT1A9
+95,MGP003267,7366,"UDP glucuronosyltransferase 2 family, polypeptide B15",UGT2B15
+96,MGP000106,203,adenylate kinase 1,AK1
+97,MGP000107,204,adenylate kinase 2,AK2
+98,MGP002104,4830,NME/NM23 nucleoside diphosphate kinase 1,NME1
+99,MGP002105,4831,NME/NM23 nucleoside diphosphate kinase 2,NME2
+100,MGP000005,16,alanyl-tRNA synthetase,AARS
+101,MGP005634,57505,"alanyl-tRNA synthetase 2, mitochondrial",AARS2
+102,MGP000104,189,alanine-glyoxylate aminotransferase,AGXT
+103,MGP001302,2875,glutamic-pyruvate transaminase (alanine aminotransferase),GPT
+104,MGP002206,5091,pyruvate carboxylase,PC
+105,MGP003009,6785,ELOVL fatty acid elongase 4,ELOVL4
+106,MGP005713,60481,ELOVL fatty acid elongase 5,ELOVL5
+107,MGP001826,3992,fatty acid desaturase 1,FADS1
+108,MGP003891,9415,fatty acid desaturase 2,FADS2
+109,MGP007281,100137049,"phospholipase A2, group IVB (cytosolic)",PLA2G4B
+110,MGP005094,51005,amidohydrolase domain containing 2,AMDHD2
+111,MGP000543,1118,chitinase 1 (chitotriosidase),CHIT1
+112,MGP005519,55907,cytidine monophosphate N-acetylneuraminic acid synthetase,CMAS
+113,MGP001191,2673,glutamine--fructose-6-phosphate transaminase 1,GFPT1
+114,MGP004090,10020,glucosamine (UDP-N-acetyl)-2-epimerase/N-acetylmannosamine kinase,GNE
+115,MGP004084,10007,glucosamine-6-phosphate deaminase 1,GNPDA1
+116,MGP005799,64841,glucosamine-phosphate N-acetyltransferase 1,GNPNAT1
+117,MGP001431,3073,hexosaminidase A (alpha polypeptide),HEXA
+118,MGP001439,3098,hexokinase 1,HK1
+119,MGP005444,55577,N-acetylglucosamine kinase,NAGK
+120,MGP006579,140838,N-acetylneuraminic acid phosphatase,NANP
+121,MGP005274,54187,N-acetylneuraminic acid synthase,NANS
+122,MGP006010,80896,N-acetylneuraminate pyruvate lyase (dihydrodipicolinate synthase),NPL
+123,MGP002266,5238,phosphoglucomutase 3,PGM3
+124,MGP002608,5973,renin binding protein,RENBP
+125,MGP004856,26503,"solute carrier family 17 (acidic sugar transporter), member 5",SLC17A5
+126,MGP002959,6675,UDP-N-acetylglucosamine pyrophosphorylase 1,UAP1
+127,MGP000140,275,aminomethyltransferase,AMT
+128,MGP000225,440,asparagine synthetase (glutamine-hydrolyzing),ASNS
+129,MGP005967,80150,asparaginase like 1,ASRGL1
+130,MGP000671,1373,"carbamoyl-phosphate synthase 1, mitochondrial",CPS1
+131,MGP000838,1738,dihydrolipoamide dehydrogenase,DLD
+132,MGP001184,2653,glycine cleavage system protein H (aminomethyl carrier),GCSH
+133,MGP001224,2731,glycine dehydrogenase (decarboxylating),GLDC
+134,MGP004931,27165,"glutaminase 2 (liver, mitochondrial)",GLS2
+135,MGP001236,2746,glutamate dehydrogenase 1,GLUD1
+136,MGP001410,3034,histidine ammonia-lyase,HAL
+137,MGP004425,10993,serine dehydratase,SDS
+138,MGP002975,6718,"aldo-keto reductase family 1, member D1",AKR1D1
+139,MGP000770,1586,"cytochrome P450, family 17, subfamily A, polypeptide 1",CYP17A1
+140,MGP000771,1588,"cytochrome P450, family 19, subfamily A, polypeptide 1",CYP19A1
+141,MGP001508,3292,hydroxysteroid (17-beta) dehydrogenase 1,HSD17B1
+142,MGP001509,3293,hydroxysteroid (17-beta) dehydrogenase 3,HSD17B3
+143,MGP001504,3283,"hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 1",HSD3B1
+144,MGP002972,6715,"steroid-5-alpha-reductase, alpha polypeptide 1 (3-oxo-5 alpha-steroid delta 4-dehydrogenase alpha 1)",SRD5A1
+145,MGP000217,412,"steroid sulfatase (microsomal), isozyme S",STS
+146,MGP003008,6783,"sulfotransferase family 1E, estrogen-preferring, member 1",SULT1E1
+147,MGP003023,6820,"sulfotransferase family, cytosolic, 2B, member 1",SULT2B1
+148,MGP004341,10720,"UDP glucuronosyltransferase 2 family, polypeptide B11",UGT2B11
+149,MGP003268,7367,"UDP glucuronosyltransferase 2 family, polypeptide B17",UGT2B17
+150,MGP003628,8644,"aldo-keto reductase family 1, member C3",AKR1C3
+151,MGP000128,239,arachidonate 12-lipoxygenase,ALOX12
+152,MGP000131,242,"arachidonate 12-lipoxygenase, 12R type",ALOX12B
+153,MGP000132,246,arachidonate 15-lipoxygenase,ALOX15
+154,MGP000133,247,"arachidonate 15-lipoxygenase, type B",ALOX15B
+155,MGP000129,240,arachidonate 5-lipoxygenase,ALOX5
+156,MGP000431,873,carbonyl reductase 1,CBR1
+157,MGP000752,1555,"cytochrome P450, family 2, subfamily B, polypeptide 6",CYP2B6
+158,MGP000754,1558,"cytochrome P450, family 2, subfamily C, polypeptide 8",CYP2C8
+159,MGP000758,1571,"cytochrome P450, family 2, subfamily E, polypeptide 1",CYP2E1
+160,MGP000760,1573,"cytochrome P450, family 2, subfamily J, polypeptide 2",CYP2J2
+161,MGP006338,113612,"cytochrome P450, family 2, subfamily U, polypeptide 1",CYP2U1
+162,MGP000763,1579,"cytochrome P450, family 4, subfamily A, polypeptide 11",CYP4A11
+163,MGP003587,8529,"cytochrome P450, family 4, subfamily F, polypeptide 2",CYP4F2
+164,MGP001842,4051,"cytochrome P450, family 4, subfamily F, polypeptide 3",CYP4F3
+165,MGP004502,11283,"cytochrome P450, family 4, subfamily F, polypeptide 8",CYP4F8
+166,MGP000973,2053,"epoxide hydrolase 2, cytoplasmic",EPHX2
+167,MGP006483,127281,"family with sequence similarity 213, member B",FAM213B
+168,MGP001195,2678,gamma-glutamyltransferase 1,GGT1
+169,MGP001303,2876,glutathione peroxidase 1,GPX1
+170,MGP001841,4048,leukotriene A4 hydrolase,LTA4H
+171,MGP001845,4056,leukotriene C4 synthase,LTC4S
+172,MGP007281,100137049,"phospholipase A2, group IVB (cytosolic)",PLA2G4B
+173,MGP002513,5730,prostaglandin D2 synthase 21kDa (brain),PTGDS
+174,MGP003941,9536,prostaglandin E synthase,PTGES
+175,MGP002520,5740,prostaglandin I2 (prostacyclin) synthase,PTGIS
+176,MGP002522,5742,prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase),PTGS1
+177,MGP002523,5743,prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase),PTGS2
+178,MGP003077,6916,thromboxane A synthase 1 (platelet),TBXAS1
+179,MGP003635,8659,"aldehyde dehydrogenase 4 family, member A1",ALDH4A1
+180,MGP000195,383,arginase 1,ARG1
+181,MGP000223,435,argininosuccinate lyase,ASL
+182,MGP000227,445,argininosuccinate synthase 1,ASS1
+183,MGP000566,1152,"creatine kinase, brain",CKB
+184,MGP000671,1373,"carbamoyl-phosphate synthase 1, mitochondrial",CPS1
+185,MGP000786,1610,D-amino-acid oxidase,DAO
+186,MGP000975,2058,glutamyl-prolyl-tRNA synthetase,EPRS
+187,MGP001154,2593,guanidinoacetate N-methyltransferase,GAMT
+188,MGP001166,2628,glycine amidinotransferase (L-arginine:glycine amidinotransferase),GATM
+189,MGP001236,2746,glutamate dehydrogenase 1,GLUD1
+190,MGP001270,2805,"glutamic-oxaloacetic transaminase 1, soluble",GOT1
+191,MGP002110,4842,nitric oxide synthase 1 (neuronal),NOS1
+192,MGP002148,4942,ornithine aminotransferase,OAT
+193,MGP002176,5009,ornithine carbamoyltransferase,OTC
+194,MGP006926,283208,"prolyl 4-hydroxylase, alpha polypeptide III",P4HA3
+195,MGP002456,5625,proline dehydrogenase (oxidase) 1,PRODH
+196,MGP005018,29920,"pyrroline-5-carboxylate reductase family, member 2",PYCR2
+197,MGP005590,57038,"arginyl-tRNA synthetase 2, mitochondrial",RARS2
+198,MGP004151,10166,solute carrier family 25 (mitochondrial carrier; ornithine transporter) member 15,SLC25A15
+199,MGP000006,18,4-aminobutyrate aminotransferase,ABAT
+200,MGP000089,158,adenylosuccinate lyase,ADSL
+201,MGP006432,122622,adenylosuccinate synthase like 1,ADSSL1
+202,MGP000223,435,argininosuccinate lyase,ASL
+203,MGP000225,440,asparagine synthetase (glutamine-hydrolyzing),ASNS
+204,MGP000226,443,aspartoacylase,ASPA
+205,MGP005967,80150,asparaginase like 1,ASRGL1
+206,MGP000227,445,argininosuccinate synthase 1,ASS1
+207,MGP000391,790,"carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase",CAD
+208,MGP000789,1615,aspartyl-tRNA synthetase,DARS
+209,MGP003586,8528,D-aspartate oxidase,DDO
+210,MGP001143,2571,"glutamate decarboxylase 1 (brain, 67kDa)",GAD1
+211,MGP001143,2571,"glutamate decarboxylase 1 (brain, 67kDa)",GAD1
+212,MGP006909,259307,interleukin 4 induced 1,IL4I1
+213,MGP002029,4677,asparaginyl-tRNA synthetase,NARS
+214,MGP004181,10257,"ATP-binding cassette, sub-family C (CFTR/MRP), member 4",ABCC4
+215,MGP004104,10057,"ATP-binding cassette, sub-family C (CFTR/MRP), member 5",ABCC5
+216,MGP000050,100,adenosine deaminase,ADA
+217,MGP005501,55811,adenylate cyclase 10 (soluble),ADCY10
+218,MGP000072,132,adenosine kinase,ADK
+219,MGP000089,158,adenylosuccinate lyase,ADSL
+220,MGP000090,159,adenylosuccinate synthase,ADSS
+221,MGP000106,203,adenylate kinase 1,AK1
+222,MGP000137,270,adenosine monophosphate deaminase 1,AMPD1
+223,MGP000157,316,aldehyde oxidase 1,AOX1
+224,MGP000177,353,adenine phosphoribosyltransferase,APRT
+225,MGP006183,84896,"ATPase family, AAA domain containing 1",ATAD1
+226,MGP000232,471,5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase/IMP cyclohydrolase,ATIC
+227,MGP000825,1716,deoxyguanosine kinase,DGUOK
+228,MGP000462,957,ectonucleoside triphosphate diphosphohydrolase 5,ENTPD5
+229,MGP007071,377841,ectonucleoside triphosphate diphosphohydrolase 8,ENTPD8
+230,MGP001157,2618,"phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase",GART
+231,MGP003957,9615,guanine deaminase,GDA
+232,MGP001240,2766,guanosine monophosphate reductase,GMPR
+233,MGP003711,8833,guanine monphosphate synthase,GMPS
+234,MGP001377,2977,"guanylate cyclase 1, soluble, alpha 2",GUCY1A2
+235,MGP001380,2983,"guanylate cyclase 1, soluble, beta 3",GUCY1B3
+236,MGP001382,2987,guanylate kinase 1,GUK1
+237,MGP001495,3251,hypoxanthine phosphoribosyltransferase 1,HPRT1
+238,MGP001682,3704,inosine triphosphatase (nucleoside triphosphate pyrophosphatase),ITPA
+239,MGP004162,10201,NME/NM23 nucleoside diphosphate kinase 6,NME6
+240,MGP004468,11164,nudix (nucleoside diphosphate linked moiety X)-type motif 5,NUDT5
+241,MGP004304,10606,"phosphoribosylaminoimidazole carboxylase, phosphoribosylaminoimidazole succinocarboxamide synthetase",PAICS
+242,MGP002244,5198,phosphoribosylformylglycinamidine synthase,PFAS
+243,MGP002121,4860,purine nucleoside phosphorylase,PNP
+244,MGP002379,5471,phosphoribosyl pyrophosphate amidotransferase,PPAT
+245,MGP006829,221823,phosphoribosyl pyrophosphate synthetase 1-like 1,PRPS1L1
+246,MGP002559,5879,"ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)",RAC1
+247,MGP002730,6240,ribonucleotide reductase M1,RRM1
+248,MGP002731,6241,ribonucleotide reductase M2,RRM2
+249,MGP003815,9153,"solute carrier family 28 (concentrative nucleoside transporter), member 2",SLC28A2
+250,MGP005738,64078,"solute carrier family 28 (concentrative nucleoside transporter), member 3",SLC28A3
+251,MGP000957,2030,"solute carrier family 29 (equilibrative nucleoside transporter), member 1",SLC29A1
+252,MGP001480,3177,"solute carrier family 29 (equilibrative nucleoside transporter), member 2",SLC29A2
+253,MGP001480,3177,"solute carrier family 29 (equilibrative nucleoside transporter), member 2",SLC29A2
+254,MGP003185,7172,thiopurine S-methyltransferase,TPMT
+255,MGP003226,7295,thioredoxin,TXN
+256,MGP003329,7498,xanthine dehydrogenase,XDH
+257,MGP000798,1636,angiotensin I converting enzyme,ACE
+258,MGP000100,183,"angiotensinogen (serpin peptidase inhibitor, clade A, member 8)",AGT
+259,MGP000101,185,"angiotensin II receptor, type 1",AGTR1
+260,MGP000101,185,"angiotensin II receptor, type 1",AGTR1
+261,MGP002607,5972,renin,REN
+262,MGP000081,148,adrenoceptor alpha 1A,ADRA1A
+263,MGP000235,476,"ATPase, Na+/K+ transporting, alpha 1 polypeptide",ATP1A1
+264,MGP000236,477,"ATPase, Na+/K+ transporting, alpha 2 polypeptide",ATP1A2
+265,MGP000237,478,"ATPase, Na+/K+ transporting, alpha 3 polypeptide",ATP1A3
+266,MGP000239,480,"ATPase, Na+/K+ transporting, alpha 4 polypeptide",ATP1A4
+267,MGP000240,481,"ATPase, Na+/K+ transporting, beta 1 polypeptide",ATP1B1
+268,MGP000241,482,"ATPase, Na+/K+ transporting, beta 2 polypeptide",ATP1B2
+269,MGP000242,483,"ATPase, Na+/K+ transporting, beta 3 polypeptide",ATP1B3
+270,MGP000379,773,"calcium channel, voltage-dependent, P/Q type, alpha 1A subunit",CACNA1A
+271,MGP003841,9254,"calcium channel, voltage-dependent, alpha 2/delta subunit 2",CACNA2D2
+272,MGP000386,782,"calcium channel, voltage-dependent, beta 1 subunit",CACNB1
+273,MGP000556,1137,"cholinergic receptor, nicotinic, alpha 4 (neuronal)",CHRNA4
+274,MGP000559,1141,"cholinergic receptor, nicotinic, beta 2 (neuronal)",CHRNB2
+275,MGP000871,1812,dopamine receptor D1,DRD1
+276,MGP000243,486,FXYD domain containing ion transport regulator 2,FXYD2
+277,MGP001322,2902,"glutamate receptor, ionotropic, N-methyl D-aspartate 1",GRIN1
+278,MGP001323,2903,"glutamate receptor, ionotropic, N-methyl D-aspartate 2A",GRIN2A
+279,MGP006368,116443,"glutamate receptor, ionotropic, N-methyl-D-aspartate 3A",GRIN3A
+280,MGP001526,3350,"5-hydroxytryptamine (serotonin) receptor 1A, G protein-coupled",HTR1A
+281,MGP001713,3751,"potassium channel, voltage gated Shal related subfamily D, member 2",KCND2
+282,MGP005046,30819,Kv channel interacting protein 2,KCNIP2
+283,MGP002164,4988,"opioid receptor, mu 1",OPRM1
+284,MGP002221,5126,proprotein convertase subtilisin/kexin type 2,PCSK2
+285,MGP002369,5443,proopiomelanocortin,POMC
+286,MGP002765,6336,"sodium channel, voltage gated, type X alpha subunit",SCN10A
+287,MGP002755,6324,"sodium channel, voltage gated, type I beta subunit",SCN1B
+288,MGP002866,6530,"solute carrier family 6 (neurotransmitter transporter), member 2",SLC6A2
+289,MGP002867,6531,"solute carrier family 6 (neurotransmitter transporter), member 3",SLC6A3
+290,MGP002868,6532,"solute carrier family 6 (neurotransmitter transporter), member 4",SLC6A4
+291,MGP000115,215,"ATP-binding cassette, sub-family D (ALD), member 1",ABCD1
+292,MGP000123,225,"ATP-binding cassette, sub-family D (ALD), member 2",ABCD2
+293,MGP001026,2180,acyl-CoA synthetase long-chain family member 1,ACSL1
+294,MGP000674,1376,carnitine palmitoyltransferase 2,CPT2
+295,MGP000678,1384,carnitine O-acetyltransferase,CRAT
+296,MGP005317,54677,carnitine O-octanoyltransferase,CROT
+297,MGP006297,92960,peroxisomal biogenesis factor 11 gamma,PEX11G
+298,MGP002240,5194,peroxisomal biogenesis factor 13,PEX13
+299,MGP002241,5195,peroxisomal biogenesis factor 14,PEX14
+300,MGP000390,788,"solute carrier family 25 (carnitine/acylcarnitine translocase), member 20",SLC25A20
+301,MGP000006,18,4-aminobutyrate aminotransferase,ABAT
+302,MGP000117,217,aldehyde dehydrogenase 2 family (mitochondrial),ALDH2
+303,MGP001949,4329,"aldehyde dehydrogenase 6 family, member A1",ALDH6A1
+304,MGP003626,8639,"amine oxidase, copper containing 3",AOC3
+305,MGP006168,84735,carnosine dipeptidase 1 (metallopeptidase M20 family),CNDP1
+306,MGP000865,1806,dihydropyrimidine dehydrogenase,DPYD
+307,MGP000866,1807,dihydropyrimidinase,DPYS
+308,MGP001143,2571,"glutamate decarboxylase 1 (brain, 67kDa)",GAD1
+309,MGP001143,2571,"glutamate decarboxylase 1 (brain, 67kDa)",GAD1
+310,MGP005242,51733,"ureidopropionase, beta",UPB1
+311,MGP000105,191,adenosylhomocysteinase,AHCY
+312,MGP000254,501,"aldehyde dehydrogenase 7 family, member A1",ALDH7A1
+313,MGP000311,635,betaine--homocysteine S-methyltransferase,BHMT
+314,MGP005423,55349,choline dehydrogenase,CHDH
+315,MGP001871,4143,"methionine adenosyltransferase I, alpha",MAT1A
+316,MGP001976,4548,5-methyltetrahydrofolate-homocysteine methyltransferase,MTR
+317,MGP004226,10400,phosphatidylethanolamine N-methyltransferase,PEMT
+318,MGP001092,2321,fms-related tyrosine kinase 1,FLT1
+319,MGP001748,3791,kinase insert domain receptor,KDR
+320,MGP003293,7422,vascular endothelial growth factor A,VEGFA
+321,MGP003480,8309,"acyl-CoA oxidase 2, branched chain",ACOX2
+322,MGP000541,1109,"aldo-keto reductase family 1, member C4",AKR1C4
+323,MGP002975,6718,"aldo-keto reductase family 1, member D1",AKR1D1
+324,MGP004717,23600,alpha-methylacyl-CoA racemase,AMACR
+325,MGP000285,570,bile acid CoA:amino acid N-acyltransferase,BAAT
+326,MGP003771,9023,cholesterol 25-hydroxylase,CH25H
+327,MGP000775,1593,"cytochrome P450, family 27, subfamily A, polypeptide 1",CYP27A1
+328,MGP005158,51302,"cytochrome P450, family 39, subfamily A, polypeptide 1",CYP39A1
+329,MGP004379,10858,"cytochrome P450, family 46, subfamily A, polypeptide 1",CYP46A1
+330,MGP000765,1581,"cytochrome P450, family 7, subfamily A, polypeptide 1",CYP7A1
+331,MGP003893,9420,"cytochrome P450, family 7, subfamily B, polypeptide 1",CYP7B1
+332,MGP000766,1582,"cytochrome P450, family 8, subfamily B, polypeptide 1",CYP8B1
+333,MGP001510,3295,hydroxysteroid (17-beta) dehydrogenase 4,HSD17B4
+334,MGP005982,80270,"hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 7",HSD3B7
+335,MGP001823,3988,"lipase A, lysosomal acid, cholesterol esterase",LIPA
+336,MGP002771,6342,sterol carrier protein 2,SCP2
+337,MGP002771,6342,sterol carrier protein 2,SCP2
+338,MGP004426,10998,"solute carrier family 27 (fatty acid transporter), member 5",SLC27A5
+339,MGP000341,686,biotinidase,BTD
+340,MGP001461,3141,holocarboxylase synthetase (biotin-(proprionyl-CoA-carboxylase (ATP-hydrolysing)) ligase),HLCS
+341,MGP004977,28972,signal peptidase complex subunit 1 homolog (S. cerevisiae),SPCS1
+342,MGP000020,35,"acyl-CoA dehydrogenase, C-2 to C-3 short chain",ACADS
+343,MGP000023,38,acetyl-CoA acetyltransferase 1,ACAT1
+344,MGP006367,116285,acyl-CoA synthetase medium-chain family member 1,ACSM1
+345,MGP000902,1892,"enoyl CoA hydratase, short chain, 1, mitochondrial",ECHS1
+346,MGP001409,3033,hydroxyacyl-CoA dehydrogenase,HADH
+347,MGP001465,3155,3-hydroxymethyl-3-methylglutaryl-CoA lyase,HMGCL
+348,MGP001468,3158,3-hydroxy-3-methylglutaryl-CoA synthase 2 (mitochondrial),HMGCS2
+349,MGP002179,5019,3-oxoacid CoA transferase 1,OXCT1
+350,MGP000746,1544,"cytochrome P450, family 1, subfamily A, polypeptide 2",CYP1A2
+351,MGP000748,1548,"cytochrome P450, family 2, subfamily A, polypeptide 6",CYP2A6
+352,MGP000754,1558,"cytochrome P450, family 2, subfamily C, polypeptide 8",CYP2C8
+353,MGP000755,1559,"cytochrome P450, family 2, subfamily C, polypeptide 9",CYP2C9
+354,MGP000758,1571,"cytochrome P450, family 2, subfamily E, polypeptide 1",CYP2E1
+355,MGP000761,1576,"cytochrome P450, family 3, subfamily A, polypeptide 4",CYP3A4
+356,MGP000003,10,N-acetyltransferase 2 (arylamine N-acetyltransferase),NAT2
+357,MGP003329,7498,xanthine dehydrogenase,XDH
+358,MGP000121,223,"aldehyde dehydrogenase 9 family, member A1",ALDH9A1
+359,MGP003548,8424,"butyrobetaine (gamma), 2-oxoglutarate dioxygenase (gamma-butyrobetaine hydroxylase) 1",BBOX1
+360,MGP006009,80854,SET domain containing (lysine methyltransferase) 7,SETD7
+361,MGP002827,6470,serine hydroxymethyltransferase 1 (soluble),SHMT1
+362,MGP005398,55217,"trimethyllysine hydroxylase, epsilon",TMLHE
+363,MGP003028,6833,"ATP-binding cassette, sub-family C (CFTR/MRP), member 8",ABCC8
+364,MGP004107,10060,"ATP-binding cassette, sub-family C (CFTR/MRP), member 9",ABCC9
+365,MGP000081,148,adrenoceptor alpha 1A,ADRA1A
+366,MGP000085,153,adrenoceptor beta 1,ADRB1
+367,MGP000101,185,"angiotensin II receptor, type 1",AGTR1
+368,MGP000101,185,"angiotensin II receptor, type 1",AGTR1
+369,MGP006598,144245,"ALG10B, alpha-1,2-glucosyltransferase",ALG10B
+370,MGP000235,476,"ATPase, Na+/K+ transporting, alpha 1 polypeptide",ATP1A1
+371,MGP000236,477,"ATPase, Na+/K+ transporting, alpha 2 polypeptide",ATP1A2
+372,MGP000237,478,"ATPase, Na+/K+ transporting, alpha 3 polypeptide",ATP1A3
+373,MGP000239,480,"ATPase, Na+/K+ transporting, alpha 4 polypeptide",ATP1A4
+374,MGP000240,481,"ATPase, Na+/K+ transporting, beta 1 polypeptide",ATP1B1
+375,MGP000241,482,"ATPase, Na+/K+ transporting, beta 2 polypeptide",ATP1B2
+376,MGP000242,483,"ATPase, Na+/K+ transporting, beta 3 polypeptide",ATP1B3
+377,MGP000245,488,"ATPase, Ca++ transporting, cardiac muscle, slow twitch 2",ATP2A2
+378,MGP000381,775,"calcium channel, voltage-dependent, L type, alpha 1C subunit",CACNA1C
+379,MGP003746,8913,"calcium channel, voltage-dependent, T type, alpha 1G subunit",CACNA1G
+380,MGP003745,8912,"calcium channel, voltage-dependent, T type, alpha 1H subunit",CACNA1H
+381,MGP003841,9254,"calcium channel, voltage-dependent, alpha 2/delta subunit 2",CACNA2D2
+382,MGP000386,782,"calcium channel, voltage-dependent, beta 1 subunit",CACNB1
+383,MGP000396,801,"calmodulin 1 (phosphorylase kinase, delta)",CALM1
+384,MGP000549,1129,"cholinergic receptor, muscarinic 2",CHRM2
+385,MGP000839,1739,"discs, large homolog 1 (Drosophila)",DLG1
+386,MGP000243,486,FXYD domain containing ion transport regulator 2,FXYD2
+387,MGP004091,10021,hyperpolarization activated cyclic nucleotide gated potassium channel 4,HCN4
+388,MGP001686,3708,"inositol 1,4,5-trisphosphate receptor, type 1",ITPR1
+389,MGP001686,3708,"inositol 1,4,5-trisphosphate receptor, type 1",ITPR1
+390,MGP001703,3741,"potassium channel, voltage gated shaker related subfamily A, member 5",KCNA5
+391,MGP001714,3752,"potassium channel, voltage gated Shal related subfamily D, member 3",KCND3
+392,MGP001715,3753,"potassium channel, voltage gated subfamily E regulatory beta subunit 1",KCNE1
+393,MGP004078,9992,"potassium channel, voltage gated subfamily E regulatory beta subunit 2",KCNE2
+394,MGP001718,3757,"potassium channel, voltage gated eag related subfamily H, member 2",KCNH2
+395,MGP005046,30819,Kv channel interacting protein 2,KCNIP2
+396,MGP001728,3767,"potassium channel, inwardly rectifying subfamily J, member 11",KCNJ11
+397,MGP001720,3759,"potassium channel, inwardly rectifying subfamily J, member 2",KCNJ2
+398,MGP001721,3760,"potassium channel, inwardly rectifying subfamily J, member 3",KCNJ3
+399,MGP001722,3761,"potassium channel, inwardly rectifying subfamily J, member 4",KCNJ4
+400,MGP001723,3762,"potassium channel, inwardly rectifying subfamily J, member 5",KCNJ5
+401,MGP001725,3764,"potassium channel, inwardly rectifying subfamily J, member 8",KCNJ8
+402,MGP001733,3775,"potassium channel, two pore domain subfamily K, member 1",KCNK1
+403,MGP001742,3784,"potassium channel, voltage gated KQT-like subfamily Q, member 1",KCNQ1
+404,MGP002017,4638,myosin light chain kinase,MYLK
+405,MGP004616,23236,"phospholipase C, beta 1 (phosphoinositide-specific)",PLCB1
+406,MGP002329,5350,phospholamban,PLN
+407,MGP002414,5566,"protein kinase, cAMP-dependent, catalytic, alpha",PRKACA
+408,MGP002417,5573,"protein kinase, cAMP-dependent, regulatory, type I, alpha",PRKAR1A
+409,MGP002739,6262,ryanodine receptor 2 (cardiac),RYR2
+410,MGP002761,6331,"sodium channel, voltage gated, type V alpha subunit",SCN5A
+411,MGP002879,6546,"solute carrier family 8 (sodium/calcium exchanger), member 1",SLC8A1
+412,MGP002945,6640,"syntrophin, alpha 1",SNTA1
+413,MGP002946,6641,"syntrophin, beta 1 (dystrophin-associated protein A1, 59kDa, basic component 1)",SNTB1
+414,MGP002948,6645,"syntrophin, beta 2 (dystrophin-associated protein A1, 59kDa, basic component 2)",SNTB2
+415,MGP003162,7134,troponin C type 1 (slow),TNNC1
+416,MGP003159,7125,troponin C type 2 (fast),TNNC2
+417,MGP003163,7135,"troponin I type 1 (skeletal, slow)",TNNI1
+418,MGP003164,7136,"troponin I type 2 (skeletal, fast)",TNNI2
+419,MGP003165,7137,troponin I type 3 (cardiac),TNNI3
+420,MGP003166,7138,"troponin T type 1 (skeletal, slow)",TNNT1
+421,MGP003167,7139,troponin T type 2 (cardiac),TNNT2
+422,MGP003168,7140,"troponin T type 3 (skeletal, fast)",TNNT3
+423,MGP003181,7168,tropomyosin 1 (alpha),TPM1
+424,MGP003181,7168,tropomyosin 1 (alpha),TPM1
+425,MGP003182,7169,tropomyosin 2 (beta),TPM2
+426,MGP003182,7169,tropomyosin 2 (beta),TPM2
+427,MGP000790,1621,dopamine beta-hydroxylase (dopamine beta-monooxygenase),DBH
+428,MGP000804,1644,dopa decarboxylase (aromatic L-amino acid decarboxylase),DDC
+429,MGP002348,5409,phenylethanolamine N-methyltransferase,PNMT
+430,MGP003126,7054,tyrosine hydroxylase,TH
+431,MGP000066,124,"alcohol dehydrogenase 1A (class I), alpha polypeptide",ADH1A
+432,MGP000067,125,"alcohol dehydrogenase 1B (class I), beta polypeptide",ADH1B
+433,MGP003628,8644,"aldo-keto reductase family 1, member C3",AKR1C3
+434,MGP000128,239,arachidonate 12-lipoxygenase,ALOX12
+435,MGP000131,242,"arachidonate 12-lipoxygenase, 12R type",ALOX12B
+436,MGP000132,246,arachidonate 15-lipoxygenase,ALOX15
+437,MGP000133,247,"arachidonate 15-lipoxygenase, type B",ALOX15B
+438,MGP000129,240,arachidonate 5-lipoxygenase,ALOX5
+439,MGP000431,873,carbonyl reductase 1,CBR1
+440,MGP000752,1555,"cytochrome P450, family 2, subfamily B, polypeptide 6",CYP2B6
+441,MGP000754,1558,"cytochrome P450, family 2, subfamily C, polypeptide 8",CYP2C8
+442,MGP000755,1559,"cytochrome P450, family 2, subfamily C, polypeptide 9",CYP2C9
+443,MGP000757,1565,"cytochrome P450, family 2, subfamily D, polypeptide 6",CYP2D6
+444,MGP000758,1571,"cytochrome P450, family 2, subfamily E, polypeptide 1",CYP2E1
+445,MGP000760,1573,"cytochrome P450, family 2, subfamily J, polypeptide 2",CYP2J2
+446,MGP006338,113612,"cytochrome P450, family 2, subfamily U, polypeptide 1",CYP2U1
+447,MGP000761,1576,"cytochrome P450, family 3, subfamily A, polypeptide 4",CYP3A4
+448,MGP000763,1579,"cytochrome P450, family 4, subfamily A, polypeptide 11",CYP4A11
+449,MGP003587,8529,"cytochrome P450, family 4, subfamily F, polypeptide 2",CYP4F2
+450,MGP001842,4051,"cytochrome P450, family 4, subfamily F, polypeptide 3",CYP4F3
+451,MGP004502,11283,"cytochrome P450, family 4, subfamily F, polypeptide 8",CYP4F8
+452,MGP000973,2053,"epoxide hydrolase 2, cytoplasmic",EPHX2
+453,MGP006483,127281,"family with sequence similarity 213, member B",FAM213B
+454,MGP001195,2678,gamma-glutamyltransferase 1,GGT1
+455,MGP001303,2876,glutathione peroxidase 1,GPX1
+456,MGP001841,4048,leukotriene A4 hydrolase,LTA4H
+457,MGP001845,4056,leukotriene C4 synthase,LTC4S
+458,MGP007281,100137049,"phospholipase A2, group IVB (cytosolic)",PLA2G4B
+459,MGP002513,5730,prostaglandin D2 synthase 21kDa (brain),PTGDS
+460,MGP003941,9536,prostaglandin E synthase,PTGES
+461,MGP002520,5740,prostaglandin I2 (prostacyclin) synthase,PTGIS
+462,MGP002522,5742,prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase),PTGS1
+463,MGP002523,5743,prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase),PTGS2
+464,MGP003077,6916,thromboxane A synthase 1 (platelet),TBXAS1
+465,MGP005305,54575,"UDP glucuronosyltransferase 1 family, polypeptide A10",UGT1A10
+466,MGP000081,148,adrenoceptor alpha 1A,ADRA1A
+467,MGP000157,316,aldehyde oxidase 1,AOX1
+468,MGP000235,476,"ATPase, Na+/K+ transporting, alpha 1 polypeptide",ATP1A1
+469,MGP000236,477,"ATPase, Na+/K+ transporting, alpha 2 polypeptide",ATP1A2
+470,MGP000237,478,"ATPase, Na+/K+ transporting, alpha 3 polypeptide",ATP1A3
+471,MGP000239,480,"ATPase, Na+/K+ transporting, alpha 4 polypeptide",ATP1A4
+472,MGP000240,481,"ATPase, Na+/K+ transporting, beta 1 polypeptide",ATP1B1
+473,MGP000241,482,"ATPase, Na+/K+ transporting, beta 2 polypeptide",ATP1B2
+474,MGP000242,483,"ATPase, Na+/K+ transporting, beta 3 polypeptide",ATP1B3
+475,MGP000379,773,"calcium channel, voltage-dependent, P/Q type, alpha 1A subunit",CACNA1A
+476,MGP003841,9254,"calcium channel, voltage-dependent, alpha 2/delta subunit 2",CACNA2D2
+477,MGP000386,782,"calcium channel, voltage-dependent, beta 1 subunit",CACNB1
+478,MGP000556,1137,"cholinergic receptor, nicotinic, alpha 4 (neuronal)",CHRNA4
+479,MGP000559,1141,"cholinergic receptor, nicotinic, beta 2 (neuronal)",CHRNB2
+480,MGP000753,1557,"cytochrome P450, family 2, subfamily C, polypeptide 19",CYP2C19
+481,MGP000757,1565,"cytochrome P450, family 2, subfamily D, polypeptide 6",CYP2D6
+482,MGP000750,1551,"cytochrome P450, family 3, subfamily A, polypeptide 7",CYP3A7
+483,MGP000871,1812,dopamine receptor D1,DRD1
+484,MGP000243,486,FXYD domain containing ion transport regulator 2,FXYD2
+485,MGP001322,2902,"glutamate receptor, ionotropic, N-methyl D-aspartate 1",GRIN1
+486,MGP001323,2903,"glutamate receptor, ionotropic, N-methyl D-aspartate 2A",GRIN2A
+487,MGP006368,116443,"glutamate receptor, ionotropic, N-methyl-D-aspartate 3A",GRIN3A
+488,MGP001526,3350,"5-hydroxytryptamine (serotonin) receptor 1A, G protein-coupled",HTR1A
+489,MGP001713,3751,"potassium channel, voltage gated Shal related subfamily D, member 2",KCND2
+490,MGP005046,30819,Kv channel interacting protein 2,KCNIP2
+491,MGP001867,4128,monoamine oxidase A,MAOA
+492,MGP001868,4129,monoamine oxidase B,MAOB
+493,MGP002164,4988,"opioid receptor, mu 1",OPRM1
+494,MGP002221,5126,proprotein convertase subtilisin/kexin type 2,PCSK2
+495,MGP002369,5443,proopiomelanocortin,POMC
+496,MGP002765,6336,"sodium channel, voltage gated, type X alpha subunit",SCN10A
+497,MGP002755,6324,"sodium channel, voltage gated, type I beta subunit",SCN1B
+498,MGP002866,6530,"solute carrier family 6 (neurotransmitter transporter), member 2",SLC6A2
+499,MGP002867,6531,"solute carrier family 6 (neurotransmitter transporter), member 3",SLC6A3
+500,MGP002868,6532,"solute carrier family 6 (neurotransmitter transporter), member 4",SLC6A4
+501,MGP000031,50,"aconitase 2, mitochondrial",ACO2
+502,MGP000692,1431,citrate synthase,CS
+503,MGP000837,1737,dihydrolipoamide S-acetyltransferase,DLAT
+504,MGP000838,1738,dihydrolipoamide dehydrogenase,DLD
+505,MGP000842,1743,dihydrolipoamide S-succinyltransferase (E2 component of 2-oxo-glutarate complex),DLST
+506,MGP001080,2271,fumarate hydratase,FH
+507,MGP001554,3419,isocitrate dehydrogenase 3 (NAD+) alpha,IDH3A
+508,MGP001555,3420,isocitrate dehydrogenase 3 (NAD+) beta,IDH3B
+509,MGP001556,3421,isocitrate dehydrogenase 3 (NAD+) gamma,IDH3G
+510,MGP001556,3421,isocitrate dehydrogenase 3 (NAD+) gamma,IDH3G
+511,MGP001893,4191,"malate dehydrogenase 2, NAD (mitochondrial)",MDH2
+512,MGP005226,51660,mitochondrial pyruvate carrier 1,MPC1
+513,MGP005226,51660,mitochondrial pyruvate carrier 1,MPC1
+514,MGP002155,4967,oxoglutarate (alpha-ketoglutarate) dehydrogenase (lipoamide),OGDH
+515,MGP002206,5091,pyruvate carboxylase,PC
+516,MGP002228,5160,pyruvate dehydrogenase (lipoamide) alpha 1,PDHA1
+517,MGP002229,5162,pyruvate dehydrogenase (lipoamide) beta,PDHB
+518,MGP002797,6389,"succinate dehydrogenase complex, subunit A, flavoprotein (Fp)",SDHA
+519,MGP002798,6390,"succinate dehydrogenase complex, subunit B, iron sulfur (Ip)",SDHB
+520,MGP002799,6391,"succinate dehydrogenase complex, subunit C, integral membrane protein, 15kDa",SDHC
+521,MGP002800,6392,"succinate dehydrogenase complex, subunit D, integral membrane protein",SDHD
+522,MGP003695,8802,"succinate-CoA ligase, alpha subunit",SUCLG1
+523,MGP003694,8801,"succinate-CoA ligase, GDP-forming, beta subunit",SUCLG2
+524,MGP002268,5243,"ATP-binding cassette, sub-family B (MDR/TAP), member 1",ABCB1
+525,MGP000746,1544,"cytochrome P450, family 1, subfamily A, polypeptide 2",CYP1A2
+526,MGP000752,1555,"cytochrome P450, family 2, subfamily B, polypeptide 6",CYP2B6
+527,MGP000753,1557,"cytochrome P450, family 2, subfamily C, polypeptide 19",CYP2C19
+528,MGP000755,1559,"cytochrome P450, family 2, subfamily C, polypeptide 9",CYP2C9
+529,MGP000761,1576,"cytochrome P450, family 3, subfamily A, polypeptide 4",CYP3A4
+530,MGP000762,1577,"cytochrome P450, family 3, subfamily A, polypeptide 5",CYP3A5
+531,MGP005794,64805,"purinergic receptor P2Y, G-protein coupled, 12",P2RY12
+532,MGP002370,5444,paraoxonase 1,PON1
+533,MGP000056,108,adenylate cyclase 2 (brain),ADCY2
+534,MGP001250,2778,GNAS complex locus,GNAS
+535,MGP001250,2778,GNAS complex locus,GNAS
+536,MGP001254,2782,"guanine nucleotide binding protein (G protein), beta polypeptide 1",GNB1
+537,MGP005525,55970,"guanine nucleotide binding protein (G protein), gamma 12",GNG12
+538,MGP001879,4158,melanocortin 2 receptor (adrenocorticotropic hormone),MC2R
+539,MGP002369,5443,proopiomelanocortin,POMC
+540,MGP002415,5567,"protein kinase, cAMP-dependent, catalytic, beta",PRKACB
+541,MGP000116,216,"aldehyde dehydrogenase 1 family, member A1",ALDH1A1
+542,MGP000118,218,"aldehyde dehydrogenase 3 family, member A1",ALDH3A1
+543,MGP000748,1548,"cytochrome P450, family 2, subfamily A, polypeptide 6",CYP2A6
+544,MGP000752,1555,"cytochrome P450, family 2, subfamily B, polypeptide 6",CYP2B6
+545,MGP000753,1557,"cytochrome P450, family 2, subfamily C, polypeptide 19",CYP2C19
+546,MGP000754,1558,"cytochrome P450, family 2, subfamily C, polypeptide 8",CYP2C8
+547,MGP000755,1559,"cytochrome P450, family 2, subfamily C, polypeptide 9",CYP2C9
+548,MGP000761,1576,"cytochrome P450, family 3, subfamily A, polypeptide 4",CYP3A4
+549,MGP001352,2944,glutathione S-transferase mu 1,GSTM1
+550,MGP000412,833,cysteinyl-tRNA synthetase,CARS
+551,MGP000518,1036,cysteine dioxygenase type 1,CDO1
+552,MGP000718,1491,cystathionine gamma-lyase,CTH
+553,MGP000722,1497,"cystinosin, lysosomal cystine transporter",CTNS
+554,MGP001222,2729,"glutamate-cysteine ligase, catalytic subunit",GCLC
+555,MGP001223,2730,"glutamate-cysteine ligase, modifier subunit",GCLM
+556,MGP001270,2805,"glutamic-oxaloacetic transaminase 1, soluble",GOT1
+557,MGP006677,160287,lactate dehydrogenase A-like 6A,LDHAL6A
+558,MGP001958,4357,mercaptopyruvate sulfurtransferase,MPST
+559,MGP000425,847,catalase,CAT
+560,MGP002950,6647,"superoxide dismutase 1, soluble",SOD1
+561,MGP002951,6648,"superoxide dismutase 2, mitochondrial",SOD2
+562,MGP002952,6649,"superoxide dismutase 3, extracellular",SOD3
+563,MGP003232,7306,tyrosinase-related protein 1,TYRP1
+564,MGP000056,108,adenylate cyclase 2 (brain),ADCY2
+565,MGP000871,1812,dopamine receptor D1,DRD1
+566,MGP001250,2778,GNAS complex locus,GNAS
+567,MGP001250,2778,GNAS complex locus,GNAS
+568,MGP001254,2782,"guanine nucleotide binding protein (G protein), beta polypeptide 1",GNB1
+569,MGP005525,55970,"guanine nucleotide binding protein (G protein), gamma 12",GNG12
+570,MGP002415,5567,"protein kinase, cAMP-dependent, catalytic, beta",PRKACB
+571,MGP002268,5243,"ATP-binding cassette, sub-family B (MDR/TAP), member 1",ABCB1
+572,MGP001961,4363,"ATP-binding cassette, sub-family C (CFTR/MRP), member 1",ABCC1
+573,MGP000606,1244,"ATP-binding cassette, sub-family C (CFTR/MRP), member 2",ABCC2
+574,MGP003897,9429,"ATP-binding cassette, sub-family G (WHITE), member 2 (Junior blood group)",ABCG2
+575,MGP004200,10327,"aldo-keto reductase family 1, member A1 (aldehyde reductase)",AKR1A1
+576,MGP003628,8644,"aldo-keto reductase family 1, member C3",AKR1C3
+577,MGP000431,873,carbonyl reductase 1,CBR1
+578,MGP000432,874,carbonyl reductase 3,CBR3
+579,MGP002063,4720,"NADH dehydrogenase (ubiquinone) Fe-S protein 2, 49kDa (NADH-coenzyme Q reductase)",NDUFS2
+580,MGP002064,4722,"NADH dehydrogenase (ubiquinone) Fe-S protein 3, 30kDa (NADH-coenzyme Q reductase)",NDUFS3
+581,MGP007059,374291,"NADH dehydrogenase (ubiquinone) Fe-S protein 7, 20kDa (NADH-coenzyme Q reductase)",NDUFS7
+582,MGP002112,4846,nitric oxide synthase 3 (endothelial cell),NOS3
+583,MGP000832,1728,"NAD(P)H dehydrogenase, quinone 1",NQO1
+584,MGP002371,5447,P450 (cytochrome) oxidoreductase,POR
+585,MGP004405,10928,ralA binding protein 1,RALBP1
+586,MGP006206,85413,"solute carrier family 22 (organic cation/carnitine transporter), member 16",SLC22A16
+587,MGP003329,7498,xanthine dehydrogenase,XDH
+588,MGP000614,1277,"collagen, type I, alpha 1",COL1A1
+589,MGP001013,2159,coagulation factor X,F10
+590,MGP001014,2160,coagulation factor XI,F11
+591,MGP001015,2161,coagulation factor XII (Hageman factor),F12
+592,MGP001016,2162,"coagulation factor XIII, A1 polypeptide",F13A1
+593,MGP001017,2165,"coagulation factor XIII, B polypeptide",F13B
+594,MGP001004,2147,coagulation factor II (thrombin),F2
+595,MGP001008,2152,"coagulation factor III (thromboplastin, tissue factor)",F3
+596,MGP001009,2153,"coagulation factor V (proaccelerin, labile factor)",F5
+597,MGP001010,2155,coagulation factor VII (serum prothrombin conversion accelerator),F7
+598,MGP001011,2157,"coagulation factor VIII, procoagulant component",F8
+599,MGP001012,2158,coagulation factor IX,F9
+600,MGP001062,2243,fibrinogen alpha chain,FGA
+601,MGP001063,2244,fibrinogen beta chain,FGB
+602,MGP001078,2266,fibrinogen gamma chain,FGG
+603,MGP001194,2677,gamma-glutamyl carboxylase,GGCX
+604,MGP001768,3818,"kallikrein B, plasma (Fletcher factor) 1",KLKB1
+605,MGP002310,5327,"plasminogen activator, tissue",PLAT
+606,MGP002322,5340,plasminogen,PLG
+607,MGP002322,5340,plasminogen,PLG
+608,MGP000228,462,"serpin peptidase inhibitor, clade C (antithrombin), member 1",SERPINC1
+609,MGP005842,79001,"vitamin K epoxide reductase complex, subunit 1",VKORC1
+610,MGP002268,5243,"ATP-binding cassette, sub-family B (MDR/TAP), member 1",ABCB1
+611,MGP003897,9429,"ATP-binding cassette, sub-family G (WHITE), member 2 (Junior blood group)",ABCG2
+612,MGP000928,1956,epidermal growth factor receptor,EGFR
+613,MGP000251,495,"ATPase, H+/K+ exchanging, alpha polypeptide",ATP4A
+614,MGP000252,496,"ATPase, H+/K+ exchanging, beta polypeptide",ATP4B
+615,MGP000370,759,carbonic anhydrase I,CA1
+616,MGP000437,887,cholecystokinin B receptor,CCKBR
+617,MGP000550,1131,"cholinergic receptor, muscarinic 3",CHRM3
+618,MGP000589,1193,chloride intracellular channel 2,CLIC2
+619,MGP001114,2520,gastrin,GAST
+620,MGP001500,3274,histamine receptor H2,HRH2
+621,MGP000870,1811,"solute carrier family 26 (anion exchanger), member 3",SLC26A3
+622,MGP002995,6750,somatostatin,SST
+623,MGP002999,6754,somatostatin receptor 4,SSTR4
+624,MGP006143,84532,acyl-CoA synthetase short-chain family member 1,ACSS1
+625,MGP006143,84532,acyl-CoA synthetase short-chain family member 1,ACSS1
+626,MGP005517,55902,acyl-CoA synthetase short-chain family member 2,ACSS2
+627,MGP005517,55902,acyl-CoA synthetase short-chain family member 2,ACSS2
+628,MGP005517,55902,acyl-CoA synthetase short-chain family member 2,ACSS2
+629,MGP000067,125,"alcohol dehydrogenase 1B (class I), beta polypeptide",ADH1B
+630,MGP000119,219,"aldehyde dehydrogenase 1 family, member B1",ALDH1B1
+631,MGP000117,217,aldehyde dehydrogenase 2 family (mitochondrial),ALDH2
+632,MGP000425,847,catalase,CAT
+633,MGP000758,1571,"cytochrome P450, family 2, subfamily E, polypeptide 1",CYP2E1
+634,MGP002268,5243,"ATP-binding cassette, sub-family B (MDR/TAP), member 1",ABCB1
+635,MGP003659,8714,"ATP-binding cassette, sub-family C (CFTR/MRP), member 3",ABCC3
+636,MGP000761,1576,"cytochrome P450, family 3, subfamily A, polypeptide 4",CYP3A4
+637,MGP000762,1577,"cytochrome P450, family 3, subfamily A, polypeptide 5",CYP3A5
+638,MGP005239,51726,"DnaJ (Hsp40) homolog, subfamily B, member 11",DNAJB11
+639,MGP004417,10961,endoplasmic reticulum protein 29,ERP29
+640,MGP001516,3309,"heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa)",HSPA5
+641,MGP004274,10525,hypoxia up-regulated 1,HYOU1
+642,MGP001957,4353,myeloperoxidase,MPO
+643,MGP005786,64714,"protein disulfide isomerase family A, member 2",PDIA2
+644,MGP003954,9601,"protein disulfide isomerase family A, member 4",PDIA4
+645,MGP004137,10130,"protein disulfide isomerase family A, member 6",PDIA6
+646,MGP002384,5479,peptidylprolyl isomerase B (cyclophilin B),PPIB
+647,MGP002522,5742,prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase),PTGS1
+648,MGP002523,5743,prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase),PTGS2
+649,MGP004739,23753,stromal cell-derived factor 2-like 1,SDF2L1
+650,MGP003172,7153,topoisomerase (DNA) II alpha 170kDa,TOP2A
+651,MGP003173,7155,topoisomerase (DNA) II beta 180kDa,TOP2B
+652,MGP005314,54658,"UDP glucuronosyltransferase 1 family, polypeptide A1",UGT1A1
+653,MGP000056,108,adenylate cyclase 2 (brain),ADCY2
+654,MGP000679,1385,cAMP responsive element binding protein 1,CREB1
+655,MGP000988,2099,estrogen receptor 1,ESR1
+656,MGP001250,2778,GNAS complex locus,GNAS
+657,MGP001250,2778,GNAS complex locus,GNAS
+658,MGP001254,2782,"guanine nucleotide binding protein (G protein), beta polypeptide 1",GNB1
+659,MGP005525,55970,"guanine nucleotide binding protein (G protein), gamma 12",GNG12
+660,MGP001535,3360,"5-hydroxytryptamine (serotonin) receptor 4, G protein-coupled",HTR4
+661,MGP002388,5499,"protein phosphatase 1, catalytic subunit, alpha isozyme",PPP1CA
+662,MGP002415,5567,"protein kinase, cAMP-dependent, catalytic, beta",PRKACB
+663,MGP000056,108,adenylate cyclase 2 (brain),ADCY2
+664,MGP000679,1385,cAMP responsive element binding protein 1,CREB1
+665,MGP000988,2099,estrogen receptor 1,ESR1
+666,MGP001250,2778,GNAS complex locus,GNAS
+667,MGP001250,2778,GNAS complex locus,GNAS
+668,MGP001254,2782,"guanine nucleotide binding protein (G protein), beta polypeptide 1",GNB1
+669,MGP005525,55970,"guanine nucleotide binding protein (G protein), gamma 12",GNG12
+670,MGP001537,3362,"5-hydroxytryptamine (serotonin) receptor 6, G protein-coupled",HTR6
+671,MGP002388,5499,"protein phosphatase 1, catalytic subunit, alpha isozyme",PPP1CA
+672,MGP002415,5567,"protein kinase, cAMP-dependent, catalytic, beta",PRKACB
+673,MGP000056,108,adenylate cyclase 2 (brain),ADCY2
+674,MGP000679,1385,cAMP responsive element binding protein 1,CREB1
+675,MGP000988,2099,estrogen receptor 1,ESR1
+676,MGP001250,2778,GNAS complex locus,GNAS
+677,MGP001250,2778,GNAS complex locus,GNAS
+678,MGP001254,2782,"guanine nucleotide binding protein (G protein), beta polypeptide 1",GNB1
+679,MGP005525,55970,"guanine nucleotide binding protein (G protein), gamma 12",GNG12
+680,MGP001538,3363,"5-hydroxytryptamine (serotonin) receptor 7, adenylate cyclase-coupled",HTR7
+681,MGP002388,5499,"protein phosphatase 1, catalytic subunit, alpha isozyme",PPP1CA
+682,MGP002415,5567,"protein kinase, cAMP-dependent, catalytic, beta",PRKACB
+683,MGP000016,31,acetyl-CoA carboxylase alpha,ACACA
+684,MGP001036,2194,fatty acid synthase,FASN
+685,MGP004244,10449,acetyl-CoA acyltransferase 2,ACAA2
+686,MGP000902,1892,"enoyl CoA hydratase, short chain, 1, mitochondrial",ECHS1
+687,MGP001407,3030,"hydroxyacyl-CoA dehydrogenase/3-ketoacyl-CoA thiolase/enoyl-CoA hydratase (trifunctional protein), alpha subunit",HADHA
+688,MGP001408,3032,"hydroxyacyl-CoA dehydrogenase/3-ketoacyl-CoA thiolase/enoyl-CoA hydratase (trifunctional protein), beta subunit",HADHB
+689,MGP001405,3028,hydroxysteroid (17-beta) dehydrogenase 10,HSD17B10
+690,MGP005119,51102,mitochondrial trans-2-enoyl-CoA reductase,MECR
+691,MGP002406,5538,palmitoyl-protein thioesterase 1,PPT1
+692,MGP004244,10449,acetyl-CoA acyltransferase 2,ACAA2
+693,MGP000018,33,"acyl-CoA dehydrogenase, long chain",ACADL
+694,MGP000019,34,"acyl-CoA dehydrogenase, C-4 to C-12 straight chain",ACADM
+695,MGP000019,34,"acyl-CoA dehydrogenase, C-4 to C-12 straight chain",ACADM
+696,MGP000020,35,"acyl-CoA dehydrogenase, C-2 to C-3 short chain",ACADS
+697,MGP000021,36,"acyl-CoA dehydrogenase, short/branched chain",ACADSB
+698,MGP000022,37,"acyl-CoA dehydrogenase, very long chain",ACADVL
+699,MGP000023,38,acetyl-CoA acetyltransferase 1,ACAT1
+700,MGP001026,2180,acyl-CoA synthetase long-chain family member 1,ACSL1
+701,MGP000672,1374,carnitine palmitoyltransferase 1A (liver),CPT1A
+702,MGP000674,1376,carnitine palmitoyltransferase 2,CPT2
+703,MGP000902,1892,"enoyl CoA hydratase, short chain, 1, mitochondrial",ECHS1
+704,MGP001173,2639,glutaryl-CoA dehydrogenase,GCDH
+705,MGP001407,3030,"hydroxyacyl-CoA dehydrogenase/3-ketoacyl-CoA thiolase/enoyl-CoA hydratase (trifunctional protein), alpha subunit",HADHA
+706,MGP001408,3032,"hydroxyacyl-CoA dehydrogenase/3-ketoacyl-CoA thiolase/enoyl-CoA hydratase (trifunctional protein), beta subunit",HADHB
+707,MGP000108,207,v-akt murine thymoma viral oncogene homolog 1,AKT1
+708,MGP000343,695,Bruton agammaglobulinemia tyrosine kinase,BTK
+709,MGP000694,1437,colony stimulating factor 2 (granulocyte-macrophage),CSF2
+710,MGP001042,2205,"Fc fragment of IgE, high affinity I, receptor for; alpha polypeptide",FCER1A
+711,MGP001044,2207,"Fc fragment of IgE, high affinity I, receptor for; gamma polypeptide",FCER1G
+712,MGP001119,2534,"FYN proto-oncogene, Src family tyrosine kinase",FYN
+713,MGP004028,9846,GRB2-associated binding protein 2,GAB2
+714,MGP001308,2885,growth factor receptor-bound protein 2,GRB2
+715,MGP001497,3265,Harvey rat sarcoma viral oncogene homolog,HRAS
+716,MGP001621,3596,interleukin 13,IL13
+717,MGP001608,3562,interleukin 3,IL3
+718,MGP001610,3565,interleukin 4,IL4
+719,MGP001611,3567,interleukin 5,IL5
+720,MGP001638,3635,"inositol polyphosphate-5-phosphatase, 145kDa",INPP5D
+721,MGP001785,3845,Kirsten rat sarcoma viral oncogene homolog,KRAS
+722,MGP004907,27040,linker for activation of T cells,LAT
+723,MGP001806,3937,lymphocyte cytosolic protein 2 (SH2 domain containing leukocyte protein of 76kDa),LCP2
+724,MGP001849,4067,"LYN proto-oncogene, Src family tyrosine kinase",LYN
+725,MGP002443,5604,mitogen-activated protein kinase kinase 1,MAP2K1
+726,MGP002444,5605,mitogen-activated protein kinase kinase 2,MAP2K2
+727,MGP002445,5606,mitogen-activated protein kinase kinase 3,MAP2K3
+728,MGP002808,6416,mitogen-activated protein kinase kinase 4,MAP2K4
+729,MGP002447,5608,mitogen-activated protein kinase kinase 6,MAP2K6
+730,MGP002448,5609,mitogen-activated protein kinase kinase 7,MAP2K7
+731,MGP002435,5594,mitogen-activated protein kinase 1,MAPK1
+732,MGP000693,1432,mitogen-activated protein kinase 14,MAPK14
+733,MGP002438,5599,mitogen-activated protein kinase 8,MAPK8
+734,MGP001043,2206,"membrane-spanning 4-domains, subfamily A, member 2",MS4A2
+735,MGP002130,4893,neuroblastoma RAS viral (v-ras) oncogene homolog,NRAS
+736,MGP002230,5163,"pyruvate dehydrogenase kinase, isozyme 1",PDK1
+737,MGP002290,5290,"phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit alpha",PIK3CA
+738,MGP002294,5295,"phosphoinositide-3-kinase, regulatory subunit 1 (alpha)",PIK3R1
+739,MGP002308,5321,"phospholipase A2, group IVA (cytosolic, calcium-dependent)",PLA2G4A
+740,MGP002317,5335,"phospholipase C, gamma 1",PLCG1
+741,MGP002421,5578,"protein kinase C, alpha",PRKCA
+742,MGP002559,5879,"ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)",RAC1
+743,MGP002571,5894,"Raf-1 proto-oncogene, serine/threonine kinase",RAF1
+744,MGP002954,6654,son of sevenless homolog 1 (Drosophila),SOS1
+745,MGP003037,6850,spleen tyrosine kinase,SYK
+746,MGP003158,7124,tumor necrosis factor,TNF
+747,MGP004245,10451,vav 3 guanine nucleotide exchange factor,VAV3
+748,MGP004373,10840,"aldehyde dehydrogenase 1 family, member L1",ALDH1L1
+749,MGP000828,1719,dihydrofolate reductase,DHFR
+750,MGP001101,2356,folylpolyglutamate synthase,FPGS
+751,MGP004374,10841,formimidoyltransferase cyclodeaminase,FTCD
+752,MGP003713,8836,"gamma-glutamyl hydrolase (conjugase, folylpolygammaglutamyl hydrolase)",GGH
+753,MGP006441,123263,mitochondrial methionyl-tRNA formyltransferase,MTFMT
+754,MGP001969,4522,"methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 1, methenyltetrahydrofolate cyclohydrolase, formyltetrahydrofolate synthetase",MTHFD1
+755,MGP004778,25902,methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 1-like,MTHFD1L
+756,MGP004361,10797,"methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2, methenyltetrahydrofolate cyclohydrolase",MTHFD2
+757,MGP001970,4524,methylenetetrahydrofolate reductase (NAD(P)H),MTHFR
+758,MGP004297,10588,"5,10-methenyltetrahydrofolate synthetase (5-formyltetrahydrofolate cyclo-ligase)",MTHFS
+759,MGP006334,113235,"solute carrier family 46 (folate transporter), member 1",SLC46A1
+760,MGP000127,231,"aldo-keto reductase family 1, member B1 (aldose reductase)",AKR1B1
+761,MGP000124,226,"aldolase A, fructose-bisphosphate",ALDOA
+762,MGP000125,229,"aldolase B, fructose-bisphosphate",ALDOB
+763,MGP001041,2203,"fructose-1,6-bisphosphatase 1",FBP1
+764,MGP003690,8790,fucose-1-phosphate guanylyltransferase,FPGT
+765,MGP006743,197258,fucokinase,FUK
+766,MGP001239,2762,"GDP-mannose 4,6-dehydratase",GMDS
+767,MGP005020,29925,GDP-mannose pyrophosphorylase B,GMPPB
+768,MGP001439,3098,hexokinase 1,HK1
+769,MGP001749,3795,ketohexokinase (fructokinase),KHK
+770,MGP001955,4351,mannose phosphate isomerase,MPI
+771,MGP001955,4351,mannose phosphate isomerase,MPI
+772,MGP002251,5207,"6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 1",PFKFB1
+773,MGP002255,5211,"phosphofructokinase, liver",PFKL
+774,MGP004990,29085,phosphohistidine phosphatase 1,PHPT1
+775,MGP002341,5372,phosphomannomutase 1,PMM1
+776,MGP002953,6652,sorbitol dehydrogenase,SORD
+777,MGP003180,7167,triosephosphate isomerase 1,TPI1
+778,MGP003214,7264,tissue specific transplantation antigen P35B,TSTA3
+779,MGP000127,231,"aldo-keto reductase family 1, member B1 (aldose reductase)",AKR1B1
+780,MGP001196,2683,"UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1",B4GALT1
+781,MGP001122,2538,"glucose-6-phosphatase, catalytic subunit",G6PC
+782,MGP001126,2548,"glucosidase, alpha; acid",GAA
+783,MGP001147,2582,UDP-galactose-4-epimerase,GALE
+784,MGP001148,2584,galactokinase 1,GALK1
+785,MGP001153,2592,galactose-1-phosphate uridylyltransferase,GALT
+786,MGP001178,2645,glucokinase (hexokinase 4),GCK
+787,MGP001219,2717,"galactosidase, alpha",GLA
+788,MGP001439,3098,hexokinase 1,HK1
+789,MGP001807,3938,lactase,LCT
+790,MGP002265,5236,phosphoglucomutase 1,PGM1
+791,MGP003263,7360,UDP-glucose pyrophosphorylase 2,UGP2
+792,MGP005240,51727,"cytidine monophosphate (UMP-CMP) kinase 1, cytosolic",CMPK1
+793,MGP000725,1503,CTP synthase 1,CTPS1
+794,MGP000795,1633,deoxycytidine kinase,DCK
+795,MGP000797,1635,dCMP deaminase,DCTD
+796,MGP002104,4830,NME/NM23 nucleoside diphosphate kinase 1,NME1
+797,MGP002730,6240,ribonucleotide reductase M1,RRM1
+798,MGP002731,6241,ribonucleotide reductase M2,RRM2
+799,MGP005053,50484,ribonucleotide reductase M2 B (TP53 inducible),RRM2B
+800,MGP003816,9154,"solute carrier family 28 (concentrative nucleoside transporter), member 1",SLC28A1
+801,MGP005738,64078,"solute carrier family 28 (concentrative nucleoside transporter), member 3",SLC28A3
+802,MGP000957,2030,"solute carrier family 29 (equilibrative nucleoside transporter), member 1",SLC29A1
+803,MGP003229,7298,thymidylate synthetase,TYMS
+804,MGP000124,226,"aldolase A, fructose-bisphosphate",ALDOA
+805,MGP000331,669,"2,3-bisphosphoglycerate mutase",BPGM
+806,MGP000952,2023,"enolase 1, (alpha)",ENO1
+807,MGP001041,2203,"fructose-1,6-bisphosphatase 1",FBP1
+808,MGP001122,2538,"glucose-6-phosphatase, catalytic subunit",G6PC
+809,MGP006512,130589,galactose mutarotase (aldose 1-epimerase),GALM
+810,MGP001155,2597,glyceraldehyde-3-phosphate dehydrogenase,GAPDH
+811,MGP001280,2821,glucose-6-phosphate isomerase,GPI
+812,MGP001440,3099,hexokinase 2,HK2
+813,MGP006677,160287,lactate dehydrogenase A-like 6A,LDHAL6A
+814,MGP001893,4191,"malate dehydrogenase 2, NAD (mitochondrial)",MDH2
+815,MGP005226,51660,mitochondrial pyruvate carrier 1,MPC1
+816,MGP005226,51660,mitochondrial pyruvate carrier 1,MPC1
+817,MGP005256,53354,pantothenate kinase 1,PANK1
+818,MGP002206,5091,pyruvate carboxylase,PC
+819,MGP002213,5105,phosphoenolpyruvate carboxykinase 1 (soluble),PCK1
+820,MGP002260,5223,phosphoglycerate mutase 1 (brain),PGAM1
+821,MGP002261,5224,phosphoglycerate mutase 2 (muscle),PGAM2
+822,MGP002265,5236,phosphoglucomutase 1,PGM1
+823,MGP003545,8402,"solute carrier family 25 (mitochondrial carrier; oxoglutarate carrier), member 11",SLC25A11
+824,MGP003545,8402,"solute carrier family 25 (mitochondrial carrier; oxoglutarate carrier), member 11",SLC25A11
+825,MGP002853,6514,"solute carrier family 2 (facilitated glucose transporter), member 2",SLC2A2
+826,MGP001124,2542,"solute carrier family 37 (glucose-6-phosphate transporter), member 4",SLC37A4
+827,MGP003180,7167,triosephosphate isomerase 1,TPI1
+828,MGP001236,2746,glutamate dehydrogenase 1,GLUD1
+829,MGP001302,2875,glutamic-pyruvate transaminase (alanine aminotransferase),GPT
+830,MGP006164,84706,glutamic pyruvate transaminase (alanine aminotransferase) 2,GPT2
+831,MGP002848,6509,"solute carrier family 1 (glutamate/neutral amino acid transporter), member 4",SLC1A4
+832,MGP005911,79751,"solute carrier family 25 (mitochondrial carrier: glutamate), member 22",SLC25A22
+833,MGP002853,6514,"solute carrier family 2 (facilitated glucose transporter), member 2",SLC2A2
+834,MGP002855,6517,"solute carrier family 2 (facilitated glucose transporter), member 4",SLC2A4
+835,MGP005370,55089,"solute carrier family 38, member 4",SLC38A4
+836,MGP000006,18,4-aminobutyrate aminotransferase,ABAT
+837,MGP003635,8659,"aldehyde dehydrogenase 4 family, member A1",ALDH4A1
+838,MGP003428,7915,"aldehyde dehydrogenase 5 family, member A1",ALDH5A1
+839,MGP000391,790,"carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase",CAD
+840,MGP000671,1373,"carbamoyl-phosphate synthase 1, mitochondrial",CPS1
+841,MGP006445,124454,"glutamyl-tRNA synthetase 2, mitochondrial",EARS2
+842,MGP001143,2571,"glutamate decarboxylase 1 (brain, 67kDa)",GAD1
+843,MGP001143,2571,"glutamate decarboxylase 1 (brain, 67kDa)",GAD1
+844,MGP001222,2729,"glutamate-cysteine ligase, catalytic subunit",GCLC
+845,MGP001223,2730,"glutamate-cysteine ligase, modifier subunit",GCLM
+846,MGP001191,2673,glutamine--fructose-6-phosphate transaminase 1,GFPT1
+847,MGP004931,27165,"glutaminase 2 (liver, mitochondrial)",GLS2
+848,MGP001236,2746,glutamate dehydrogenase 1,GLUD1
+849,MGP003711,8833,guanine monphosphate synthase,GMPS
+850,MGP005799,64841,glucosamine-phosphate N-acetyltransferase 1,GNPNAT1
+851,MGP001271,2806,"glutamic-oxaloacetic transaminase 2, mitochondrial",GOT2
+852,MGP001302,2875,glutamic-pyruvate transaminase (alanine aminotransferase),GPT
+853,MGP001346,2936,glutathione reductase,GSR
+854,MGP001347,2937,glutathione synthetase,GSS
+855,MGP005393,55191,NAD synthetase 1,NADSYN1
+856,MGP005444,55577,N-acetylglucosamine kinase,NAGK
+857,MGP002379,5471,phosphoribosyl pyrophosphate amidotransferase,PPAT
+858,MGP002548,5859,glutaminyl-tRNA synthetase,QARS
+859,MGP000151,290,alanyl (membrane) aminopeptidase,ANPEP
+860,MGP000418,840,"caspase 7, apoptosis-related cysteine peptidase",CASP7
+861,MGP001222,2729,"glutamate-cysteine ligase, catalytic subunit",GCLC
+862,MGP001223,2730,"glutamate-cysteine ligase, modifier subunit",GCLM
+863,MGP005844,79017,gamma-glutamylcyclotransferase,GGCT
+864,MGP006450,124975,gamma-glutamyltransferase 6,GGT6
+865,MGP001303,2876,glutathione peroxidase 1,GPX1
+866,MGP001346,2936,glutathione reductase,GSR
+867,MGP001347,2937,glutathione synthetase,GSS
+868,MGP006392,119391,glutathione S-transferase omega 2,GSTO2
+869,MGP004892,26873,5-oxoprolinase (ATP-hydrolysing),OPLAH
+870,MGP001155,2597,glyceraldehyde-3-phosphate dehydrogenase,GAPDH
+871,MGP001278,2819,glycerol-3-phosphate dehydrogenase 1 (soluble),GPD1
+872,MGP001279,2820,glycerol-3-phosphate dehydrogenase 2 (mitochondrial),GPD2
+873,MGP004282,10554,1-acylglycerol-3-phosphate O-acyltransferase 1,AGPAT1
+874,MGP000127,231,"aldo-keto reductase family 1, member B1 (aldose reductase)",AKR1B1
+875,MGP000118,218,"aldehyde dehydrogenase 3 family, member A1",ALDH3A1
+876,MGP000782,1606,"diacylglycerol kinase, alpha 80kDa",DGKA
+877,MGP001217,2710,glycerol kinase,GK
+878,MGP006521,132158,glycerate kinase,GLYCTK
+879,MGP005663,57678,"glycerol-3-phosphate acyltransferase, mitochondrial",GPAM
+880,MGP001278,2819,glycerol-3-phosphate dehydrogenase 1 (soluble),GPD1
+881,MGP001279,2820,glycerol-3-phosphate dehydrogenase 2 (mitochondrial),GPD2
+882,MGP001824,3990,"lipase, hepatic",LIPC
+883,MGP001834,4023,lipoprotein lipase,LPL
+884,MGP003618,8611,phosphatidic acid phosphatase type 2A,PPAP2A
+885,MGP003619,8612,phosphatidic acid phosphatase type 2C,PPAP2C
+886,MGP000104,189,alanine-glyoxylate aminotransferase,AGXT
+887,MGP000111,211,5'-aminolevulinate synthase 1,ALAS1
+888,MGP000117,217,aldehyde dehydrogenase 2 family (mitochondrial),ALDH2
+889,MGP000140,275,aminomethyltransferase,AMT
+890,MGP000311,635,betaine--homocysteine S-methyltransferase,BHMT
+891,MGP000433,875,cystathionine-beta-synthase,CBS
+892,MGP000718,1491,cystathionine gamma-lyase,CTH
+893,MGP000838,1738,dihydrolipoamide dehydrogenase,DLD
+894,MGP005031,29958,dimethylglycine dehydrogenase,DMGDH
+895,MGP001154,2593,guanidinoacetate N-methyltransferase,GAMT
+896,MGP001156,2617,glycyl-tRNA synthetase,GARS
+897,MGP001166,2628,glycine amidinotransferase (L-arginine:glycine amidinotransferase),GATM
+898,MGP004680,23464,glycine C-acetyltransferase,GCAT
+899,MGP001224,2731,glycine dehydrogenase (decarboxylating),GLDC
+900,MGP006521,132158,glycerate kinase,GLYCTK
+901,MGP004940,27232,glycine N-methyltransferase,GNMT
+902,MGP001867,4128,monoamine oxidase A,MAOA
+903,MGP004825,26227,phosphoglycerate dehydrogenase,PHGDH
+904,MGP005033,29968,phosphoserine aminotransferase 1,PSAT1
+905,MGP002506,5723,phosphoserine phosphatase,PSPH
+906,MGP000844,1757,sarcosine dehydrogenase,SARDH
+907,MGP002748,6301,seryl-tRNA synthetase,SARS
+908,MGP004425,10993,serine dehydratase,SDS
+909,MGP002827,6470,serine hydroxymethyltransferase 1 (soluble),SHMT1
+910,MGP002828,6472,serine hydroxymethyltransferase 2 (mitochondrial),SHMT2
+911,MGP005723,63826,serine racemase,SRR
+912,MGP000124,226,"aldolase A, fructose-bisphosphate",ALDOA
+913,MGP000331,669,"2,3-bisphosphoglycerate mutase",BPGM
+914,MGP000952,2023,"enolase 1, (alpha)",ENO1
+915,MGP001122,2538,"glucose-6-phosphatase, catalytic subunit",G6PC
+916,MGP006512,130589,galactose mutarotase (aldose 1-epimerase),GALM
+917,MGP001155,2597,glyceraldehyde-3-phosphate dehydrogenase,GAPDH
+918,MGP001280,2821,glucose-6-phosphate isomerase,GPI
+919,MGP001440,3099,hexokinase 2,HK2
+920,MGP005256,53354,pantothenate kinase 1,PANK1
+921,MGP002256,5213,"phosphofructokinase, muscle",PFKM
+922,MGP002260,5223,phosphoglycerate mutase 1 (brain),PGAM1
+923,MGP002261,5224,phosphoglycerate mutase 2 (muscle),PGAM2
+924,MGP002303,5313,"pyruvate kinase, liver and RBC",PKLR
+925,MGP002853,6514,"solute carrier family 2 (facilitated glucose transporter), member 2",SLC2A2
+926,MGP003180,7167,triosephosphate isomerase 1,TPI1
+927,MGP000117,217,aldehyde dehydrogenase 2 family (mitochondrial),ALDH2
+928,MGP000118,218,"aldehyde dehydrogenase 3 family, member A1",ALDH3A1
+929,MGP006597,144193,amidohydrolase domain containing 1,AMDHD1
+930,MGP000012,26,"amine oxidase, copper containing 1",AOC1
+931,MGP006168,84735,carnosine dipeptidase 1 (metallopeptidase M20 family),CNDP1
+932,MGP004374,10841,formimidoyltransferase cyclodeaminase,FTCD
+933,MGP001410,3034,histidine ammonia-lyase,HAL
+934,MGP001411,3035,histidyl-tRNA synthetase,HARS
+935,MGP004672,23438,"histidyl-tRNA synthetase 2, mitochondrial",HARS2
+936,MGP001429,3067,histidine decarboxylase,HDC
+937,MGP001479,3176,histamine N-methyltransferase,HNMT
+938,MGP001867,4128,monoamine oxidase A,MAOA
+939,MGP004160,10196,protein arginine methyltransferase 3,PRMT3
+940,MGP004160,10196,protein arginine methyltransferase 3,PRMT3
+941,MGP006517,131669,urocanate hydratase 1,UROC1
+942,MGP003628,8644,"aldo-keto reductase family 1, member C3",AKR1C3
+943,MGP000128,239,arachidonate 12-lipoxygenase,ALOX12
+944,MGP000131,242,"arachidonate 12-lipoxygenase, 12R type",ALOX12B
+945,MGP000132,246,arachidonate 15-lipoxygenase,ALOX15
+946,MGP000133,247,"arachidonate 15-lipoxygenase, type B",ALOX15B
+947,MGP000129,240,arachidonate 5-lipoxygenase,ALOX5
+948,MGP000431,873,carbonyl reductase 1,CBR1
+949,MGP000752,1555,"cytochrome P450, family 2, subfamily B, polypeptide 6",CYP2B6
+950,MGP000753,1557,"cytochrome P450, family 2, subfamily C, polypeptide 19",CYP2C19
+951,MGP000754,1558,"cytochrome P450, family 2, subfamily C, polypeptide 8",CYP2C8
+952,MGP000755,1559,"cytochrome P450, family 2, subfamily C, polypeptide 9",CYP2C9
+953,MGP000758,1571,"cytochrome P450, family 2, subfamily E, polypeptide 1",CYP2E1
+954,MGP000760,1573,"cytochrome P450, family 2, subfamily J, polypeptide 2",CYP2J2
+955,MGP006338,113612,"cytochrome P450, family 2, subfamily U, polypeptide 1",CYP2U1
+956,MGP000761,1576,"cytochrome P450, family 3, subfamily A, polypeptide 4",CYP3A4
+957,MGP000763,1579,"cytochrome P450, family 4, subfamily A, polypeptide 11",CYP4A11
+958,MGP003587,8529,"cytochrome P450, family 4, subfamily F, polypeptide 2",CYP4F2
+959,MGP001842,4051,"cytochrome P450, family 4, subfamily F, polypeptide 3",CYP4F3
+960,MGP004502,11283,"cytochrome P450, family 4, subfamily F, polypeptide 8",CYP4F8
+961,MGP005239,51726,"DnaJ (Hsp40) homolog, subfamily B, member 11",DNAJB11
+962,MGP000973,2053,"epoxide hydrolase 2, cytoplasmic",EPHX2
+963,MGP004417,10961,endoplasmic reticulum protein 29,ERP29
+964,MGP006483,127281,"family with sequence similarity 213, member B",FAM213B
+965,MGP001195,2678,gamma-glutamyltransferase 1,GGT1
+966,MGP001303,2876,glutathione peroxidase 1,GPX1
+967,MGP001516,3309,"heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa)",HSPA5
+968,MGP004274,10525,hypoxia up-regulated 1,HYOU1
+969,MGP001841,4048,leukotriene A4 hydrolase,LTA4H
+970,MGP001845,4056,leukotriene C4 synthase,LTC4S
+971,MGP005786,64714,"protein disulfide isomerase family A, member 2",PDIA2
+972,MGP003954,9601,"protein disulfide isomerase family A, member 4",PDIA4
+973,MGP004137,10130,"protein disulfide isomerase family A, member 6",PDIA6
+974,MGP007281,100137049,"phospholipase A2, group IVB (cytosolic)",PLA2G4B
+975,MGP002384,5479,peptidylprolyl isomerase B (cyclophilin B),PPIB
+976,MGP002513,5730,prostaglandin D2 synthase 21kDa (brain),PTGDS
+977,MGP003941,9536,prostaglandin E synthase,PTGES
+978,MGP002520,5740,prostaglandin I2 (prostacyclin) synthase,PTGIS
+979,MGP002522,5742,prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase),PTGS1
+980,MGP002523,5743,prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase),PTGS2
+981,MGP004739,23753,stromal cell-derived factor 2-like 1,SDF2L1
+982,MGP003876,9356,"solute carrier family 22 (organic anion transporter), member 6",SLC22A6
+983,MGP003879,9376,"solute carrier family 22 (organic anion transporter), member 8",SLC22A8
+984,MGP003077,6916,thromboxane A synthase 1 (platelet),TBXAS1
+985,MGP005314,54658,"UDP glucuronosyltransferase 1 family, polypeptide A1",UGT1A1
+986,MGP005305,54575,"UDP glucuronosyltransferase 1 family, polypeptide A10",UGT1A10
+987,MGP005315,54659,"UDP glucuronosyltransferase 1 family, polypeptide A3",UGT1A3
+988,MGP005312,54600,"UDP glucuronosyltransferase 1 family, polypeptide A9",UGT1A9
+989,MGP003264,7363,"UDP glucuronosyltransferase 2 family, polypeptide B4",UGT2B4
+990,MGP003265,7364,"UDP glucuronosyltransferase 2 family, polypeptide B7",UGT2B7
+991,MGP003628,8644,"aldo-keto reductase family 1, member C3",AKR1C3
+992,MGP000128,239,arachidonate 12-lipoxygenase,ALOX12
+993,MGP000131,242,"arachidonate 12-lipoxygenase, 12R type",ALOX12B
+994,MGP000132,246,arachidonate 15-lipoxygenase,ALOX15
+995,MGP000133,247,"arachidonate 15-lipoxygenase, type B",ALOX15B
+996,MGP000129,240,arachidonate 5-lipoxygenase,ALOX5
+997,MGP000431,873,carbonyl reductase 1,CBR1
+998,MGP000752,1555,"cytochrome P450, family 2, subfamily B, polypeptide 6",CYP2B6
+999,MGP000754,1558,"cytochrome P450, family 2, subfamily C, polypeptide 8",CYP2C8
+1000,MGP000758,1571,"cytochrome P450, family 2, subfamily E, polypeptide 1",CYP2E1
+1001,MGP000760,1573,"cytochrome P450, family 2, subfamily J, polypeptide 2",CYP2J2
+1002,MGP006338,113612,"cytochrome P450, family 2, subfamily U, polypeptide 1",CYP2U1
+1003,MGP000763,1579,"cytochrome P450, family 4, subfamily A, polypeptide 11",CYP4A11
+1004,MGP003587,8529,"cytochrome P450, family 4, subfamily F, polypeptide 2",CYP4F2
+1005,MGP001842,4051,"cytochrome P450, family 4, subfamily F, polypeptide 3",CYP4F3
+1006,MGP004502,11283,"cytochrome P450, family 4, subfamily F, polypeptide 8",CYP4F8
+1007,MGP000973,2053,"epoxide hydrolase 2, cytoplasmic",EPHX2
+1008,MGP006483,127281,"family with sequence similarity 213, member B",FAM213B
+1009,MGP001195,2678,gamma-glutamyltransferase 1,GGT1
+1010,MGP001303,2876,glutathione peroxidase 1,GPX1
+1011,MGP001841,4048,leukotriene A4 hydrolase,LTA4H
+1012,MGP001845,4056,leukotriene C4 synthase,LTC4S
+1013,MGP002307,5320,"phospholipase A2, group IIA (platelets, synovial fluid)",PLA2G2A
+1014,MGP007281,100137049,"phospholipase A2, group IVB (cytosolic)",PLA2G4B
+1015,MGP002513,5730,prostaglandin D2 synthase 21kDa (brain),PTGDS
+1016,MGP003941,9536,prostaglandin E synthase,PTGES
+1017,MGP002520,5740,prostaglandin I2 (prostacyclin) synthase,PTGIS
+1018,MGP002522,5742,prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase),PTGS1
+1019,MGP002523,5743,prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase),PTGS2
+1020,MGP003077,6916,thromboxane A synthase 1 (platelet),TBXAS1
+1021,MGP005453,55626,autophagy/beclin-1 regulator 1,AMBRA1
+1022,MGP003648,8678,"beclin 1, autophagy related",BECN1
+1023,MGP004042,9896,FIG4 phosphoinositide 5-phosphatase,FIG4
+1024,MGP001624,3612,inositol(myo)-1(or 4)-monophosphatase 1,IMPA1
+1025,MGP001633,3628,inositol polyphosphate-1-phosphatase,INPP1
+1026,MGP001635,3631,"inositol polyphosphate-4-phosphatase, type I, 107kDa",INPP4A
+1027,MGP004922,27124,inositol polyphosphate-5-phosphatase J,INPP5J
+1028,MGP006863,253430,inositol polyphosphate multikinase,IPMK
+1029,MGP005788,64768,"inositol 1,3,4,5,6-pentakisphosphate 2-kinase",IPPK
+1030,MGP005194,51477,inositol-3-phosphate synthase 1,ISYNA1
+1031,MGP001683,3705,inositol-tetrakisphosphate 1-kinase,ITPK1
+1032,MGP001684,3706,inositol-trisphosphate 3-kinase A,ITPKA
+1033,MGP003947,9562,multiple inositol-polyphosphate phosphatase 1,MINPP1
+1034,MGP005448,55586,myo-inositol oxygenase,MIOX
+1035,MGP002296,5297,"phosphatidylinositol 4-kinase, catalytic, alpha",PI4KA
+1036,MGP002289,5289,"phosphatidylinositol 3-kinase, catalytic subunit type 3",PIK3C3
+1037,MGP002290,5290,"phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit alpha",PIK3CA
+1038,MGP005051,30849,"phosphoinositide-3-kinase, regulatory subunit 4",PIK3R4
+1039,MGP006751,200576,"phosphoinositide kinase, FYVE finger containing",PIKFYVE
+1040,MGP006329,113026,"phospholipase C, delta 3",PLCD3
+1041,MGP006350,114971,"protein tyrosine phosphatase, mitochondrial 1",PTPMT1
+1042,MGP005470,55697,Vac14 homolog (S. cerevisiae),VAC14
+1043,MGP001624,3612,inositol(myo)-1(or 4)-monophosphatase 1,IMPA1
+1044,MGP001633,3628,inositol polyphosphate-1-phosphatase,INPP1
+1045,MGP001635,3631,"inositol polyphosphate-4-phosphatase, type I, 107kDa",INPP4A
+1046,MGP003704,8821,"inositol polyphosphate-4-phosphatase, type II, 105kDa",INPP4B
+1047,MGP004922,27124,inositol polyphosphate-5-phosphatase J,INPP5J
+1048,MGP004016,9807,inositol hexakisphosphate kinase 1,IP6K1
+1049,MGP006863,253430,inositol polyphosphate multikinase,IPMK
+1050,MGP005788,64768,"inositol 1,3,4,5,6-pentakisphosphate 2-kinase",IPPK
+1051,MGP005194,51477,inositol-3-phosphate synthase 1,ISYNA1
+1052,MGP001683,3705,inositol-tetrakisphosphate 1-kinase,ITPK1
+1053,MGP001684,3706,inositol-trisphosphate 3-kinase A,ITPKA
+1054,MGP003947,9562,multiple inositol-polyphosphate phosphatase 1,MINPP1
+1055,MGP004469,11165,nudix (nucleoside diphosphate linked moiety X)-type motif 3,NUDT3
+1056,MGP003978,9677,diphosphoinositol pentakisphosphate kinase 1,PPIP5K1
+1057,MGP000108,207,v-akt murine thymoma viral oncogene homolog 1,AKT1
+1058,MGP001308,2885,growth factor receptor-bound protein 2,GRB2
+1059,MGP001497,3265,Harvey rat sarcoma viral oncogene homolog,HRAS
+1060,MGP001634,3630,insulin,INS
+1061,MGP001643,3643,insulin receptor,INSR
+1062,MGP001656,3667,insulin receptor substrate 1,IRS1
+1063,MGP002443,5604,mitogen-activated protein kinase kinase 1,MAP2K1
+1064,MGP002444,5605,mitogen-activated protein kinase kinase 2,MAP2K2
+1065,MGP002435,5594,mitogen-activated protein kinase 1,MAPK1
+1066,MGP002235,5170,3-phosphoinositide dependent protein kinase 1,PDPK1
+1067,MGP002293,5294,"phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit gamma",PIK3CG
+1068,MGP006612,146850,"phosphoinositide-3-kinase, regulatory subunit 6",PIK3R6
+1069,MGP002571,5894,"Raf-1 proto-oncogene, serine/threonine kinase",RAF1
+1070,MGP002824,6464,SHC (Src homology 2 domain containing) transforming protein 1,SHC1
+1071,MGP002855,6517,"solute carrier family 2 (facilitated glucose transporter), member 4",SLC2A4
+1072,MGP002954,6654,son of sevenless homolog 1 (Drosophila),SOS1
+1073,MGP000056,108,adenylate cyclase 2 (brain),ADCY2
+1074,MGP000075,135,adenosine A2a receptor,ADORA2A
+1075,MGP000108,207,v-akt murine thymoma viral oncogene homolog 1,AKT1
+1076,MGP003726,8874,Rho guanine nucleotide exchange factor (GEF) 7,ARHGEF7
+1077,MGP000680,1386,activating transcription factor 2,ATF2
+1078,MGP000286,572,BCL2-associated agonist of cell death,BAD
+1079,MGP000333,673,"B-Raf proto-oncogene, serine/threonine kinase",BRAF
+1080,MGP000488,998,cell division cycle 42,CDC42
+1081,MGP000565,1147,conserved helix-loop-helix ubiquitous kinase,CHUK
+1082,MGP000679,1385,cAMP responsive element binding protein 1,CREB1
+1083,MGP000948,2002,"ELK1, member of ETS oncogene family",ELK1
+1084,MGP001250,2778,GNAS complex locus,GNAS
+1085,MGP001250,2778,GNAS complex locus,GNAS
+1086,MGP001254,2782,"guanine nucleotide binding protein (G protein), beta polypeptide 1",GNB1
+1087,MGP005525,55970,"guanine nucleotide binding protein (G protein), gamma 12",GNG12
+1088,MGP001497,3265,Harvey rat sarcoma viral oncogene homolog,HRAS
+1089,MGP001599,3551,"inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta",IKBKB
+1090,MGP001695,3725,jun proto-oncogene,JUN
+1091,MGP002444,5605,mitogen-activated protein kinase kinase 2,MAP2K2
+1092,MGP002447,5608,mitogen-activated protein kinase kinase 6,MAP2K6
+1093,MGP002448,5609,mitogen-activated protein kinase kinase 7,MAP2K7
+1094,MGP001903,4214,"mitogen-activated protein kinase kinase kinase 1, E3 ubiquitin protein ligase",MAP3K1
+1095,MGP001905,4216,mitogen-activated protein kinase kinase kinase 4,MAP3K4
+1096,MGP001905,4216,mitogen-activated protein kinase kinase kinase 4,MAP3K4
+1097,MGP002435,5594,mitogen-activated protein kinase 1,MAPK1
+1098,MGP002439,5600,mitogen-activated protein kinase 11,MAPK11
+1099,MGP002438,5599,mitogen-activated protein kinase 8,MAPK8
+1100,MGP002088,4790,nuclear factor of kappa light polypeptide gene enhancer in B-cells 1,NFKB1
+1101,MGP002089,4791,nuclear factor of kappa light polypeptide gene enhancer in B-cells 2 (p49/p100),NFKB2
+1102,MGP002090,4792,"nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha",NFKBIA
+1103,MGP002197,5058,p21 protein (Cdc42/Rac)-activated kinase 1,PAK1
+1104,MGP005087,50855,par-6 family cell polarity regulator alpha,PARD6A
+1105,MGP002235,5170,3-phosphoinositide dependent protein kinase 1,PDPK1
+1106,MGP002290,5290,"phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit alpha",PIK3CA
+1107,MGP002415,5567,"protein kinase, cAMP-dependent, catalytic, beta",PRKACB
+1108,MGP002431,5590,"protein kinase C, zeta",PRKCZ
+1109,MGP002579,5906,"RAP1A, member of RAS oncogene family",RAP1A
+1110,MGP003983,9693,Rap guanine nucleotide exchange factor (GEF) 2,RAPGEF2
+1111,MGP004230,10411,Rap guanine nucleotide exchange factor (GEF) 3,RAPGEF3
+1112,MGP004230,10411,Rap guanine nucleotide exchange factor (GEF) 3,RAPGEF3
+1113,MGP002700,6195,"ribosomal protein S6 kinase, 90kDa, polypeptide 1",RPS6KA1
+1114,MGP000056,108,adenylate cyclase 2 (brain),ADCY2
+1115,MGP000076,136,adenosine A2b receptor,ADORA2B
+1116,MGP000108,207,v-akt murine thymoma viral oncogene homolog 1,AKT1
+1117,MGP003726,8874,Rho guanine nucleotide exchange factor (GEF) 7,ARHGEF7
+1118,MGP000680,1386,activating transcription factor 2,ATF2
+1119,MGP000286,572,BCL2-associated agonist of cell death,BAD
+1120,MGP000333,673,"B-Raf proto-oncogene, serine/threonine kinase",BRAF
+1121,MGP000488,998,cell division cycle 42,CDC42
+1122,MGP000565,1147,conserved helix-loop-helix ubiquitous kinase,CHUK
+1123,MGP000679,1385,cAMP responsive element binding protein 1,CREB1
+1124,MGP000948,2002,"ELK1, member of ETS oncogene family",ELK1
+1125,MGP001250,2778,GNAS complex locus,GNAS
+1126,MGP001250,2778,GNAS complex locus,GNAS
+1127,MGP001254,2782,"guanine nucleotide binding protein (G protein), beta polypeptide 1",GNB1
+1128,MGP005525,55970,"guanine nucleotide binding protein (G protein), gamma 12",GNG12
+1129,MGP001497,3265,Harvey rat sarcoma viral oncogene homolog,HRAS
+1130,MGP001599,3551,"inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta",IKBKB
+1131,MGP001695,3725,jun proto-oncogene,JUN
+1132,MGP002444,5605,mitogen-activated protein kinase kinase 2,MAP2K2
+1133,MGP002447,5608,mitogen-activated protein kinase kinase 6,MAP2K6
+1134,MGP002448,5609,mitogen-activated protein kinase kinase 7,MAP2K7
+1135,MGP001903,4214,"mitogen-activated protein kinase kinase kinase 1, E3 ubiquitin protein ligase",MAP3K1
+1136,MGP001905,4216,mitogen-activated protein kinase kinase kinase 4,MAP3K4
+1137,MGP001905,4216,mitogen-activated protein kinase kinase kinase 4,MAP3K4
+1138,MGP002435,5594,mitogen-activated protein kinase 1,MAPK1
+1139,MGP002439,5600,mitogen-activated protein kinase 11,MAPK11
+1140,MGP002438,5599,mitogen-activated protein kinase 8,MAPK8
+1141,MGP002088,4790,nuclear factor of kappa light polypeptide gene enhancer in B-cells 1,NFKB1
+1142,MGP002089,4791,nuclear factor of kappa light polypeptide gene enhancer in B-cells 2 (p49/p100),NFKB2
+1143,MGP002090,4792,"nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha",NFKBIA
+1144,MGP002197,5058,p21 protein (Cdc42/Rac)-activated kinase 1,PAK1
+1145,MGP005087,50855,par-6 family cell polarity regulator alpha,PARD6A
+1146,MGP002235,5170,3-phosphoinositide dependent protein kinase 1,PDPK1
+1147,MGP002290,5290,"phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit alpha",PIK3CA
+1148,MGP002415,5567,"protein kinase, cAMP-dependent, catalytic, beta",PRKACB
+1149,MGP002431,5590,"protein kinase C, zeta",PRKCZ
+1150,MGP002579,5906,"RAP1A, member of RAS oncogene family",RAP1A
+1151,MGP003983,9693,Rap guanine nucleotide exchange factor (GEF) 2,RAPGEF2
+1152,MGP004230,10411,Rap guanine nucleotide exchange factor (GEF) 3,RAPGEF3
+1153,MGP004230,10411,Rap guanine nucleotide exchange factor (GEF) 3,RAPGEF3
+1154,MGP002700,6195,"ribosomal protein S6 kinase, 90kDa, polypeptide 1",RPS6KA1
+1155,MGP000056,108,adenylate cyclase 2 (brain),ADCY2
+1156,MGP000534,1081,"glycoprotein hormones, alpha polypeptide",CGA
+1157,MGP000679,1385,cAMP responsive element binding protein 1,CREB1
+1158,MGP000988,2099,estrogen receptor 1,ESR1
+1159,MGP001107,2488,"follicle stimulating hormone, beta polypeptide",FSHB
+1160,MGP001109,2492,follicle stimulating hormone receptor,FSHR
+1161,MGP001250,2778,GNAS complex locus,GNAS
+1162,MGP001250,2778,GNAS complex locus,GNAS
+1163,MGP001254,2782,"guanine nucleotide binding protein (G protein), beta polypeptide 1",GNB1
+1164,MGP005525,55970,"guanine nucleotide binding protein (G protein), gamma 12",GNG12
+1165,MGP002388,5499,"protein phosphatase 1, catalytic subunit, alpha isozyme",PPP1CA
+1166,MGP002415,5567,"protein kinase, cAMP-dependent, catalytic, beta",PRKACB
+1167,MGP000056,108,adenylate cyclase 2 (brain),ADCY2
+1168,MGP000534,1081,"glycoprotein hormones, alpha polypeptide",CGA
+1169,MGP000679,1385,cAMP responsive element binding protein 1,CREB1
+1170,MGP000988,2099,estrogen receptor 1,ESR1
+1171,MGP001250,2778,GNAS complex locus,GNAS
+1172,MGP001250,2778,GNAS complex locus,GNAS
+1173,MGP001254,2782,"guanine nucleotide binding protein (G protein), beta polypeptide 1",GNB1
+1174,MGP005525,55970,"guanine nucleotide binding protein (G protein), gamma 12",GNG12
+1175,MGP001814,3972,luteinizing hormone beta polypeptide,LHB
+1176,MGP001815,3973,luteinizing hormone/choriogonadotropin receptor,LHCGR
+1177,MGP002388,5499,"protein phosphatase 1, catalytic subunit, alpha isozyme",PPP1CA
+1178,MGP002415,5567,"protein kinase, cAMP-dependent, catalytic, beta",PRKACB
+1179,MGP000056,108,adenylate cyclase 2 (brain),ADCY2
+1180,MGP001250,2778,GNAS complex locus,GNAS
+1181,MGP001250,2778,GNAS complex locus,GNAS
+1182,MGP001254,2782,"guanine nucleotide binding protein (G protein), beta polypeptide 1",GNB1
+1183,MGP005525,55970,"guanine nucleotide binding protein (G protein), gamma 12",GNG12
+1184,MGP002415,5567,"protein kinase, cAMP-dependent, catalytic, beta",PRKACB
+1185,MGP002512,5729,prostaglandin D2 receptor (DP),PTGDR
+1186,MGP000056,108,adenylate cyclase 2 (brain),ADCY2
+1187,MGP001250,2778,GNAS complex locus,GNAS
+1188,MGP001250,2778,GNAS complex locus,GNAS
+1189,MGP001254,2782,"guanine nucleotide binding protein (G protein), beta polypeptide 1",GNB1
+1190,MGP005525,55970,"guanine nucleotide binding protein (G protein), gamma 12",GNG12
+1191,MGP002014,4634,"myosin, light chain 3, alkali; ventricular, skeletal, slow",MYL3
+1192,MGP002017,4638,myosin light chain kinase,MYLK
+1193,MGP002415,5567,"protein kinase, cAMP-dependent, catalytic, beta",PRKACB
+1194,MGP002519,5739,prostaglandin I2 (prostacyclin) receptor (IP),PTGIR
+1195,MGP002268,5243,"ATP-binding cassette, sub-family B (MDR/TAP), member 1",ABCB1
+1196,MGP001961,4363,"ATP-binding cassette, sub-family C (CFTR/MRP), member 1",ABCC1
+1197,MGP000606,1244,"ATP-binding cassette, sub-family C (CFTR/MRP), member 2",ABCC2
+1198,MGP003897,9429,"ATP-binding cassette, sub-family G (WHITE), member 2 (Junior blood group)",ABCG2
+1199,MGP000294,590,butyrylcholinesterase,BCHE
+1200,MGP000528,1066,carboxylesterase 1,CES1
+1201,MGP003706,8824,carboxylesterase 2,CES2
+1202,MGP000761,1576,"cytochrome P450, family 3, subfamily A, polypeptide 4",CYP3A4
+1203,MGP000762,1577,"cytochrome P450, family 3, subfamily A, polypeptide 5",CYP3A5
+1204,MGP005239,51726,"DnaJ (Hsp40) homolog, subfamily B, member 11",DNAJB11
+1205,MGP004417,10961,endoplasmic reticulum protein 29,ERP29
+1206,MGP001516,3309,"heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa)",HSPA5
+1207,MGP004274,10525,hypoxia up-regulated 1,HYOU1
+1208,MGP005786,64714,"protein disulfide isomerase family A, member 2",PDIA2
+1209,MGP003954,9601,"protein disulfide isomerase family A, member 4",PDIA4
+1210,MGP004137,10130,"protein disulfide isomerase family A, member 6",PDIA6
+1211,MGP002384,5479,peptidylprolyl isomerase B (cyclophilin B),PPIB
+1212,MGP004739,23753,stromal cell-derived factor 2-like 1,SDF2L1
+1213,MGP004301,10599,"solute carrier organic anion transporter family, member 1B1",SLCO1B1
+1214,MGP003171,7150,topoisomerase (DNA) I,TOP1
+1215,MGP005314,54658,"UDP glucuronosyltransferase 1 family, polypeptide A1",UGT1A1
+1216,MGP005305,54575,"UDP glucuronosyltransferase 1 family, polypeptide A10",UGT1A10
+1217,MGP005312,54600,"UDP glucuronosyltransferase 1 family, polypeptide A9",UGT1A9
+1218,MGP000023,38,acetyl-CoA acetyltransferase 1,ACAT1
+1219,MGP000305,622,"3-hydroxybutyrate dehydrogenase, type 1",BDH1
+1220,MGP001465,3155,3-hydroxymethyl-3-methylglutaryl-CoA lyase,HMGCL
+1221,MGP001468,3158,3-hydroxy-3-methylglutaryl-CoA synthase 2 (mitochondrial),HMGCS2
+1222,MGP002179,5019,3-oxoacid CoA transferase 1,OXCT1
+1223,MGP000181,358,aquaporin 1 (Colton blood group),AQP1
+1224,MGP000182,359,aquaporin 2 (collecting duct),AQP2
+1225,MGP000183,360,aquaporin 3 (Gill blood group),AQP3
+1226,MGP000235,476,"ATPase, Na+/K+ transporting, alpha 1 polypeptide",ATP1A1
+1227,MGP000236,477,"ATPase, Na+/K+ transporting, alpha 2 polypeptide",ATP1A2
+1228,MGP000237,478,"ATPase, Na+/K+ transporting, alpha 3 polypeptide",ATP1A3
+1229,MGP000239,480,"ATPase, Na+/K+ transporting, alpha 4 polypeptide",ATP1A4
+1230,MGP000240,481,"ATPase, Na+/K+ transporting, beta 1 polypeptide",ATP1B1
+1231,MGP000241,482,"ATPase, Na+/K+ transporting, beta 2 polypeptide",ATP1B2
+1232,MGP000242,483,"ATPase, Na+/K+ transporting, beta 3 polypeptide",ATP1B3
+1233,MGP000586,1187,"chloride channel, voltage-sensitive Ka",CLCNKA
+1234,MGP000243,486,FXYD domain containing ion transport regulator 2,FXYD2
+1235,MGP001932,4306,"nuclear receptor subfamily 3, group C, member 2",NR3C2
+1236,MGP002766,6337,"sodium channel, non voltage gated 1 alpha subunit",SCNN1A
+1237,MGP002767,6338,"sodium channel, non voltage gated 1 beta subunit",SCNN1B
+1238,MGP002768,6339,"sodium channel, non voltage gated 1 delta subunit",SCNN1D
+1239,MGP002769,6340,"sodium channel, non voltage gated 1 gamma subunit",SCNN1G
+1240,MGP002888,6557,"solute carrier family 12 (sodium/potassium/chloride transporter), member 1",SLC12A1
+1241,MGP002890,6559,"solute carrier family 12 (sodium/chloride transporter), member 3",SLC12A3
+1242,MGP004077,9990,"solute carrier family 12 (potassium/chloride transporter), member 6",SLC12A6
+1243,MGP004077,9990,"solute carrier family 12 (potassium/chloride transporter), member 6",SLC12A6
+1244,MGP003463,8170,"solute carrier family 14 (urea transporter), member 2",SLC14A2
+1245,MGP002844,6505,"solute carrier family 1 (neuronal/epithelial high affinity glutamate transporter, system Xag), member 1",SLC1A1
+1246,MGP002910,6582,"solute carrier family 22 (organic cation transporter), member 2",SLC22A2
+1247,MGP003876,9356,"solute carrier family 22 (organic anion transporter), member 6",SLC22A6
+1248,MGP005370,55089,"solute carrier family 38, member 4",SLC38A4
+1249,MGP002857,6519,"solute carrier family 3 (amino acid transporter heavy chain), member 1",SLC3A1
+1250,MGP002858,6520,"solute carrier family 3 (amino acid transporter heavy chain), member 2",SLC3A2
+1251,MGP005320,54716,"solute carrier family 6 (proline IMINO transporter), member 20",SLC6A20
+1252,MGP003461,8140,"solute carrier family 7 (amino acid transporter light chain, L system), member 5",SLC7A5
+1253,MGP003785,9057,"solute carrier family 7 (amino acid transporter light chain, y+L system), member 6",SLC7A6
+1254,MGP003784,9056,"solute carrier family 7 (amino acid transporter light chain, y+L system), member 7",SLC7A7
+1255,MGP004668,23428,"solute carrier family 7 (amino acid transporter light chain, L system), member 8",SLC7A8
+1256,MGP004668,23428,"solute carrier family 7 (amino acid transporter light chain, L system), member 8",SLC7A8
+1257,MGP004461,11136,"solute carrier family 7 (amino acid transporter light chain, bo,+ system), member 9",SLC7A9
+1258,MGP000235,476,"ATPase, Na+/K+ transporting, alpha 1 polypeptide",ATP1A1
+1259,MGP000236,477,"ATPase, Na+/K+ transporting, alpha 2 polypeptide",ATP1A2
+1260,MGP000237,478,"ATPase, Na+/K+ transporting, alpha 3 polypeptide",ATP1A3
+1261,MGP000239,480,"ATPase, Na+/K+ transporting, alpha 4 polypeptide",ATP1A4
+1262,MGP000240,481,"ATPase, Na+/K+ transporting, beta 1 polypeptide",ATP1B1
+1263,MGP000241,482,"ATPase, Na+/K+ transporting, beta 2 polypeptide",ATP1B2
+1264,MGP000242,483,"ATPase, Na+/K+ transporting, beta 3 polypeptide",ATP1B3
+1265,MGP000243,486,FXYD domain containing ion transport regulator 2,FXYD2
+1266,MGP001807,3938,lactase,LCT
+1267,MGP002853,6514,"solute carrier family 2 (facilitated glucose transporter), member 2",SLC2A2
+1268,MGP002861,6523,"solute carrier family 5 (sodium/glucose cotransporter), member 1",SLC5A1
+1269,MGP001196,2683,"UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1",B4GALT1
+1270,MGP006447,124583,calcium activated nucleotidase 1,CANT1
+1271,MGP005240,51727,"cytidine monophosphate (UMP-CMP) kinase 1, cytosolic",CMPK1
+1272,MGP001122,2538,"glucose-6-phosphatase, catalytic subunit",G6PC
+1273,MGP001153,2592,galactose-1-phosphate uridylyltransferase,GALT
+1274,MGP001789,3906,"lactalbumin, alpha-",LALBA
+1275,MGP002105,4831,NME/NM23 nucleoside diphosphate kinase 2,NME2
+1276,MGP002852,6513,"solute carrier family 2 (facilitated glucose transporter), member 1",SLC2A1
+1277,MGP003263,7360,UDP-glucose pyrophosphorylase 2,UGP2
+1278,MGP002268,5243,"ATP-binding cassette, sub-family B (MDR/TAP), member 1",ABCB1
+1279,MGP001961,4363,"ATP-binding cassette, sub-family C (CFTR/MRP), member 1",ABCC1
+1280,MGP000606,1244,"ATP-binding cassette, sub-family C (CFTR/MRP), member 2",ABCC2
+1281,MGP003659,8714,"ATP-binding cassette, sub-family C (CFTR/MRP), member 3",ABCC3
+1282,MGP004181,10257,"ATP-binding cassette, sub-family C (CFTR/MRP), member 4",ABCC4
+1283,MGP003897,9429,"ATP-binding cassette, sub-family G (WHITE), member 2 (Junior blood group)",ABCG2
+1284,MGP005582,56994,choline phosphotransferase 1,CHPT1
+1285,MGP005240,51727,"cytidine monophosphate (UMP-CMP) kinase 1, cytosolic",CMPK1
+1286,MGP000795,1633,deoxycytidine kinase,DCK
+1287,MGP002104,4830,NME/NM23 nucleoside diphosphate kinase 1,NME1
+1288,MGP002222,5130,"phosphate cytidylyltransferase 1, choline, alpha",PCYT1A
+1289,MGP002544,5833,"phosphate cytidylyltransferase 2, ethanolamine",PCYT2
+1290,MGP002264,5230,phosphoglycerate kinase 1,PGK1
+1291,MGP002908,6580,"solute carrier family 22 (organic cation transporter), member 1",SLC22A1
+1292,MGP002910,6582,"solute carrier family 22 (organic cation transporter), member 2",SLC22A2
+1293,MGP002909,6581,"solute carrier family 22 (organic cation transporter), member 3",SLC22A3
+1294,MGP003020,6817,"sulfotransferase family, cytosolic, 1A, phenol-preferring, member 1",SULT1A1
+1295,MGP000108,207,v-akt murine thymoma viral oncogene homolog 1,AKT1
+1296,MGP000940,1977,eukaryotic translation initiation factor 4E,EIF4E
+1297,MGP000941,1978,eukaryotic translation initiation factor 4E binding protein 1,EIF4EBP1
+1298,MGP001634,3630,insulin,INS
+1299,MGP001643,3643,insulin receptor,INSR
+1300,MGP001656,3667,insulin receptor substrate 1,IRS1
+1301,MGP001106,2475,mechanistic target of rapamycin (serine/threonine kinase),MTOR
+1302,MGP002293,5294,"phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit gamma",PIK3CG
+1303,MGP006612,146850,"phosphoinositide-3-kinase, regulatory subunit 6",PIK3R6
+1304,MGP002625,6009,Ras homolog enriched in brain,RHEB
+1305,MGP002703,6198,"ribosomal protein S6 kinase, 70kDa, polypeptide 1",RPS6KB1
+1306,MGP003461,8140,"solute carrier family 7 (amino acid transporter light chain, L system), member 5",SLC7A5
+1307,MGP003207,7248,tuberous sclerosis 1,TSC1
+1308,MGP003207,7248,tuberous sclerosis 1,TSC1
+1309,MGP003207,7248,tuberous sclerosis 1,TSC1
+1310,MGP003208,7249,tuberous sclerosis 2,TSC2
+1311,MGP005134,51166,aminoadipate aminotransferase,AADAT
+1312,MGP004145,10157,aminoadipate-semialdehyde synthase,AASS
+1313,MGP000023,38,acetyl-CoA acetyltransferase 1,ACAT1
+1314,MGP000254,501,"aldehyde dehydrogenase 7 family, member A1",ALDH7A1
+1315,MGP005438,55526,dehydrogenase E1 and transketolase domain containing 1,DHTKD1
+1316,MGP000838,1738,dihydrolipoamide dehydrogenase,DLD
+1317,MGP000842,1743,dihydrolipoamide S-succinyltransferase (E2 component of 2-oxo-glutarate complex),DLST
+1318,MGP000902,1892,"enoyl CoA hydratase, short chain, 1, mitochondrial",ECHS1
+1319,MGP001173,2639,glutaryl-CoA dehydrogenase,GCDH
+1320,MGP001409,3033,hydroxyacyl-CoA dehydrogenase,HADH
+1321,MGP005149,51268,pipecolic acid oxidase,PIPOX
+1322,MGP006091,83884,solute carrier family 25 (mitochondrial carrier; ornithine transporter) member 2,SLC25A2
+1323,MGP002877,6542,"solute carrier family 7 (cationic amino acid transporter, y+ system), member 2",SLC7A2
+1324,MGP001271,2806,"glutamic-oxaloacetic transaminase 2, mitochondrial",GOT2
+1325,MGP001893,4191,"malate dehydrogenase 2, NAD (mitochondrial)",MDH2
+1326,MGP003545,8402,"solute carrier family 25 (mitochondrial carrier; oxoglutarate carrier), member 11",SLC25A11
+1327,MGP003545,8402,"solute carrier family 25 (mitochondrial carrier; oxoglutarate carrier), member 11",SLC25A11
+1328,MGP003614,8604,"solute carrier family 25 (aspartate/glutamate carrier), member 12",SLC25A12
+1329,MGP000105,191,adenosylhomocysteinase,AHCY
+1330,MGP000136,262,adenosylmethionine decarboxylase 1,AMD1
+1331,MGP000136,262,adenosylmethionine decarboxylase 1,AMD1
+1332,MGP000311,635,betaine--homocysteine S-methyltransferase,BHMT
+1333,MGP000433,875,cystathionine-beta-synthase,CBS
+1334,MGP005423,55349,choline dehydrogenase,CHDH
+1335,MGP000718,1491,cystathionine gamma-lyase,CTH
+1336,MGP000854,1786,DNA (cytosine-5-)-methyltransferase 1,DNMT1
+1337,MGP006909,259307,interleukin 4 induced 1,IL4I1
+1338,MGP001870,4141,methionyl-tRNA synthetase,MARS
+1339,MGP001872,4144,"methionine adenosyltransferase II, alpha",MAT2A
+1340,MGP004968,27430,"methionine adenosyltransferase II, beta",MAT2B
+1341,MGP004544,22921,methionine sulfoxide reductase B2,MSRB2
+1342,MGP006868,253827,methionine sulfoxide reductase B3,MSRB3
+1343,MGP006441,123263,mitochondrial methionyl-tRNA formyltransferase,MTFMT
+1344,MGP001970,4524,methylenetetrahydrofolate reductase (NAD(P)H),MTHFR
+1345,MGP001976,4548,5-methyltetrahydrofolate-homocysteine methyltransferase,MTR
+1346,MGP002827,6470,serine hydroxymethyltransferase 1 (soluble),SHMT1
+1347,MGP002978,6723,spermidine synthase,SRM
+1348,MGP000253,498,"ATP synthase, H+ transporting, mitochondrial F1 complex, alpha subunit 1, cardiac muscle",ATP5A1
+1349,MGP000255,506,"ATP synthase, H+ transporting, mitochondrial F1 complex, beta polypeptide",ATP5B
+1350,MGP000256,509,"ATP synthase, H+ transporting, mitochondrial F1 complex, gamma polypeptide 1",ATP5C1
+1351,MGP000257,513,"ATP synthase, H+ transporting, mitochondrial F1 complex, delta subunit",ATP5D
+1352,MGP000258,514,"ATP synthase, H+ transporting, mitochondrial F1 complex, epsilon subunit",ATP5E
+1353,MGP000259,515,"ATP synthase, H+ transporting, mitochondrial Fo complex, subunit B1",ATP5F1
+1354,MGP000261,517,"ATP synthase, H+ transporting, mitochondrial Fo complex, subunit C2 (subunit 9)",ATP5G2
+1355,MGP005275,54205,"cytochrome c, somatic",CYCS
+1356,MGP001155,2597,glyceraldehyde-3-phosphate dehydrogenase,GAPDH
+1357,MGP001278,2819,glycerol-3-phosphate dehydrogenase 1 (soluble),GPD1
+1358,MGP001279,2820,glycerol-3-phosphate dehydrogenase 2 (mitochondrial),GPD2
+1359,MGP002038,4694,"NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 1, 7.5kDa",NDUFA1
+1360,MGP002797,6389,"succinate dehydrogenase complex, subunit A, flavoprotein (Fp)",SDHA
+1361,MGP002798,6390,"succinate dehydrogenase complex, subunit B, iron sulfur (Ip)",SDHB
+1362,MGP002799,6391,"succinate dehydrogenase complex, subunit C, integral membrane protein, 15kDa",SDHC
+1363,MGP002800,6392,"succinate dehydrogenase complex, subunit D, integral membrane protein",SDHD
+1364,MGP000152,291,"solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4",SLC25A4
+1365,MGP001124,2542,"solute carrier family 37 (glucose-6-phosphate transporter), member 4",SLC37A4
+1366,MGP003275,7384,ubiquinol-cytochrome c reductase core protein I,UQCRC1
+1367,MGP000081,148,adrenoceptor alpha 1A,ADRA1A
+1368,MGP000235,476,"ATPase, Na+/K+ transporting, alpha 1 polypeptide",ATP1A1
+1369,MGP000236,477,"ATPase, Na+/K+ transporting, alpha 2 polypeptide",ATP1A2
+1370,MGP000237,478,"ATPase, Na+/K+ transporting, alpha 3 polypeptide",ATP1A3
+1371,MGP000239,480,"ATPase, Na+/K+ transporting, alpha 4 polypeptide",ATP1A4
+1372,MGP000240,481,"ATPase, Na+/K+ transporting, beta 1 polypeptide",ATP1B1
+1373,MGP000241,482,"ATPase, Na+/K+ transporting, beta 2 polypeptide",ATP1B2
+1374,MGP000242,483,"ATPase, Na+/K+ transporting, beta 3 polypeptide",ATP1B3
+1375,MGP000379,773,"calcium channel, voltage-dependent, P/Q type, alpha 1A subunit",CACNA1A
+1376,MGP003841,9254,"calcium channel, voltage-dependent, alpha 2/delta subunit 2",CACNA2D2
+1377,MGP000386,782,"calcium channel, voltage-dependent, beta 1 subunit",CACNB1
+1378,MGP000556,1137,"cholinergic receptor, nicotinic, alpha 4 (neuronal)",CHRNA4
+1379,MGP000559,1141,"cholinergic receptor, nicotinic, beta 2 (neuronal)",CHRNB2
+1380,MGP005239,51726,"DnaJ (Hsp40) homolog, subfamily B, member 11",DNAJB11
+1381,MGP000871,1812,dopamine receptor D1,DRD1
+1382,MGP004417,10961,endoplasmic reticulum protein 29,ERP29
+1383,MGP000243,486,FXYD domain containing ion transport regulator 2,FXYD2
+1384,MGP001322,2902,"glutamate receptor, ionotropic, N-methyl D-aspartate 1",GRIN1
+1385,MGP001323,2903,"glutamate receptor, ionotropic, N-methyl D-aspartate 2A",GRIN2A
+1386,MGP006368,116443,"glutamate receptor, ionotropic, N-methyl-D-aspartate 3A",GRIN3A
+1387,MGP001516,3309,"heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa)",HSPA5
+1388,MGP001526,3350,"5-hydroxytryptamine (serotonin) receptor 1A, G protein-coupled",HTR1A
+1389,MGP004274,10525,hypoxia up-regulated 1,HYOU1
+1390,MGP001713,3751,"potassium channel, voltage gated Shal related subfamily D, member 2",KCND2
+1391,MGP005046,30819,Kv channel interacting protein 2,KCNIP2
+1392,MGP002164,4988,"opioid receptor, mu 1",OPRM1
+1393,MGP002221,5126,proprotein convertase subtilisin/kexin type 2,PCSK2
+1394,MGP005786,64714,"protein disulfide isomerase family A, member 2",PDIA2
+1395,MGP003954,9601,"protein disulfide isomerase family A, member 4",PDIA4
+1396,MGP004137,10130,"protein disulfide isomerase family A, member 6",PDIA6
+1397,MGP002369,5443,proopiomelanocortin,POMC
+1398,MGP002384,5479,peptidylprolyl isomerase B (cyclophilin B),PPIB
+1399,MGP002765,6336,"sodium channel, voltage gated, type X alpha subunit",SCN10A
+1400,MGP002755,6324,"sodium channel, voltage gated, type I beta subunit",SCN1B
+1401,MGP004739,23753,stromal cell-derived factor 2-like 1,SDF2L1
+1402,MGP002866,6530,"solute carrier family 6 (neurotransmitter transporter), member 2",SLC6A2
+1403,MGP002867,6531,"solute carrier family 6 (neurotransmitter transporter), member 3",SLC6A3
+1404,MGP002868,6532,"solute carrier family 6 (neurotransmitter transporter), member 4",SLC6A4
+1405,MGP005314,54658,"UDP glucuronosyltransferase 1 family, polypeptide A1",UGT1A1
+1406,MGP005315,54659,"UDP glucuronosyltransferase 1 family, polypeptide A3",UGT1A3
+1407,MGP005306,54576,"UDP glucuronosyltransferase 1 family, polypeptide A8",UGT1A8
+1408,MGP003267,7366,"UDP glucuronosyltransferase 2 family, polypeptide B15",UGT2B15
+1409,MGP003264,7363,"UDP glucuronosyltransferase 2 family, polypeptide B4",UGT2B4
+1410,MGP003265,7364,"UDP glucuronosyltransferase 2 family, polypeptide B7",UGT2B7
+1411,MGP002268,5243,"ATP-binding cassette, sub-family B (MDR/TAP), member 1",ABCB1
+1412,MGP000606,1244,"ATP-binding cassette, sub-family C (CFTR/MRP), member 2",ABCC2
+1413,MGP003897,9429,"ATP-binding cassette, sub-family G (WHITE), member 2 (Junior blood group)",ABCG2
+1414,MGP000528,1066,carboxylesterase 1,CES1
+1415,MGP003706,8824,carboxylesterase 2,CES2
+1416,MGP000754,1558,"cytochrome P450, family 2, subfamily C, polypeptide 8",CYP2C8
+1417,MGP000761,1576,"cytochrome P450, family 3, subfamily A, polypeptide 4",CYP3A4
+1418,MGP000762,1577,"cytochrome P450, family 3, subfamily A, polypeptide 5",CYP3A5
+1419,MGP004301,10599,"solute carrier organic anion transporter family, member 1B1",SLCO1B1
+1420,MGP004970,28234,"solute carrier organic anion transporter family, member 1B3",SLCO1B3
+1421,MGP005307,54577,"UDP glucuronosyltransferase 1 family, polypeptide A7",UGT1A7
+1422,MGP005306,54576,"UDP glucuronosyltransferase 1 family, polypeptide A8",UGT1A8
+1423,MGP005312,54600,"UDP glucuronosyltransferase 1 family, polypeptide A9",UGT1A9
+1424,MGP003265,7364,"UDP glucuronosyltransferase 2 family, polypeptide B7",UGT2B7
+1425,MGP000081,148,adrenoceptor alpha 1A,ADRA1A
+1426,MGP000235,476,"ATPase, Na+/K+ transporting, alpha 1 polypeptide",ATP1A1
+1427,MGP000236,477,"ATPase, Na+/K+ transporting, alpha 2 polypeptide",ATP1A2
+1428,MGP000237,478,"ATPase, Na+/K+ transporting, alpha 3 polypeptide",ATP1A3
+1429,MGP000239,480,"ATPase, Na+/K+ transporting, alpha 4 polypeptide",ATP1A4
+1430,MGP000240,481,"ATPase, Na+/K+ transporting, beta 1 polypeptide",ATP1B1
+1431,MGP000241,482,"ATPase, Na+/K+ transporting, beta 2 polypeptide",ATP1B2
+1432,MGP000242,483,"ATPase, Na+/K+ transporting, beta 3 polypeptide",ATP1B3
+1433,MGP000379,773,"calcium channel, voltage-dependent, P/Q type, alpha 1A subunit",CACNA1A
+1434,MGP003841,9254,"calcium channel, voltage-dependent, alpha 2/delta subunit 2",CACNA2D2
+1435,MGP000386,782,"calcium channel, voltage-dependent, beta 1 subunit",CACNB1
+1436,MGP000556,1137,"cholinergic receptor, nicotinic, alpha 4 (neuronal)",CHRNA4
+1437,MGP000559,1141,"cholinergic receptor, nicotinic, beta 2 (neuronal)",CHRNB2
+1438,MGP000871,1812,dopamine receptor D1,DRD1
+1439,MGP000243,486,FXYD domain containing ion transport regulator 2,FXYD2
+1440,MGP001322,2902,"glutamate receptor, ionotropic, N-methyl D-aspartate 1",GRIN1
+1441,MGP001323,2903,"glutamate receptor, ionotropic, N-methyl D-aspartate 2A",GRIN2A
+1442,MGP006368,116443,"glutamate receptor, ionotropic, N-methyl-D-aspartate 3A",GRIN3A
+1443,MGP001526,3350,"5-hydroxytryptamine (serotonin) receptor 1A, G protein-coupled",HTR1A
+1444,MGP001713,3751,"potassium channel, voltage gated Shal related subfamily D, member 2",KCND2
+1445,MGP005046,30819,Kv channel interacting protein 2,KCNIP2
+1446,MGP002162,4986,"opioid receptor, kappa 1",OPRK1
+1447,MGP002164,4988,"opioid receptor, mu 1",OPRM1
+1448,MGP002221,5126,proprotein convertase subtilisin/kexin type 2,PCSK2
+1449,MGP002369,5443,proopiomelanocortin,POMC
+1450,MGP002765,6336,"sodium channel, voltage gated, type X alpha subunit",SCN10A
+1451,MGP002755,6324,"sodium channel, voltage gated, type I beta subunit",SCN1B
+1452,MGP002866,6530,"solute carrier family 6 (neurotransmitter transporter), member 2",SLC6A2
+1453,MGP002867,6531,"solute carrier family 6 (neurotransmitter transporter), member 3",SLC6A3
+1454,MGP002868,6532,"solute carrier family 6 (neurotransmitter transporter), member 4",SLC6A4
+1455,MGP003028,6833,"ATP-binding cassette, sub-family C (CFTR/MRP), member 8",ABCC8
+1456,MGP000379,773,"calcium channel, voltage-dependent, P/Q type, alpha 1A subunit",CACNA1A
+1457,MGP003841,9254,"calcium channel, voltage-dependent, alpha 2/delta subunit 2",CACNA2D2
+1458,MGP000386,782,"calcium channel, voltage-dependent, beta 1 subunit",CACNB1
+1459,MGP001634,3630,insulin,INS
+1460,MGP002853,6514,"solute carrier family 2 (facilitated glucose transporter), member 2",SLC2A2
+1461,MGP000157,316,aldehyde oxidase 1,AOX1
+1462,MGP000338,683,bone marrow stromal cell antigen 1,BST1
+1463,MGP002234,5167,ectonucleotide pyrophosphatase/phosphodiesterase 1,ENPP1
+1464,MGP005830,65220,NAD kinase,NADK
+1465,MGP005393,55191,NAD synthetase 1,NADSYN1
+1466,MGP004140,10135,nicotinamide phosphoribosyltransferase,NAMPT
+1467,MGP004575,23057,nicotinamide nucleotide adenylyltransferase 2,NMNAT2
+1468,MGP005356,54981,nicotinamide riboside kinase 1,NMRK1
+1469,MGP002108,4837,nicotinamide N-methyltransferase,NNMT
+1470,MGP004699,23530,nicotinamide nucleotide transhydrogenase,NNT
+1471,MGP006078,83594,nudix (nucleoside diphosphate linked moiety X)-type motif 12,NUDT12
+1472,MGP002121,4860,purine nucleoside phosphorylase,PNP
+1473,MGP004685,23475,quinolinate phosphoribosyltransferase,QPRT
+1474,MGP000081,148,adrenoceptor alpha 1A,ADRA1A
+1475,MGP000157,316,aldehyde oxidase 1,AOX1
+1476,MGP000235,476,"ATPase, Na+/K+ transporting, alpha 1 polypeptide",ATP1A1
+1477,MGP000236,477,"ATPase, Na+/K+ transporting, alpha 2 polypeptide",ATP1A2
+1478,MGP000237,478,"ATPase, Na+/K+ transporting, alpha 3 polypeptide",ATP1A3
+1479,MGP000239,480,"ATPase, Na+/K+ transporting, alpha 4 polypeptide",ATP1A4
+1480,MGP000240,481,"ATPase, Na+/K+ transporting, beta 1 polypeptide",ATP1B1
+1481,MGP000241,482,"ATPase, Na+/K+ transporting, beta 2 polypeptide",ATP1B2
+1482,MGP000242,483,"ATPase, Na+/K+ transporting, beta 3 polypeptide",ATP1B3
+1483,MGP000379,773,"calcium channel, voltage-dependent, P/Q type, alpha 1A subunit",CACNA1A
+1484,MGP003841,9254,"calcium channel, voltage-dependent, alpha 2/delta subunit 2",CACNA2D2
+1485,MGP000386,782,"calcium channel, voltage-dependent, beta 1 subunit",CACNB1
+1486,MGP000555,1136,"cholinergic receptor, nicotinic, alpha 3 (neuronal)",CHRNA3
+1487,MGP000556,1137,"cholinergic receptor, nicotinic, alpha 4 (neuronal)",CHRNA4
+1488,MGP000559,1141,"cholinergic receptor, nicotinic, beta 2 (neuronal)",CHRNB2
+1489,MGP000748,1548,"cytochrome P450, family 2, subfamily A, polypeptide 6",CYP2A6
+1490,MGP000752,1555,"cytochrome P450, family 2, subfamily B, polypeptide 6",CYP2B6
+1491,MGP000871,1812,dopamine receptor D1,DRD1
+1492,MGP001095,2328,flavin containing monooxygenase 3,FMO3
+1493,MGP000243,486,FXYD domain containing ion transport regulator 2,FXYD2
+1494,MGP001322,2902,"glutamate receptor, ionotropic, N-methyl D-aspartate 1",GRIN1
+1495,MGP001323,2903,"glutamate receptor, ionotropic, N-methyl D-aspartate 2A",GRIN2A
+1496,MGP006368,116443,"glutamate receptor, ionotropic, N-methyl-D-aspartate 3A",GRIN3A
+1497,MGP001526,3350,"5-hydroxytryptamine (serotonin) receptor 1A, G protein-coupled",HTR1A
+1498,MGP001713,3751,"potassium channel, voltage gated Shal related subfamily D, member 2",KCND2
+1499,MGP005046,30819,Kv channel interacting protein 2,KCNIP2
+1500,MGP002164,4988,"opioid receptor, mu 1",OPRM1
+1501,MGP002221,5126,proprotein convertase subtilisin/kexin type 2,PCSK2
+1502,MGP002369,5443,proopiomelanocortin,POMC
+1503,MGP002765,6336,"sodium channel, voltage gated, type X alpha subunit",SCN10A
+1504,MGP002755,6324,"sodium channel, voltage gated, type I beta subunit",SCN1B
+1505,MGP002866,6530,"solute carrier family 6 (neurotransmitter transporter), member 2",SLC6A2
+1506,MGP002867,6531,"solute carrier family 6 (neurotransmitter transporter), member 3",SLC6A3
+1507,MGP002868,6532,"solute carrier family 6 (neurotransmitter transporter), member 4",SLC6A4
+1508,MGP005313,54657,"UDP glucuronosyltransferase 1 family, polypeptide A4",UGT1A4
+1509,MGP005312,54600,"UDP glucuronosyltransferase 1 family, polypeptide A9",UGT1A9
+1510,MGP000980,2068,excision repair cross-complementation group 2,ERCC2
+1511,MGP000983,2072,excision repair cross-complementation group 4,ERCC4
+1512,MGP000984,2073,excision repair cross-complementation group 5,ERCC5
+1513,MGP001816,3978,"ligase I, DNA, ATP-dependent",LIG1
+1514,MGP004438,11044,PAP associated domain containing 7,PAPD7
+1515,MGP002216,5111,proliferating cell nuclear antigen,PCNA
+1516,MGP002353,5426,"polymerase (DNA directed), epsilon, catalytic subunit",POLE
+1517,MGP004775,25885,"polymerase (RNA) I polypeptide A, 194kDa",POLR1A
+1518,MGP002565,5886,RAD23 homolog A (S. cerevisiae),RAD23A
+1519,MGP002612,5981,"replication factor C (activator 1) 1, 145kDa",RFC1
+1520,MGP003330,7507,"xeroderma pigmentosum, complementation group A",XPA
+1521,MGP001147,2582,UDP-galactose-4-epimerase,GALE
+1522,MGP001148,2584,galactokinase 1,GALK1
+1523,MGP001153,2592,galactose-1-phosphate uridylyltransferase,GALT
+1524,MGP001178,2645,glucokinase (hexokinase 4),GCK
+1525,MGP002265,5236,phosphoglucomutase 1,PGM1
+1526,MGP003262,7358,UDP-glucose 6-dehydrogenase,UGDH
+1527,MGP003263,7360,UDP-glucose pyrophosphorylase 2,UGP2
+1528,MGP005966,80146,UDP-glucuronate decarboxylase 1,UXS1
+1529,MGP000115,215,"ATP-binding cassette, sub-family D (ALD), member 1",ABCD1
+1530,MGP000123,225,"ATP-binding cassette, sub-family D (ALD), member 2",ABCD2
+1531,MGP001026,2180,acyl-CoA synthetase long-chain family member 1,ACSL1
+1532,MGP000117,217,aldehyde dehydrogenase 2 family (mitochondrial),ALDH2
+1533,MGP000674,1376,carnitine palmitoyltransferase 2,CPT2
+1534,MGP000678,1384,carnitine O-acetyltransferase,CRAT
+1535,MGP005317,54677,carnitine O-octanoyltransferase,CROT
+1536,MGP004804,26061,2-hydroxyacyl-CoA lyase 1,HACL1
+1537,MGP002240,5194,peroxisomal biogenesis factor 13,PEX13
+1538,MGP002241,5195,peroxisomal biogenesis factor 14,PEX14
+1539,MGP002277,5264,phytanoyl-CoA 2-hydroxylase,PHYH
+1540,MGP000390,788,"solute carrier family 25 (carnitine/acylcarnitine translocase), member 20",SLC25A20
+1541,MGP002268,5243,"ATP-binding cassette, sub-family B (MDR/TAP), member 1",ABCB1
+1542,MGP001961,4363,"ATP-binding cassette, sub-family C (CFTR/MRP), member 1",ABCC1
+1543,MGP000606,1244,"ATP-binding cassette, sub-family C (CFTR/MRP), member 2",ABCC2
+1544,MGP003897,9429,"ATP-binding cassette, sub-family G (WHITE), member 2 (Junior blood group)",ABCG2
+1545,MGP004970,28234,"solute carrier organic anion transporter family, member 1B3",SLCO1B3
+1546,MGP004215,10376,"tubulin, alpha 1b",TUBA1B
+1547,MGP006012,81027,"tubulin, beta 1 class VI",TUBB1
+1548,MGP005994,80347,CoA synthase,COASY
+1549,MGP002234,5167,ectonucleotide pyrophosphatase/phosphodiesterase 1,ENPP1
+1550,MGP005256,53354,pantothenate kinase 1,PANK1
+1551,MGP005717,60490,phosphopantothenoylcysteine decarboxylase,PPCDC
+1552,MGP005902,79717,phosphopantothenoylcysteine synthetase,PPCS
+1553,MGP003727,8876,vanin 1,VNN1
+1554,MGP000124,226,"aldolase A, fructose-bisphosphate",ALDOA
+1555,MGP005109,51071,deoxyribose-phosphate aldolase (putative),DERA
+1556,MGP001041,2203,"fructose-1,6-bisphosphatase 1",FBP1
+1557,MGP001123,2539,glucose-6-phosphate dehydrogenase,G6PD
+1558,MGP001280,2821,glucose-6-phosphate isomerase,GPI
+1559,MGP002255,5211,"phosphofructokinase, liver",PFKL
+1560,MGP002262,5226,phosphogluconate dehydrogenase,PGD
+1561,MGP004756,25796,6-phosphogluconolactonase,PGLS
+1562,MGP002265,5236,phosphoglucomutase 1,PGM1
+1563,MGP006829,221823,phosphoribosyl pyrophosphate synthetase 1-like 1,PRPS1L1
+1564,MGP005739,64080,ribokinase,RBKS
+1565,MGP002646,6120,ribulose-5-phosphate-3-epimerase,RPE
+1566,MGP004548,22934,ribose 5-phosphate isomerase A,RPIA
+1567,MGP003060,6888,transaldolase 1,TALDO1
+1568,MGP003141,7086,transketolase,TKT
+1569,MGP006367,116285,acyl-CoA synthetase medium-chain family member 1,ACSM1
+1570,MGP007047,348158,acyl-CoA synthetase medium-chain family member 2B,ACSM2B
+1571,MGP004176,10249,glycine-N-acyltransferase,GLYAT
+1572,MGP001029,2184,fumarylacetoacetate hydrolase (fumarylacetoacetase),FAH
+1573,MGP001035,2193,"phenylalanyl-tRNA synthetase, alpha subunit",FARSA
+1574,MGP004103,10056,"phenylalanyl-tRNA synthetase, beta subunit",FARSB
+1575,MGP001270,2805,"glutamic-oxaloacetic transaminase 1, soluble",GOT1
+1576,MGP001360,2954,glutathione S-transferase zeta 1,GSTZ1
+1577,MGP001434,3081,"homogentisate 1,2-dioxygenase",HGD
+1578,MGP001492,3242,4-hydroxyphenylpyruvate dioxygenase,HPD
+1579,MGP006909,259307,interleukin 4 induced 1,IL4I1
+1580,MGP002194,5053,phenylalanine hydroxylase,PAH
+1581,MGP003066,6898,tyrosine aminotransferase,TAT
+1582,MGP003604,8565,tyrosyl-tRNA synthetase,YARS
+1583,MGP003028,6833,"ATP-binding cassette, sub-family C (CFTR/MRP), member 8",ABCC8
+1584,MGP004107,10060,"ATP-binding cassette, sub-family C (CFTR/MRP), member 9",ABCC9
+1585,MGP000085,153,adrenoceptor beta 1,ADRB1
+1586,MGP000101,185,"angiotensin II receptor, type 1",AGTR1
+1587,MGP000101,185,"angiotensin II receptor, type 1",AGTR1
+1588,MGP006598,144245,"ALG10B, alpha-1,2-glucosyltransferase",ALG10B
+1589,MGP000235,476,"ATPase, Na+/K+ transporting, alpha 1 polypeptide",ATP1A1
+1590,MGP000236,477,"ATPase, Na+/K+ transporting, alpha 2 polypeptide",ATP1A2
+1591,MGP000237,478,"ATPase, Na+/K+ transporting, alpha 3 polypeptide",ATP1A3
+1592,MGP000239,480,"ATPase, Na+/K+ transporting, alpha 4 polypeptide",ATP1A4
+1593,MGP000240,481,"ATPase, Na+/K+ transporting, beta 1 polypeptide",ATP1B1
+1594,MGP000241,482,"ATPase, Na+/K+ transporting, beta 2 polypeptide",ATP1B2
+1595,MGP000242,483,"ATPase, Na+/K+ transporting, beta 3 polypeptide",ATP1B3
+1596,MGP000245,488,"ATPase, Ca++ transporting, cardiac muscle, slow twitch 2",ATP2A2
+1597,MGP000381,775,"calcium channel, voltage-dependent, L type, alpha 1C subunit",CACNA1C
+1598,MGP003746,8913,"calcium channel, voltage-dependent, T type, alpha 1G subunit",CACNA1G
+1599,MGP003745,8912,"calcium channel, voltage-dependent, T type, alpha 1H subunit",CACNA1H
+1600,MGP003841,9254,"calcium channel, voltage-dependent, alpha 2/delta subunit 2",CACNA2D2
+1601,MGP000386,782,"calcium channel, voltage-dependent, beta 1 subunit",CACNB1
+1602,MGP000396,801,"calmodulin 1 (phosphorylase kinase, delta)",CALM1
+1603,MGP000549,1129,"cholinergic receptor, muscarinic 2",CHRM2
+1604,MGP000644,1312,catechol-O-methyltransferase,COMT
+1605,MGP000746,1544,"cytochrome P450, family 1, subfamily A, polypeptide 2",CYP1A2
+1606,MGP000753,1557,"cytochrome P450, family 2, subfamily C, polypeptide 19",CYP2C19
+1607,MGP000755,1559,"cytochrome P450, family 2, subfamily C, polypeptide 9",CYP2C9
+1608,MGP000758,1571,"cytochrome P450, family 2, subfamily E, polypeptide 1",CYP2E1
+1609,MGP000761,1576,"cytochrome P450, family 3, subfamily A, polypeptide 4",CYP3A4
+1610,MGP000839,1739,"discs, large homolog 1 (Drosophila)",DLG1
+1611,MGP005239,51726,"DnaJ (Hsp40) homolog, subfamily B, member 11",DNAJB11
+1612,MGP000972,2052,"epoxide hydrolase 1, microsomal (xenobiotic)",EPHX1
+1613,MGP004417,10961,endoplasmic reticulum protein 29,ERP29
+1614,MGP000243,486,FXYD domain containing ion transport regulator 2,FXYD2
+1615,MGP004091,10021,hyperpolarization activated cyclic nucleotide gated potassium channel 4,HCN4
+1616,MGP001516,3309,"heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa)",HSPA5
+1617,MGP004274,10525,hypoxia up-regulated 1,HYOU1
+1618,MGP001686,3708,"inositol 1,4,5-trisphosphate receptor, type 1",ITPR1
+1619,MGP001686,3708,"inositol 1,4,5-trisphosphate receptor, type 1",ITPR1
+1620,MGP001703,3741,"potassium channel, voltage gated shaker related subfamily A, member 5",KCNA5
+1621,MGP001714,3752,"potassium channel, voltage gated Shal related subfamily D, member 3",KCND3
+1622,MGP001715,3753,"potassium channel, voltage gated subfamily E regulatory beta subunit 1",KCNE1
+1623,MGP004078,9992,"potassium channel, voltage gated subfamily E regulatory beta subunit 2",KCNE2
+1624,MGP001718,3757,"potassium channel, voltage gated eag related subfamily H, member 2",KCNH2
+1625,MGP005046,30819,Kv channel interacting protein 2,KCNIP2
+1626,MGP001728,3767,"potassium channel, inwardly rectifying subfamily J, member 11",KCNJ11
+1627,MGP001720,3759,"potassium channel, inwardly rectifying subfamily J, member 2",KCNJ2
+1628,MGP001721,3760,"potassium channel, inwardly rectifying subfamily J, member 3",KCNJ3
+1629,MGP001722,3761,"potassium channel, inwardly rectifying subfamily J, member 4",KCNJ4
+1630,MGP001723,3762,"potassium channel, inwardly rectifying subfamily J, member 5",KCNJ5
+1631,MGP001725,3764,"potassium channel, inwardly rectifying subfamily J, member 8",KCNJ8
+1632,MGP001733,3775,"potassium channel, two pore domain subfamily K, member 1",KCNK1
+1633,MGP001742,3784,"potassium channel, voltage gated KQT-like subfamily Q, member 1",KCNQ1
+1634,MGP002017,4638,myosin light chain kinase,MYLK
+1635,MGP000832,1728,"NAD(P)H dehydrogenase, quinone 1",NQO1
+1636,MGP005786,64714,"protein disulfide isomerase family A, member 2",PDIA2
+1637,MGP003954,9601,"protein disulfide isomerase family A, member 4",PDIA4
+1638,MGP004137,10130,"protein disulfide isomerase family A, member 6",PDIA6
+1639,MGP004616,23236,"phospholipase C, beta 1 (phosphoinositide-specific)",PLCB1
+1640,MGP002329,5350,phospholamban,PLN
+1641,MGP002384,5479,peptidylprolyl isomerase B (cyclophilin B),PPIB
+1642,MGP002414,5566,"protein kinase, cAMP-dependent, catalytic, alpha",PRKACA
+1643,MGP002417,5573,"protein kinase, cAMP-dependent, regulatory, type I, alpha",PRKAR1A
+1644,MGP002739,6262,ryanodine receptor 2 (cardiac),RYR2
+1645,MGP002761,6331,"sodium channel, voltage gated, type V alpha subunit",SCN5A
+1646,MGP004739,23753,stromal cell-derived factor 2-like 1,SDF2L1
+1647,MGP002879,6546,"solute carrier family 8 (sodium/calcium exchanger), member 1",SLC8A1
+1648,MGP002945,6640,"syntrophin, alpha 1",SNTA1
+1649,MGP002946,6641,"syntrophin, beta 1 (dystrophin-associated protein A1, 59kDa, basic component 1)",SNTB1
+1650,MGP002948,6645,"syntrophin, beta 2 (dystrophin-associated protein A1, 59kDa, basic component 2)",SNTB2
+1651,MGP003162,7134,troponin C type 1 (slow),TNNC1
+1652,MGP003159,7125,troponin C type 2 (fast),TNNC2
+1653,MGP003163,7135,"troponin I type 1 (skeletal, slow)",TNNI1
+1654,MGP003164,7136,"troponin I type 2 (skeletal, fast)",TNNI2
+1655,MGP003165,7137,troponin I type 3 (cardiac),TNNI3
+1656,MGP003166,7138,"troponin T type 1 (skeletal, slow)",TNNT1
+1657,MGP003167,7139,troponin T type 2 (cardiac),TNNT2
+1658,MGP003168,7140,"troponin T type 3 (skeletal, fast)",TNNT3
+1659,MGP003181,7168,tropomyosin 1 (alpha),TPM1
+1660,MGP003181,7168,tropomyosin 1 (alpha),TPM1
+1661,MGP003182,7169,tropomyosin 2 (beta),TPM2
+1662,MGP003182,7169,tropomyosin 2 (beta),TPM2
+1663,MGP005314,54658,"UDP glucuronosyltransferase 1 family, polypeptide A1",UGT1A1
+1664,MGP005313,54657,"UDP glucuronosyltransferase 1 family, polypeptide A4",UGT1A4
+1665,MGP005308,54578,"UDP glucuronosyltransferase 1 family, polypeptide A6",UGT1A6
+1666,MGP005308,54578,"UDP glucuronosyltransferase 1 family, polypeptide A6",UGT1A6
+1667,MGP005312,54600,"UDP glucuronosyltransferase 1 family, polypeptide A9",UGT1A9
+1668,MGP005453,55626,autophagy/beclin-1 regulator 1,AMBRA1
+1669,MGP003648,8678,"beclin 1, autophagy related",BECN1
+1670,MGP004236,10423,CDP-diacylglycerol--inositol 3-phosphatidyltransferase,CDIPT
+1671,MGP000978,2064,erb-b2 receptor tyrosine kinase 2,ERBB2
+1672,MGP004042,9896,FIG4 phosphoinositide 5-phosphatase,FIG4
+1673,MGP003704,8821,"inositol polyphosphate-4-phosphatase, type II, 105kDa",INPP4B
+1674,MGP001638,3635,"inositol polyphosphate-5-phosphatase, 145kDa",INPP5D
+1675,MGP005551,56623,"inositol polyphosphate-5-phosphatase, 72 kDa",INPP5E
+1676,MGP002296,5297,"phosphatidylinositol 4-kinase, catalytic, alpha",PI4KA
+1677,MGP002286,5286,"phosphatidylinositol-4-phosphate 3-kinase, catalytic subunit type 2 alpha",PIK3C2A
+1678,MGP002289,5289,"phosphatidylinositol 3-kinase, catalytic subunit type 3",PIK3C3
+1679,MGP002290,5290,"phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit alpha",PIK3CA
+1680,MGP002292,5293,"phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit delta",PIK3CD
+1681,MGP002294,5295,"phosphoinositide-3-kinase, regulatory subunit 1 (alpha)",PIK3R1
+1682,MGP005051,30849,"phosphoinositide-3-kinase, regulatory subunit 4",PIK3R4
+1683,MGP006751,200576,"phosphoinositide kinase, FYVE finger containing",PIKFYVE
+1684,MGP002299,5305,"phosphatidylinositol-5-phosphate 4-kinase, type II, alpha",PIP4K2A
+1685,MGP003540,8394,"phosphatidylinositol-4-phosphate 5-kinase, type I, alpha",PIP5K1A
+1686,MGP004616,23236,"phospholipase C, beta 1 (phosphoinositide-specific)",PLCB1
+1687,MGP002511,5728,phosphatase and tensin homolog,PTEN
+1688,MGP003723,8867,synaptojanin 1,SYNJ1
+1689,MGP005470,55697,Vac14 homolog (S. cerevisiae),VAC14
+1690,MGP000027,43,acetylcholinesterase (Yt blood group),ACHE
+1691,MGP004282,10554,1-acylglycerol-3-phosphate O-acyltransferase 1,AGPAT1
+1692,MGP004236,10423,CDP-diacylglycerol--inositol 3-phosphatidyltransferase,CDIPT
+1693,MGP000519,1040,CDP-diacylglycerol synthase (phosphatidate cytidylyltransferase) 1,CDS1
+1694,MGP000537,1103,choline O-acetyltransferase,CHAT
+1695,MGP000544,1119,choline kinase alpha,CHKA
+1696,MGP005582,56994,choline phosphotransferase 1,CHPT1
+1697,MGP005316,54675,cardiolipin synthase 1,CRLS1
+1698,MGP000782,1606,"diacylglycerol kinase, alpha 80kDa",DGKA
+1699,MGP005208,51573,glycerophosphodiester phosphodiesterase 1,GDE1
+1700,MGP005663,57678,"glycerol-3-phosphate acyltransferase, mitochondrial",GPAM
+1701,MGP001278,2819,glycerol-3-phosphate dehydrogenase 1 (soluble),GPD1
+1702,MGP001279,2820,glycerol-3-phosphate dehydrogenase 2 (mitochondrial),GPD2
+1703,MGP004240,10434,lysophospholipase I,LYPLA1
+1704,MGP002222,5130,"phosphate cytidylyltransferase 1, choline, alpha",PCYT1A
+1705,MGP004226,10400,phosphatidylethanolamine N-methyltransferase,PEMT
+1706,MGP003921,9489,phosphatidylglycerophosphate synthase 1,PGS1
+1707,MGP006684,162466,"phosphatase, orphan 1",PHOSPHO1
+1708,MGP004742,23761,phosphatidylserine decarboxylase,PISD
+1709,MGP004735,23659,"phospholipase A2, group XV",PLA2G15
+1710,MGP004842,26279,"phospholipase A2, group IID",PLA2G2D
+1711,MGP007281,100137049,"phospholipase A2, group IVB (cytosolic)",PLA2G4B
+1712,MGP002320,5338,phospholipase D2,PLD2
+1713,MGP003618,8611,phosphatidic acid phosphatase type 2A,PPAP2A
+1714,MGP004010,9791,phosphatidylserine synthase 1,PTDSS1
+1715,MGP006040,81490,phosphatidylserine synthase 2,PTDSS2
+1716,MGP006350,114971,"protein tyrosine phosphatase, mitochondrial 1",PTPMT1
+1717,MGP000115,215,"ATP-binding cassette, sub-family D (ALD), member 1",ABCD1
+1718,MGP000123,225,"ATP-binding cassette, sub-family D (ALD), member 2",ABCD2
+1719,MGP000122,224,"aldehyde dehydrogenase 3 family, member A2",ALDH3A2
+1720,MGP004804,26061,2-hydroxyacyl-CoA lyase 1,HACL1
+1721,MGP002277,5264,phytanoyl-CoA 2-hydroxylase,PHYH
+1722,MGP004428,11001,"solute carrier family 27 (fatty acid transporter), member 2",SLC27A2
+1723,MGP004282,10554,1-acylglycerol-3-phosphate O-acyltransferase 1,AGPAT1
+1724,MGP003590,8540,alkylglycerone phosphate synthase,AGPS
+1725,MGP004220,10390,choline/ethanolamine phosphotransferase 1,CEPT1
+1726,MGP003554,8443,glyceronephosphate O-acyltransferase,GNPAT
+1727,MGP003618,8611,phosphatidic acid phosphatase type 2A,PPAP2A
+1728,MGP000110,210,aminolevulinate dehydratase,ALAD
+1729,MGP000111,211,5'-aminolevulinate synthase 1,ALAS1
+1730,MGP000317,644,biliverdin reductase A,BLVRA
+1731,MGP000657,1352,COX10 heme A:farnesyltransferase cytochrome c oxidase assembly factor,COX10
+1732,MGP000659,1355,cytochrome c oxidase assembly homolog 15 (yeast),COX15
+1733,MGP000670,1371,coproporphyrinogen oxidase,CPOX
+1734,MGP001057,2235,ferrochelatase,FECH
+1735,MGP006312,94033,ferritin mitochondrial,FTMT
+1736,MGP001383,2990,"glucuronidase, beta",GUSB
+1737,MGP001462,3145,hydroxymethylbilane synthase,HMBS
+1738,MGP001471,3162,heme oxygenase (decycling) 1,HMOX1
+1739,MGP002387,5498,protoporphyrinogen oxidase,PPOX
+1740,MGP004341,10720,"UDP glucuronosyltransferase 2 family, polypeptide B11",UGT2B11
+1741,MGP003279,7389,uroporphyrinogen decarboxylase,UROD
+1742,MGP003280,7390,uroporphyrinogen III synthase,UROS
+1743,MGP001520,3320,"heat shock protein 90kDa alpha (cytosolic), class A member 1",HSP90AA1
+1744,MGP001326,2908,"nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)",NR3C1
+1745,MGP000006,18,4-aminobutyrate aminotransferase,ABAT
+1746,MGP000016,31,acetyl-CoA carboxylase alpha,ACACA
+1747,MGP000019,34,"acyl-CoA dehydrogenase, C-4 to C-12 straight chain",ACADM
+1748,MGP000019,34,"acyl-CoA dehydrogenase, C-4 to C-12 straight chain",ACADM
+1749,MGP000023,38,acetyl-CoA acetyltransferase 1,ACAT1
+1750,MGP006143,84532,acyl-CoA synthetase short-chain family member 1,ACSS1
+1751,MGP006143,84532,acyl-CoA synthetase short-chain family member 1,ACSS1
+1752,MGP005886,79611,acyl-CoA synthetase short-chain family member 3,ACSS3
+1753,MGP001949,4329,"aldehyde dehydrogenase 6 family, member A1",ALDH6A1
+1754,MGP000902,1892,"enoyl CoA hydratase, short chain, 1, mitochondrial",ECHS1
+1755,MGP004840,26275,3-hydroxyisobutyryl-CoA hydrolase,HIBCH
+1756,MGP006161,84693,methylmalonyl CoA epimerase,MCEE
+1757,MGP004665,23417,malonyl-CoA decarboxylase,MLYCD
+1758,MGP001986,4594,methylmalonyl CoA mutase,MUT
+1759,MGP002210,5095,"propionyl CoA carboxylase, alpha polypeptide",PCCA
+1760,MGP002211,5096,"propionyl CoA carboxylase, beta polypeptide",PCCB
+1761,MGP000127,231,"aldo-keto reductase family 1, member B1 (aldose reductase)",AKR1B1
+1762,MGP000431,873,carbonyl reductase 1,CBR1
+1763,MGP000828,1719,dihydrofolate reductase,DHFR
+1764,MGP001176,2643,GTP cyclohydrolase 1,GCH1
+1765,MGP001177,2644,GTP cyclohydrolase I feedback regulator,GCHFR
+1766,MGP002534,5805,6-pyruvoyltetrahydropterin synthase,PTS
+1767,MGP002549,5860,quinoid dihydropteridine reductase,QDPR
+1768,MGP002964,6697,"sepiapterin reductase (7,8-dihydrobiopterin:NADP+ oxidoreductase)",SPR
+1769,MGP000050,100,adenosine deaminase,ADA
+1770,MGP005501,55811,adenylate cyclase 10 (soluble),ADCY10
+1771,MGP000089,158,adenylosuccinate lyase,ADSL
+1772,MGP000090,159,adenylosuccinate synthase,ADSS
+1773,MGP000106,203,adenylate kinase 1,AK1
+1774,MGP000137,270,adenosine monophosphate deaminase 1,AMPD1
+1775,MGP000177,353,adenine phosphoribosyltransferase,APRT
+1776,MGP006183,84896,"ATPase family, AAA domain containing 1",ATAD1
+1777,MGP000232,471,5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase/IMP cyclohydrolase,ATIC
+1778,MGP000825,1716,deoxyguanosine kinase,DGUOK
+1779,MGP000462,957,ectonucleoside triphosphate diphosphohydrolase 5,ENTPD5
+1780,MGP007071,377841,ectonucleoside triphosphate diphosphohydrolase 8,ENTPD8
+1781,MGP001157,2618,"phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase",GART
+1782,MGP003957,9615,guanine deaminase,GDA
+1783,MGP001240,2766,guanosine monophosphate reductase,GMPR
+1784,MGP003711,8833,guanine monphosphate synthase,GMPS
+1785,MGP001377,2977,"guanylate cyclase 1, soluble, alpha 2",GUCY1A2
+1786,MGP001380,2983,"guanylate cyclase 1, soluble, beta 3",GUCY1B3
+1787,MGP001382,2987,guanylate kinase 1,GUK1
+1788,MGP001495,3251,hypoxanthine phosphoribosyltransferase 1,HPRT1
+1789,MGP001682,3704,inosine triphosphatase (nucleoside triphosphate pyrophosphatase),ITPA
+1790,MGP004162,10201,NME/NM23 nucleoside diphosphate kinase 6,NME6
+1791,MGP004468,11164,nudix (nucleoside diphosphate linked moiety X)-type motif 5,NUDT5
+1792,MGP004304,10606,"phosphoribosylaminoimidazole carboxylase, phosphoribosylaminoimidazole succinocarboxamide synthetase",PAICS
+1793,MGP002244,5198,phosphoribosylformylglycinamidine synthase,PFAS
+1794,MGP002121,4860,purine nucleoside phosphorylase,PNP
+1795,MGP002379,5471,phosphoribosyl pyrophosphate amidotransferase,PPAT
+1796,MGP006829,221823,phosphoribosyl pyrophosphate synthetase 1-like 1,PRPS1L1
+1797,MGP002730,6240,ribonucleotide reductase M1,RRM1
+1798,MGP002731,6241,ribonucleotide reductase M2,RRM2
+1799,MGP003226,7295,thioredoxin,TXN
+1800,MGP003329,7498,xanthine dehydrogenase,XDH
+1801,MGP005074,50808,adenylate kinase 3,AK3
+1802,MGP000391,790,"carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase",CAD
+1803,MGP006447,124583,calcium activated nucleotidase 1,CANT1
+1804,MGP000477,978,cytidine deaminase,CDA
+1805,MGP006503,129607,"cytidine monophosphate (UMP-CMP) kinase 2, mitochondrial",CMPK2
+1806,MGP000725,1503,CTP synthase 1,CTPS1
+1807,MGP000797,1635,dCMP deaminase,DCTD
+1808,MGP000829,1723,dihydroorotate dehydrogenase (quinone),DHODH
+1809,MGP000865,1806,dihydropyrimidine dehydrogenase,DPYD
+1810,MGP000866,1807,dihydropyrimidinase,DPYS
+1811,MGP003957,9615,guanine deaminase,GDA
+1812,MGP001682,3704,inosine triphosphatase (nucleoside triphosphate pyrophosphatase),ITPA
+1813,MGP004162,10201,NME/NM23 nucleoside diphosphate kinase 6,NME6
+1814,MGP002731,6241,ribonucleotide reductase M2,RRM2
+1815,MGP005053,50484,ribonucleotide reductase M2 B (TP53 inducible),RRM2B
+1816,MGP003139,7083,"thymidine kinase 1, soluble",TK1
+1817,MGP000901,1890,thymidine phosphorylase,TYMP
+1818,MGP003229,7298,thymidylate synthetase,TYMS
+1819,MGP005354,54963,uridine-cytidine kinase 1-like 1,UCKL1
+1820,MGP005242,51733,"ureidopropionase, beta",UPB1
+1821,MGP006651,151531,uridine phosphorylase 2,UPP2
+1822,MGP001229,2739,glyoxalase I,GLO1
+1823,MGP001406,3029,hydroxyacylglutathione hydrolase,HAGH
+1824,MGP006742,197257,lactate dehydrogenase D,LDHD
+1825,MGP000016,31,acetyl-CoA carboxylase alpha,ACACA
+1826,MGP000023,38,acetyl-CoA acetyltransferase 1,ACAT1
+1827,MGP006531,134526,acyl-CoA thioesterase 12,ACOT12
+1828,MGP005517,55902,acyl-CoA synthetase short-chain family member 2,ACSS2
+1829,MGP005517,55902,acyl-CoA synthetase short-chain family member 2,ACSS2
+1830,MGP005517,55902,acyl-CoA synthetase short-chain family member 2,ACSS2
+1831,MGP000049,97,"acylphosphatase 1, erythrocyte (common) type",ACYP1
+1832,MGP000127,231,"aldo-keto reductase family 1, member B1 (aldose reductase)",AKR1B1
+1833,MGP000117,217,aldehyde dehydrogenase 2 family (mitochondrial),ALDH2
+1834,MGP000837,1737,dihydrolipoamide S-acetyltransferase,DLAT
+1835,MGP000838,1738,dihydrolipoamide dehydrogenase,DLD
+1836,MGP001229,2739,glyoxalase I,GLO1
+1837,MGP003882,9380,glyoxylate reductase/hydroxypyruvate reductase,GRHPR
+1838,MGP001406,3029,hydroxyacylglutathione hydrolase,HAGH
+1839,MGP006677,160287,lactate dehydrogenase A-like 6A,LDHAL6A
+1840,MGP006742,197257,lactate dehydrogenase D,LDHD
+1841,MGP001892,4190,"malate dehydrogenase 1, NAD (soluble)",MDH1
+1842,MGP001896,4199,"malic enzyme 1, NADP(+)-dependent, cytosolic",ME1
+1843,MGP001897,4200,"malic enzyme 2, NAD(+)-dependent, mitochondrial",ME2
+1844,MGP002206,5091,pyruvate carboxylase,PC
+1845,MGP002213,5105,phosphoenolpyruvate carboxykinase 1 (soluble),PCK1
+1846,MGP002228,5160,pyruvate dehydrogenase (lipoamide) alpha 1,PDHA1
+1847,MGP002229,5162,pyruvate dehydrogenase (lipoamide) beta,PDHB
+1848,MGP002303,5313,"pyruvate kinase, liver and RBC",PKLR
+1849,MGP000066,124,"alcohol dehydrogenase 1A (class I), alpha polypeptide",ADH1A
+1850,MGP000116,216,"aldehyde dehydrogenase 1 family, member A1",ALDH1A1
+1851,MGP003719,8854,"aldehyde dehydrogenase 1 family, member A2",ALDH1A2
+1852,MGP006676,158833,acyl-CoA wax alcohol acyltransferase 1,AWAT1
+1853,MGP000774,1592,"cytochrome P450, family 26, subfamily A, polypeptide 1",CYP26A1
+1854,MGP000751,1553,"cytochrome P450, family 2, subfamily A, polypeptide 13",CYP2A13
+1855,MGP000748,1548,"cytochrome P450, family 2, subfamily A, polypeptide 6",CYP2A6
+1856,MGP000749,1549,"cytochrome P450, family 2, subfamily A, polypeptide 7",CYP2A7
+1857,MGP000752,1555,"cytochrome P450, family 2, subfamily B, polypeptide 6",CYP2B6
+1858,MGP000761,1576,"cytochrome P450, family 3, subfamily A, polypeptide 4",CYP3A4
+1859,MGP005795,64816,"cytochrome P450, family 3, subfamily A, polypeptide 43",CYP3A43
+1860,MGP000762,1577,"cytochrome P450, family 3, subfamily A, polypeptide 5",CYP3A5
+1861,MGP000750,1551,"cytochrome P450, family 3, subfamily A, polypeptide 7",CYP3A7
+1862,MGP003653,8694,diacylglycerol O-acyltransferase 1,DGAT1
+1863,MGP003839,9249,dehydrogenase/reductase (SDR family) member 3,DHRS3
+1864,MGP004395,10901,dehydrogenase/reductase (SDR family) member 4,DHRS4
+1865,MGP004153,10170,dehydrogenase/reductase (SDR family) member 9,DHRS9
+1866,MGP005239,51726,"DnaJ (Hsp40) homolog, subfamily B, member 11",DNAJB11
+1867,MGP004417,10961,endoplasmic reticulum protein 29,ERP29
+1868,MGP001516,3309,"heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa)",HSPA5
+1869,MGP004274,10525,hypoxia up-regulated 1,HYOU1
+1870,MGP003834,9227,lecithin retinol acyltransferase (phosphatidylcholine--retinol O-acyltransferase),LRAT
+1871,MGP005786,64714,"protein disulfide isomerase family A, member 2",PDIA2
+1872,MGP003954,9601,"protein disulfide isomerase family A, member 4",PDIA4
+1873,MGP004137,10130,"protein disulfide isomerase family A, member 6",PDIA6
+1874,MGP003470,8228,patatin-like phospholipase domain containing 4,PNPLA4
+1875,MGP002384,5479,peptidylprolyl isomerase B (cyclophilin B),PPIB
+1876,MGP005122,51109,retinol dehydrogenase 11 (all-trans/9-cis/11-cis),RDH11
+1877,MGP006603,145226,retinol dehydrogenase 12 (all-trans/9-cis/11-cis),RDH12
+1878,MGP003617,8608,retinol dehydrogenase 16 (all-trans),RDH16
+1879,MGP005072,50700,retinol dehydrogenase 8 (all-trans),RDH8
+1880,MGP005337,54884,"retinol saturase (all-trans-retinol 13,14-reductase)",RETSAT
+1881,MGP002647,6121,retinal pigment epithelium-specific protein 65kDa,RPE65
+1882,MGP004739,23753,stromal cell-derived factor 2-like 1,SDF2L1
+1883,MGP005314,54658,"UDP glucuronosyltransferase 1 family, polypeptide A1",UGT1A1
+1884,MGP000032,52,"acid phosphatase 1, soluble",ACP1
+1885,MGP002234,5167,ectonucleotide pyrophosphatase/phosphodiesterase 1,ENPP1
+1886,MGP005985,80308,flavin adenine dinucleotide synthetase 1,FLAD1
+1887,MGP005416,55312,riboflavin kinase,RFK
+1888,MGP003230,7299,tyrosinase,TYR
+1889,MGP000105,191,adenosylhomocysteinase,AHCY
+1890,MGP000433,875,cystathionine-beta-synthase,CBS
+1891,MGP000718,1491,cystathionine gamma-lyase,CTH
+1892,MGP001195,2678,gamma-glutamyltransferase 1,GGT1
+1893,MGP001870,4141,methionyl-tRNA synthetase,MARS
+1894,MGP001872,4144,"methionine adenosyltransferase II, alpha",MAT2A
+1895,MGP004968,27430,"methionine adenosyltransferase II, beta",MAT2B
+1896,MGP006520,131965,methyltransferase like 6,METTL6
+1897,MGP005203,51540,selenocysteine lyase,SCLY
+1898,MGP004547,22928,selenophosphate synthetase 2,SEPHS2
+1899,MGP000136,262,adenosylmethionine decarboxylase 1,AMD1
+1900,MGP000136,262,adenosylmethionine decarboxylase 1,AMD1
+1901,MGP001872,4144,"methionine adenosyltransferase II, alpha",MAT2A
+1902,MGP004968,27430,"methionine adenosyltransferase II, beta",MAT2B
+1903,MGP002152,4953,ornithine decarboxylase 1,ODC1
+1904,MGP002928,6611,spermine synthase,SMS
+1905,MGP002978,6723,spermidine synthase,SRM
+1906,MGP006458,125981,alkaline ceramidase 1,ACER1
+1907,MGP005421,55331,alkaline ceramidase 3,ACER3
+1908,MGP000215,410,arylsulfatase A,ARSA
+1909,MGP003865,9331,"UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 6",B4GALT6
+1910,MGP005790,64781,ceramide kinase,CERK
+1911,MGP006439,123099,"delta(4)-desaturase, sphingolipid 2",DEGS2
+1912,MGP006998,339221,ectonucleotide pyrophosphatase/phosphodiesterase 7,ENPP7
+1913,MGP003932,9514,galactose-3-O-sulfotransferase 1,GAL3ST1
+1914,MGP001146,2581,galactosylceramidase,GALC
+1915,MGP001167,2629,"glucosidase, beta, acid",GBA
+1916,MGP001219,2717,"galactosidase, alpha",GLA
+1917,MGP001116,2531,3-ketodihydrosphingosine reductase,KDSR
+1918,MGP004372,10825,sialidase 3 (membrane sialidase),NEU3
+1919,MGP003618,8611,phosphatidic acid phosphatase type 2A,PPAP2A
+1920,MGP006897,259230,sphingomyelin synthase 1,SGMS1
+1921,MGP003730,8879,sphingosine-1-phosphate lyase 1,SGPL1
+1922,MGP006510,130367,sphingosine-1-phosphate phosphatase 2,SGPP2
+1923,MGP005560,56848,sphingosine kinase 2,SPHK2
+1924,MGP004284,10558,"serine palmitoyltransferase, long chain base subunit 1",SPTLC1
+1925,MGP003933,9517,"serine palmitoyltransferase, long chain base subunit 2",SPTLC2
+1926,MGP003261,7357,UDP-glucose ceramide glucosyltransferase,UGCG
+1927,MGP003269,7368,UDP glycosyltransferase 8,UGT8
+1928,MGP000098,178,"amylo-alpha-1, 6-glucosidase, 4-alpha-glucanotransferase",AGL
+1929,MGP000141,276,"amylase, alpha 1A (salivary)",AMY1A
+1930,MGP001168,2632,"glucan (1,4-alpha-), branching enzyme 1",GBE1
+1931,MGP001178,2645,glucokinase (hexokinase 4),GCK
+1932,MGP001280,2821,glucose-6-phosphate isomerase,GPI
+1933,MGP001383,2990,"glucuronidase, beta",GUSB
+1934,MGP001386,2998,glycogen synthase 2 (liver),GYS2
+1935,MGP001440,3099,hexokinase 2,HK2
+1936,MGP003758,8972,maltase-glucoamylase (alpha-glucosidase),MGAM
+1937,MGP002265,5236,phosphoglucomutase 1,PGM1
+1938,MGP006927,283209,phosphoglucomutase 2-like 1,PGM2L1
+1939,MGP002546,5836,"phosphorylase, glycogen, liver",PYGL
+1940,MGP002829,6476,sucrase-isomaltase (alpha-glucosidase),SI
+1941,MGP003262,7358,UDP-glucose 6-dehydrogenase,UGDH
+1942,MGP003263,7360,UDP-glucose pyrophosphorylase 2,UGP2
+1943,MGP004341,10720,"UDP glucuronosyltransferase 2 family, polypeptide B11",UGT2B11
+1944,MGP000024,39,acetyl-CoA acetyltransferase 2,ACAT2
+1945,MGP000777,1595,"cytochrome P450, family 51, subfamily A, polypeptide 1",CYP51A1
+1946,MGP000827,1718,24-dehydrocholesterol reductase,DHCR24
+1947,MGP004332,10682,emopamil binding protein (sterol isomerase),EBP
+1948,MGP001053,2222,farnesyl-diphosphate farnesyltransferase 1,FDFT1
+1949,MGP001054,2224,farnesyl diphosphate synthase,FDPS
+1950,MGP003911,9453,geranylgeranyl diphosphate synthase 1,GGPS1
+1951,MGP001466,3156,3-hydroxy-3-methylglutaryl-CoA reductase,HMGCR
+1952,MGP001467,3157,3-hydroxy-3-methylglutaryl-CoA synthase 1 (soluble),HMGCS1
+1953,MGP005195,51478,hydroxysteroid (17-beta) dehydrogenase 7,HSD17B7
+1954,MGP001557,3422,isopentenyl-diphosphate delta isomerase 1,IDI1
+1955,MGP001823,3988,"lipase A, lysosomal acid, cholesterol esterase",LIPA
+1956,MGP001840,4047,"lanosterol synthase (2,3-oxidosqualene-lanosterol cyclase)",LSS
+1957,MGP002751,6307,methylsterol monooxygenase 1,MSMO1
+1958,MGP001988,4597,mevalonate (diphospho) decarboxylase,MVD
+1959,MGP001989,4598,mevalonate kinase,MVK
+1960,MGP005075,50814,NAD(P) dependent steroid dehydrogenase-like,NSDHL
+1961,MGP004323,10654,phosphomevalonate kinase,PMVK
+1962,MGP002752,6309,sterol-C5-desaturase,SC5D
+1963,MGP002949,6646,sterol O-acyltransferase 1,SOAT1
+1964,MGP002970,6713,squalene epoxidase,SQLE
+1965,MGP003154,7108,transmembrane 7 superfamily member 2,TM7SF2
+1966,MGP000541,1109,"aldo-keto reductase family 1, member C4",AKR1C4
+1967,MGP002975,6718,"aldo-keto reductase family 1, member D1",AKR1D1
+1968,MGP000767,1583,"cytochrome P450, family 11, subfamily A, polypeptide 1",CYP11A1
+1969,MGP000768,1584,"cytochrome P450, family 11, subfamily B, polypeptide 1",CYP11B1
+1970,MGP000769,1585,"cytochrome P450, family 11, subfamily B, polypeptide 2",CYP11B2
+1971,MGP000770,1586,"cytochrome P450, family 17, subfamily A, polypeptide 1",CYP17A1
+1972,MGP000772,1589,"cytochrome P450, family 21, subfamily A, polypeptide 2",CYP21A2
+1973,MGP001506,3290,hydroxysteroid (11-beta) dehydrogenase 1,HSD11B1
+1974,MGP001507,3291,hydroxysteroid (11-beta) dehydrogenase 2,HSD11B2
+1975,MGP001504,3283,"hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 1",HSD3B1
+1976,MGP001505,3284,"hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 2",HSD3B2
+1977,MGP005063,50515,carbohydrate (chondroitin 4) sulfotransferase 11,CHST11
+1978,MGP003020,6817,"sulfotransferase family, cytosolic, 1A, phenol-preferring, member 1",SULT1A1
+1979,MGP003008,6783,"sulfotransferase family 1E, estrogen-preferring, member 1",SULT1E1
+1980,MGP003023,6820,"sulfotransferase family, cytosolic, 2B, member 1",SULT2B1
+1981,MGP003024,6821,sulfite oxidase,SUOX
+1982,MGP000752,1555,"cytochrome P450, family 2, subfamily B, polypeptide 6",CYP2B6
+1983,MGP000757,1565,"cytochrome P450, family 2, subfamily D, polypeptide 6",CYP2D6
+1984,MGP000761,1576,"cytochrome P450, family 3, subfamily A, polypeptide 4",CYP3A4
+1985,MGP000762,1577,"cytochrome P450, family 3, subfamily A, polypeptide 5",CYP3A5
+1986,MGP000988,2099,estrogen receptor 1,ESR1
+1987,MGP001094,2326,flavin containing monooxygenase 1,FMO1
+1988,MGP001095,2328,flavin containing monooxygenase 3,FMO3
+1989,MGP003020,6817,"sulfotransferase family, cytosolic, 1A, phenol-preferring, member 1",SULT1A1
+1990,MGP005305,54575,"UDP glucuronosyltransferase 1 family, polypeptide A10",UGT1A10
+1991,MGP005313,54657,"UDP glucuronosyltransferase 1 family, polypeptide A4",UGT1A4
+1992,MGP006180,84890,2-aminoethanethiol (cysteamine) dioxygenase,ADO
+1993,MGP000518,1036,cysteine dioxygenase type 1,CDO1
+1994,MGP005176,51380,cysteine sulfinic acid decarboxylase,CSAD
+1995,MGP005176,51380,cysteine sulfinic acid decarboxylase,CSAD
+1996,MGP005176,51380,cysteine sulfinic acid decarboxylase,CSAD
+1997,MGP001143,2571,"glutamate decarboxylase 1 (brain, 67kDa)",GAD1
+1998,MGP001143,2571,"glutamate decarboxylase 1 (brain, 67kDa)",GAD1
+1999,MGP006450,124975,gamma-glutamyltransferase 6,GGT6
+2000,MGP006124,84284,"nucleoside-triphosphatase, cancer-related",NTPCR
+2001,MGP004286,10560,"solute carrier family 19 (thiamine transporter), member 2",SLC19A2
+2002,MGP005863,79178,thiamine triphosphatase,THTPA
+2003,MGP004898,27010,thiamin pyrophosphokinase 1,TPK1
+2004,MGP000741,1535,"cytochrome b-245, alpha polypeptide",CYBA
+2005,MGP000742,1536,"cytochrome b-245, beta polypeptide",CYBB
+2006,MGP005268,53905,dual oxidase 1,DUOX1
+2007,MGP005058,50506,dual oxidase 2,DUOX2
+2008,MGP005060,50508,NADPH oxidase 3,NOX3
+2009,MGP005059,50507,NADPH oxidase 4,NOX4
+2010,MGP002864,6528,"solute carrier family 5 (sodium/iodide cotransporter), member 5",SLC5A5
+2011,MGP003117,7038,thyroglobulin,TG
+2012,MGP003186,7173,thyroid peroxidase,TPO
+2013,MGP000606,1244,"ATP-binding cassette, sub-family C (CFTR/MRP), member 2",ABCC2
+2014,MGP000752,1555,"cytochrome P450, family 2, subfamily B, polypeptide 6",CYP2B6
+2015,MGP000757,1565,"cytochrome P450, family 2, subfamily D, polypeptide 6",CYP2D6
+2016,MGP000761,1576,"cytochrome P450, family 3, subfamily A, polypeptide 4",CYP3A4
+2017,MGP002908,6580,"solute carrier family 22 (organic cation transporter), member 1",SLC22A1
+2018,MGP005306,54576,"UDP glucuronosyltransferase 1 family, polypeptide A8",UGT1A8
+2019,MGP003265,7364,"UDP glucuronosyltransferase 2 family, polypeptide B7",UGT2B7
+2020,MGP000028,47,ATP citrate lyase,ACLY
+2021,MGP000692,1431,citrate synthase,CS
+2022,MGP001892,4190,"malate dehydrogenase 1, NAD (soluble)",MDH1
+2023,MGP001896,4199,"malic enzyme 1, NADP(+)-dependent, cytosolic",ME1
+2024,MGP005226,51660,mitochondrial pyruvate carrier 1,MPC1
+2025,MGP005226,51660,mitochondrial pyruvate carrier 1,MPC1
+2026,MGP002206,5091,pyruvate carboxylase,PC
+2027,MGP002228,5160,pyruvate dehydrogenase (lipoamide) alpha 1,PDHA1
+2028,MGP002229,5162,pyruvate dehydrogenase (lipoamide) beta,PDHB
+2029,MGP003545,8402,"solute carrier family 25 (mitochondrial carrier; oxoglutarate carrier), member 11",SLC25A11
+2030,MGP003545,8402,"solute carrier family 25 (mitochondrial carrier; oxoglutarate carrier), member 11",SLC25A11
+2031,MGP000235,476,"ATPase, Na+/K+ transporting, alpha 1 polypeptide",ATP1A1
+2032,MGP000236,477,"ATPase, Na+/K+ transporting, alpha 2 polypeptide",ATP1A2
+2033,MGP000237,478,"ATPase, Na+/K+ transporting, alpha 3 polypeptide",ATP1A3
+2034,MGP000239,480,"ATPase, Na+/K+ transporting, alpha 4 polypeptide",ATP1A4
+2035,MGP000240,481,"ATPase, Na+/K+ transporting, beta 1 polypeptide",ATP1B1
+2036,MGP000241,482,"ATPase, Na+/K+ transporting, beta 2 polypeptide",ATP1B2
+2037,MGP000242,483,"ATPase, Na+/K+ transporting, beta 3 polypeptide",ATP1B3
+2038,MGP000243,486,FXYD domain containing ion transport regulator 2,FXYD2
+2039,MGP001178,2645,glucokinase (hexokinase 4),GCK
+2040,MGP002853,6514,"solute carrier family 2 (facilitated glucose transporter), member 2",SLC2A2
+2041,MGP002861,6523,"solute carrier family 5 (sodium/glucose cotransporter), member 1",SLC5A1
+2042,MGP004474,11181,trehalase (brush-border membrane glycoprotein),TREH
+2043,MGP005134,51166,aminoadipate aminotransferase,AADAT
+2044,MGP000004,15,aralkylamine N-acetyltransferase,AANAT
+2045,MGP006507,130013,aminocarboxymuconate semialdehyde decarboxylase,ACMSD
+2046,MGP006452,125061,arylformamidase,AFMID
+2047,MGP000117,217,aldehyde dehydrogenase 2 family (mitochondrial),ALDH2
+2048,MGP000157,316,aldehyde oxidase 1,AOX1
+2049,MGP000224,438,acetylserotonin O-methyltransferase,ASMT
+2050,MGP000425,847,catalase,CAT
+2051,MGP000745,1543,"cytochrome P450, family 1, subfamily A, polypeptide 1",CYP1A1
+2052,MGP000804,1644,dopa decarboxylase (aromatic L-amino acid decarboxylase),DDC
+2053,MGP004689,23498,"3-hydroxyanthranilate 3,4-dioxygenase",HAAO
+2054,MGP001627,3620,"indoleamine 2,3-dioxygenase 1",IDO1
+2055,MGP004476,11185,indolethylamine N-methyltransferase,INMT
+2056,MGP003603,8564,kynurenine 3-monooxygenase (kynurenine 3-hydroxylase),KMO
+2057,MGP003754,8942,kynureninase,KYNU
+2058,MGP003098,6999,"tryptophan 2,3-dioxygenase",TDO2
+2059,MGP003179,7166,tryptophan hydroxylase 1,TPH1
+2060,MGP003307,7453,tryptophanyl-tRNA synthetase,WARS
+2061,MGP004210,10352,"tryptophanyl tRNA synthetase 2, mitochondrial",WARS2
+2062,MGP000066,124,"alcohol dehydrogenase 1A (class I), alpha polypeptide",ADH1A
+2063,MGP000118,218,"aldehyde dehydrogenase 3 family, member A1",ALDH3A1
+2064,MGP000012,26,"amine oxidase, copper containing 1",AOC1
+2065,MGP000644,1312,catechol-O-methyltransferase,COMT
+2066,MGP000790,1621,dopamine beta-hydroxylase (dopamine beta-monooxygenase),DBH
+2067,MGP000799,1638,dopachrome tautomerase,DCT
+2068,MGP000804,1644,dopa decarboxylase (aromatic L-amino acid decarboxylase),DDC
+2069,MGP001029,2184,fumarylacetoacetate hydrolase (fumarylacetoacetase),FAH
+2070,MGP001270,2805,"glutamic-oxaloacetic transaminase 1, soluble",GOT1
+2071,MGP001360,2954,glutathione S-transferase zeta 1,GSTZ1
+2072,MGP004689,23498,"3-hydroxyanthranilate 3,4-dioxygenase",HAAO
+2073,MGP001434,3081,"homogentisate 1,2-dioxygenase",HGD
+2074,MGP001492,3242,4-hydroxyphenylpyruvate dioxygenase,HPD
+2075,MGP001867,4128,monoamine oxidase A,MAOA
+2076,MGP001926,4282,macrophage migration inhibitory factor (glycosylation-inhibiting factor),MIF
+2077,MGP002348,5409,phenylethanolamine N-methyltransferase,PNMT
+2078,MGP003066,6898,tyrosine aminotransferase,TAT
+2079,MGP003230,7299,tyrosinase,TYR
+2080,MGP004942,27235,coenzyme Q2 4-hydroxybenzoate polyprenyltransferase,COQ2
+2081,MGP005253,51805,coenzyme Q3 methyltransferase,COQ3
+2082,MGP006122,84274,"coenzyme Q5 homolog, methyltransferase (S. cerevisiae)",COQ5
+2083,MGP005093,51004,coenzyme Q6 monooxygenase,COQ6
+2084,MGP004169,10229,"coenzyme Q7 homolog, ubiquinone (yeast)",COQ7
+2085,MGP000195,383,arginase 1,ARG1
+2086,MGP000223,435,argininosuccinate lyase,ASL
+2087,MGP000227,445,argininosuccinate synthase 1,ASS1
+2088,MGP000671,1373,"carbamoyl-phosphate synthase 1, mitochondrial",CPS1
+2089,MGP004931,27165,"glutaminase 2 (liver, mitochondrial)",GLS2
+2090,MGP001236,2746,glutamate dehydrogenase 1,GLUD1
+2091,MGP001271,2806,"glutamic-oxaloacetic transaminase 2, mitochondrial",GOT2
+2092,MGP001302,2875,glutamic-pyruvate transaminase (alanine aminotransferase),GPT
+2093,MGP002176,5009,ornithine carbamoyltransferase,OTC
+2094,MGP002848,6509,"solute carrier family 1 (glutamate/neutral amino acid transporter), member 4",SLC1A4
+2095,MGP002849,6510,"solute carrier family 1 (neutral amino acid transporter), member 5",SLC1A5
+2096,MGP003614,8604,"solute carrier family 25 (aspartate/glutamate carrier), member 12",SLC25A12
+2097,MGP004151,10166,solute carrier family 25 (mitochondrial carrier; ornithine transporter) member 15,SLC25A15
+2098,MGP000006,18,4-aminobutyrate aminotransferase,ABAT
+2099,MGP004244,10449,acetyl-CoA acyltransferase 2,ACAA2
+2100,MGP004906,27034,"acyl-CoA dehydrogenase family, member 8",ACAD8
+2101,MGP000019,34,"acyl-CoA dehydrogenase, C-4 to C-12 straight chain",ACADM
+2102,MGP000019,34,"acyl-CoA dehydrogenase, C-4 to C-12 straight chain",ACADM
+2103,MGP000020,35,"acyl-CoA dehydrogenase, C-2 to C-3 short chain",ACADS
+2104,MGP000021,36,"acyl-CoA dehydrogenase, short/branched chain",ACADSB
+2105,MGP000023,38,acetyl-CoA acetyltransferase 1,ACAT1
+2106,MGP000117,217,aldehyde dehydrogenase 2 family (mitochondrial),ALDH2
+2107,MGP001949,4329,"aldehyde dehydrogenase 6 family, member A1",ALDH6A1
+2108,MGP000157,316,aldehyde oxidase 1,AOX1
+2109,MGP000278,549,AU RNA binding protein/enoyl-CoA hydratase,AUH
+2110,MGP000292,586,"branched chain amino-acid transaminase 1, cytosolic",BCAT1
+2111,MGP000295,593,"branched chain keto acid dehydrogenase E1, alpha polypeptide",BCKDHA
+2112,MGP000296,594,"branched chain keto acid dehydrogenase E1, beta polypeptide",BCKDHB
+2113,MGP000792,1629,dihydrolipoamide branched chain transacylase E2,DBT
+2114,MGP000838,1738,dihydrolipoamide dehydrogenase,DLD
+2115,MGP000902,1892,"enoyl CoA hydratase, short chain, 1, mitochondrial",ECHS1
+2116,MGP004454,11112,3-hydroxyisobutyrate dehydrogenase,HIBADH
+2117,MGP004840,26275,3-hydroxyisobutyryl-CoA hydrolase,HIBCH
+2118,MGP001465,3155,3-hydroxymethyl-3-methylglutaryl-CoA lyase,HMGCL
+2119,MGP001468,3158,3-hydroxy-3-methylglutaryl-CoA synthase 2 (mitochondrial),HMGCS2
+2120,MGP001405,3028,hydroxysteroid (17-beta) dehydrogenase 10,HSD17B10
+2121,MGP001689,3712,isovaleryl-CoA dehydrogenase,IVD
+2122,MGP005568,56922,methylcrotonoyl-CoA carboxylase 1 (alpha),MCCC1
+2123,MGP005568,56922,methylcrotonoyl-CoA carboxylase 1 (alpha),MCCC1
+2124,MGP005740,64087,methylcrotonoyl-CoA carboxylase 2 (beta),MCCC2
+2125,MGP006161,84693,methylmalonyl CoA epimerase,MCEE
+2126,MGP001986,4594,methylmalonyl CoA mutase,MUT
+2127,MGP002179,5019,3-oxoacid CoA transferase 1,OXCT1
+2128,MGP002210,5095,"propionyl CoA carboxylase, alpha polypeptide",PCCA
+2129,MGP002211,5096,"propionyl CoA carboxylase, beta polypeptide",PCCB
+2130,MGP000021,36,"acyl-CoA dehydrogenase, short/branched chain",ACADSB
+2131,MGP006367,116285,acyl-CoA synthetase medium-chain family member 1,ACSM1
+2132,MGP000748,1548,"cytochrome P450, family 2, subfamily A, polypeptide 6",CYP2A6
+2133,MGP000752,1555,"cytochrome P450, family 2, subfamily B, polypeptide 6",CYP2B6
+2134,MGP000755,1559,"cytochrome P450, family 2, subfamily C, polypeptide 9",CYP2C9
+2135,MGP000931,1962,"enoyl-CoA, hydratase/3-hydroxyacyl CoA dehydrogenase",EHHADH
+2136,MGP001407,3030,"hydroxyacyl-CoA dehydrogenase/3-ketoacyl-CoA thiolase/enoyl-CoA hydratase (trifunctional protein), alpha subunit",HADHA
+2137,MGP001408,3032,"hydroxyacyl-CoA dehydrogenase/3-ketoacyl-CoA thiolase/enoyl-CoA hydratase (trifunctional protein), beta subunit",HADHB
+2138,MGP001405,3028,hydroxysteroid (17-beta) dehydrogenase 10,HSD17B10
+2139,MGP001689,3712,isovaleryl-CoA dehydrogenase,IVD
+2140,MGP005315,54659,"UDP glucuronosyltransferase 1 family, polypeptide A3",UGT1A3
+2141,MGP000056,108,adenylate cyclase 2 (brain),ADCY2
+2142,MGP000282,554,arginine vasopressin receptor 2,AVPR2
+2143,MGP001109,2492,follicle stimulating hormone receptor,FSHR
+2144,MGP001250,2778,GNAS complex locus,GNAS
+2145,MGP001250,2778,GNAS complex locus,GNAS
+2146,MGP001254,2782,"guanine nucleotide binding protein (G protein), beta polypeptide 1",GNB1
+2147,MGP005525,55970,"guanine nucleotide binding protein (G protein), gamma 12",GNG12
+2148,MGP002415,5567,"protein kinase, cAMP-dependent, catalytic, beta",PRKACB
+2149,MGP002268,5243,"ATP-binding cassette, sub-family B (MDR/TAP), member 1",ABCB1
+2150,MGP001961,4363,"ATP-binding cassette, sub-family C (CFTR/MRP), member 1",ABCC1
+2151,MGP006217,89845,"ATP-binding cassette, sub-family C (CFTR/MRP), member 10",ABCC10
+2152,MGP000606,1244,"ATP-binding cassette, sub-family C (CFTR/MRP), member 2",ABCC2
+2153,MGP003659,8714,"ATP-binding cassette, sub-family C (CFTR/MRP), member 3",ABCC3
+2154,MGP000512,1026,"cyclin-dependent kinase inhibitor 1A (p21, Cip1)",CDKN1A
+2155,MGP000761,1576,"cytochrome P450, family 3, subfamily A, polypeptide 4",CYP3A4
+2156,MGP004405,10928,ralA binding protein 1,RALBP1
+2157,MGP003175,7157,tumor protein p53,TP53
+2158,MGP004215,10376,"tubulin, alpha 1b",TUBA1B
+2159,MGP006012,81027,"tubulin, beta 1 class VI",TUBB1
+2160,MGP000134,249,"alkaline phosphatase, liver/bone/kidney",ALPL
+2161,MGP000157,316,aldehyde oxidase 1,AOX1
+2162,MGP003605,8566,"pyridoxal (pyridoxine, vitamin B6) kinase",PDXK
+2163,MGP005588,57026,"pyridoxal (pyridoxine, vitamin B6) phosphatase",PDXP
+2164,MGP001004,2147,coagulation factor II (thrombin),F2
+2165,MGP001194,2677,gamma-glutamyl carboxylase,GGCX
+2166,MGP000832,1728,"NAD(P)H dehydrogenase, quinone 1",NQO1
+2167,MGP005842,79001,"vitamin K epoxide reductase complex, subunit 1",VKORC1

@@ -3,7 +3,7 @@ from selenium import webdriver as wd
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
-
+import platform
 from System import InsidePath as ip
 
 
@@ -13,8 +13,13 @@ class SeleniumUtils:
 
     def __init__(self, websiteUrl: str):
         options = wd.ChromeOptions()
-        options.binary_location ="C:\Program Files\Google\Chrome\Application\chrome.exe"
-        chrome_driver_binary = r"C:\Users\shake\PycharmProjects\pythonProject\SeleniumDriver\chromedriver_win32\chromedriver.exe"
+        if platform.system() == 'Windows':
+            options.binary_location = "C:\Program Files\Google\Chrome\Application\chrome.exe"
+            chrome_driver_binary = r"C:\Users\shake\PycharmProjects\pythonProject\SeleniumDriver\chromedriver_win32\chromedriver.exe"
+        elif platform.system() == 'Darwin':
+            options.binary_location = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+            chrome_driver_binary = r"/Users/rachel/PycharmProjects/CromosomX/SeleniumDriver/chromedriver_mac64/chromedriver"
+
         self.driver = wd.Chrome(chrome_driver_binary, chrome_options=options)
         self.websiteUrl = websiteUrl
 
