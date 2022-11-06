@@ -13,10 +13,10 @@ class SeleniumUtils:
 
     def __init__(self, websiteUrl: str):
         options = wd.ChromeOptions()
-        if platform.system() == 'Windows':
+        if platform.system() == 'Windows': #for windows users
             options.binary_location = "C:\Program Files\Google\Chrome\Application\chrome.exe"
             chrome_driver_binary = r"C:\Users\shake\PycharmProjects\pythonProject\SeleniumDriver\chromedriver_win32\chromedriver.exe"
-        elif platform.system() == 'Darwin':
+        elif platform.system() == 'Darwin': # for macintosh users
             options.binary_location = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
             chrome_driver_binary = r"/Users/rachel/PycharmProjects/CromosomX/SeleniumDriver/chromedriver_mac64/chromedriver"
 
