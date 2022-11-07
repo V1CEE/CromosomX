@@ -38,4 +38,4 @@ class SeleniumUtils:
         return self.driver.find_element(By.XPATH,xpath)
 
     def __del__(self):
-        pass
+        self.driver.quit()
