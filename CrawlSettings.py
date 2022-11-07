@@ -31,8 +31,7 @@ class SeleniumUtils:
 
     def WaitElement(self, xpath: str):
         waitSecond = 0.5
-        WebDriverWait(self.driver, waitSecond) \
-            .until(EC.presence_of_element_located((By.XPATH, xpath)))
+        WebDriverWait(self.driver, waitSecond).until(EC.presence_of_element_located((By.XPATH, xpath)))
 
     def FindElementByXPATH(self, xpath: str):
         return self.driver.find_element(By.XPATH,xpath)

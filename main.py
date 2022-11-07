@@ -33,8 +33,7 @@ def main_df(seleniumCls:SeleniumUtils):
     Savedf2CSV(df, 'main_df')
 
 def main_df_read(seleniumCls:SeleniumUtils):
-    df = Re
-    adf2CSV('main_df')
+    df = Readf2CSV('main_df')
     Savedf2CSV(pd.concat(MGPdf(seleniumCls, df['MGP ID'].tolist()), ignore_index = True), 'MGPdf')
 
 
