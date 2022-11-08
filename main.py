@@ -11,12 +11,16 @@ from selenium.webdriver.common.by import By
 from System import InsidePath as ip
 
 def main_run():
-    if input("enter Read or Create\n") == 'Create':
+    call = input("enter Read or Create\n").lower()
+    if call == 'create':
         seleniumCls = SeleniumUtils(r'https://www.metabolomicsworkbench.org/databases/proteome/MGP.php')
         main_df(seleniumCls)
-    else:
+    elif call == 'read':
         seleniumCls = SeleniumUtils(r'https://www.metabolomicsworkbench.org/databases/proteome/MGP.php')
         main_df_read(seleniumCls)
+    else:
+        print("try again\n")
+        main_run()
 
 def main_df(seleniumCls:SeleniumUtils):
     seleniumCls.OpenWebsite()
