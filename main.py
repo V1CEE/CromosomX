@@ -20,7 +20,6 @@ def main_run():
         main_df_read(seleniumCls)
     elif call == 'concat':
         df = pd.concat([Readf2CSV('main_df'), Readf2CSV('MGPdf')],axis=1)
-        df.drop(columns=['Unnamed: 0','geneSymbol'], inplace=True)
         Savedf2CSV(df, 'CromosomXgenes')
     else:
         print('try again\n')
