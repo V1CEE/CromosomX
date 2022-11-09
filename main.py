@@ -11,26 +11,35 @@ from selenium.webdriver.common.by import By
 from System import InsidePath as ip
 
 def main_run():
-    call = input("enter Read or Create\n").lower()
+    call = input("enter Read/Create/concat\n").lower()
     if call == 'create':
         seleniumCls = SeleniumUtils(r'https://www.metabolomicsworkbench.org/databases/proteome/MGP.php')
         main_df(seleniumCls)
     elif call == 'read':
         seleniumCls = SeleniumUtils(r'https://www.metabolomicsworkbench.org/databases/proteome/MGP.php')
         main_df_read(seleniumCls)
+    elif call == 'concat':
+        df = pd.concat([Readf2CSV('main_df'), Readf2CSV('MGPdf')],axis=1)
+        df.drop(columns=['Unnamed: 0','geneSymbol'], inplace=True)
+        Savedf2CSV(df, 'CromosomXgenes')
     else:
-        print("try again\n")
+        print('try again\n')
         main_run()
 
 def main_df(seleniumCls:SeleniumUtils):
     seleniumCls.OpenWebsite()
     dropDown = Select(seleniumCls.FindElementByXPATH('//select[@name="SMP_PATHWAY_ID"]'))
+    count = Select(seleniumCls.FindElementByXPATH('//select[@name="nums"]'))
     df_list = []
-    for i in tqdm(range(1, len(dropDown.options)-1)):
+    for i in tqdm(range(1, len(dropDown.options))):
         dropDown.select_by_index(i)
+        count.select_by_visible_text("All")
+        pathway_name = dropDown.first_selected_option.text
         button = seleniumCls.FindElementByXPATH("//input[@type='Submit']").click()
         df_list.append(pd.read_html(seleniumCls.driver.page_source)[2])
+        df_list[-1]['pathway_name'] = pathway_name
         seleniumCls.OpenWebsite()
+        count = Select(seleniumCls.FindElementByXPATH('//select[@name="nums"]'))
         dropDown = Select(seleniumCls.FindElementByXPATH('//select[@name="SMP_PATHWAY_ID"]'))
     df = pd.concat(df_list, ignore_index = True)
     df.drop('Enzyme/Reactants', axis=1, inplace=True)
@@ -60,7 +69,7 @@ def MGPdf(seleniumCls:SeleniumUtils, mgp_num_list:list):
 
 
 
-        df_list.append(pd.DataFrame(data={'geneSymbol':geneSymbol, 'map_loc': map_loc, 'chromosome': chromosome, 'synonyms': synonyms, 'summary': summary}, index=[0]))
+        df_list.append(pd.DataFrame(data={ 'geneSymbol': mgp_num_list[i],'geneSymbol_link':geneSymbol, 'map_loc': map_loc, 'chromosome': chromosome, 'synonyms': synonyms, 'summary': summary}, index=[0]))
     return df_list
 
 
