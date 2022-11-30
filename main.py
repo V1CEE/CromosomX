@@ -9,9 +9,10 @@ from selenium.webdriver.chrome.service import Service as ChromeService
 from CrawlSettings import SeleniumUtils
 from selenium.webdriver.common.by import By
 from System import InsidePath as ip
+from chromosomX import chromosomXprobsExtract
 
 def main_run():
-    call = input("enter Read/Create/concat\n").lower()
+    call = input("enter Read/Create/concat/chromosomXprobsExtract\n").lower()
     if call == 'create':
         seleniumCls = SeleniumUtils(r'https://www.metabolomicsworkbench.org/databases/proteome/MGP.php')
         main_df(seleniumCls)
@@ -19,8 +20,10 @@ def main_run():
         seleniumCls = SeleniumUtils(r'https://www.metabolomicsworkbench.org/databases/proteome/MGP.php')
         main_df_read(seleniumCls)
     elif call == 'concat':
-        df = pd.concat([Readf2CSV('main_df'), Readf2CSV('MGPdf')],axis=1)
+        df = pd.concat([ReadfCSV('main_df'), ReadfCSV('MGPdf')], axis=1)
         Savedf2CSV(df, 'CromosomXgenes')
+    elif call == 'chromosomxprobsextract':
+        chromosomXprobsExtract()
     else:
         print('try again\n')
         main_run()
@@ -45,7 +48,7 @@ def main_df(seleniumCls:SeleniumUtils):
     Savedf2CSV(df, 'main_df')
 
 def main_df_read(seleniumCls:SeleniumUtils):
-    df = Readf2CSV('main_df')
+    df = ReadfCSV('main_df')
     Savedf2CSV(pd.concat(MGPdf(seleniumCls, df['MGP ID'].tolist()), ignore_index = True), 'MGPdf')
 
 
