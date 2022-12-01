@@ -24,3 +24,26 @@ def chromosomXprobsExtract(): #all probs of chromosomX related genes
                 df = pd.DataFrame(dict, index=[0])
                 flag = 1
     Savedf2CSV(df, 'Probs')
+
+
+def cromosomXGenderMapper():
+    probs = ReadfCSV('Probs')
+    refbase = ReadfPARQUET('Healthy_REFBASE')
+    info = ReadfPARQUET('HEALTHY_INFO')
+    flag = 0
+    probDict = {}
+    for i,prob in enumerate(probs['cg']):
+        data = refbase.loc[prob]
+        dict = {}
+        probDict = {}
+        for obj in refbase.columns.values:
+            dict[obj] = info.loc[obj]['gender']
+        data.rename(index=dict, inplace = True)
+        if flag == 0:
+            df = data.copy()
+            flag = 1
+        elif flag == 1:
+            df = pd.concat([df,data],axis=1)
+    Savedf2CSV(df, 'ProbsGeder')
+
+cromosomXGenderMapper()
