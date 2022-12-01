@@ -44,6 +44,13 @@ def cromosomXGenderMapper():
             flag = 1
         elif flag == 1:
             df = pd.concat([df,data],axis=1)
+    df = pd.concat([df.index.to_series(),df], axis = 1)
+    print(df.columns.values[0])
+    dict = {df.columns.values[0], 'gender'}
+    df.rename(columns={df.columns.values[0]: 'gender'},inplace=True)
     Savedf2CSV(df, 'ProbsGeder')
+
+
+
 
 cromosomXGenderMapper()
