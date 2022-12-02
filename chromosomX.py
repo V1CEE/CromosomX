@@ -1,5 +1,5 @@
 import pandas as pd
-
+from matplotlib import pyplot as plt
 from DataMgmt import *
 from tqdm import tqdm
 
@@ -24,3 +24,30 @@ def chromosomXprobsExtract(): #all probs of chromosomX related genes
                 df = pd.DataFrame(dict, index=[0])
                 flag = 1
     Savedf2CSV(df, 'Probs')
+
+
+def chromosomXgraphGender():
+    probs = ReadfCSV('Probs')
+    refbase = ReadfPARQUET('Healthy_REFBASE')
+    info = ReadfPARQUET('HEALTHY_INFO')
+    refcols = refbase.columns.values.tolist()
+    for prob in probs['cg']:
+        gsmMaleList = [idx for idx in refcols if info['gender'][idx] == 'male']
+        ageMalelist = info.loc[gsmMaleList]['age'].tolist()
+        valuesMale = refbase[gsmMaleList]
+        valuesMale = valuesMale.loc[prob]
+    for prob in probs['cg']:
+        gsmFemaleList = [idx for idx in refcols if info['gender'][idx] == 'female']
+        ageFemalelist = info.loc[gsmMaleList]['age'].tolist()
+        valuesFemale = refbase[gsmMaleList]
+        valuesFemale = valuesMale.loc[prob]
+    fig = plt.figure()
+    ax1 = plt.subplot(211)
+    ax2 = plt.subplot(212)
+    ax1.plot(ageMalelist,valuesMale)
+    ax1.title('Male')
+    ax2.plot(ageFemalelist, valuesFemale)
+    ax2.title('Female')
+    plt.show()
+
+chromosomXgraphGender()
