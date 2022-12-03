@@ -8,3 +8,5 @@ def ReadfCSV(name: str):
 def ReadfPARQUET(name: str):
     df = pd.read_parquet('Files' + os.sep + name + '.parquet')
     return df
+def Savedf2PARQUET(df:pd.DataFrame, name:str):
+    df.to_parquet('Files' + os.sep + name + '.csv', index=False)
