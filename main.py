@@ -9,10 +9,11 @@ from selenium.webdriver.chrome.service import Service as ChromeService
 from CrawlSettings import SeleniumUtils
 from selenium.webdriver.common.by import By
 from System import InsidePath as ip
-from chromosomX import chromosomXprobsExtract
+from chromosomX import chromosomXprobsExtract, chromosomXgraphGender
+
 
 def main_run():
-    call = input("enter Read/Create/concat/chromosomXprobsExtract\n").lower()
+    call = input("enter Read/Create/concat/chromosomXprobsExtract/chromosomXprobsgraghGender\n").lower()
     if call == 'create':
         seleniumCls = SeleniumUtils(r'https://www.metabolomicsworkbench.org/databases/proteome/MGP.php')
         main_df(seleniumCls)
@@ -24,6 +25,15 @@ def main_run():
         Savedf2CSV(df, 'CromosomXgenes')
     elif call == 'chromosomxprobsextract':
         chromosomXprobsExtract()
+    elif call == 'chromosomxprobsgraghgender':
+        cgStart = input('enter cg to start graph from\n')
+        if cgStart.isascii():
+            chromosomXgraphGender(cgStart)
+        elif cgStart == 0:
+            chromosomXgraphGender(str(0))
+        else:
+            print('try again\n')
+            main_run()
     else:
         print('try again\n')
         main_run()

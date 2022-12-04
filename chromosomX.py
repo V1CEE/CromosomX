@@ -26,7 +26,7 @@ def chromosomXprobsExtract(): #all probs of chromosomX related genes
     Savedf2CSV(df, 'Probs')
 
 
-def chromosomXgraphGender():
+def chromosomXgraphGender(cgStart: str):
     probs = ReadfCSV('Probs')
     refbase = ReadfPARQUET('Healthy_REFBASE')
     info = ReadfPARQUET('HEALTHY_INFO')
@@ -37,21 +37,25 @@ def chromosomXgraphGender():
     gsmFemaleList = [idx for idx in refcols if info['gender'][idx] == 'female']
     ageFemalelist = info.loc[gsmFemaleList]['age'].tolist()
     valuesFemale = refbase[gsmFemaleList]
+    if cgStart == str(0):
+        pass
+    elif cgStart.isascii():
+        idx = probs['cg'].tolist().index(cgStart)
+        probs = probs.iloc[probs['cg'].tolist().index(cgStart):]
     for prob in probs['cg']:
         fig = plt.figure()
+        fig.suptitle(prob)
         ax1 = plt.subplot(211)
         ax2 = plt.subplot(212)
         valuesMalecurr = valuesMale.loc[prob]
         valuesFemalecurr = valuesFemale.loc[prob]
         ax1.scatter(ageMalelist, valuesMalecurr)
-        ax1.set_title('Male ' + prob)
+        ax1.set_title('Male')
         ax1.set_xlabel('Age')
         ax1.set_ylabel('beta value')
         ax2.scatter(ageFemalelist, valuesFemalecurr)
-        ax2.set_title('Female ' + prob)
+        ax2.set_title('Female')
         ax2.set_xlabel('Age')
         ax2.set_ylabel('beta value')
         fig.tight_layout()
         plt.show()
-
-chromosomXgraphGender()
