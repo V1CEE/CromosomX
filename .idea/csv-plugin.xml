@@ -17,7 +17,28 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\Files\CromosomXgenes.csv">
+        <entry key="\Files\GeneralGenes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Files\Probs.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Files\ProbsGeder.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Files\main_df.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
