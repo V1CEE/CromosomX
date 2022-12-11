@@ -2,6 +2,7 @@ import pandas as pd
 from matplotlib import pyplot as plt
 from DataMgmt import *
 from tqdm import tqdm
+import warnings
 
 def chromosomXprobsExtract(): #all probs of chromosomX related genes
     all_450 = ReadfCSV('all_450K')
@@ -59,3 +60,27 @@ def chromosomXgraphGender(cgStart: str):
         ax2.set_ylabel('beta value')
         fig.tight_layout()
         plt.show()
+
+def chromosomXnonStationary():
+    warnings.filterwarnings("ignore", category=UserWarning, module="pandas")
+    from statsmodels.tsa.stattools import adfuller
+    probs = ReadfCSV('ProbsGender')
+    probs = ReadfCSV('ProbsGender').columns.tolist()[1:]
+    refbase = ReadfPARQUET('HEALTHY_REFBASE')
+    info = ReadfPARQUET('HEALTHY_INFO')
+    df = refbase.T.copy()
+    print(probs)
+    df = df[probs]
+    df.index = info.loc[df.index.values.tolist()]['age']
+    df2 = pd.DataFrame()
+    for col in tqdm(df.columns):
+        series = df[col].groupby(df.index)
+        series = series.mean()
+        result = adfuller(series)
+        p_value = result[1]
+        if p_value > 0.05:
+            df2[col] = df[col]
+            Savedf2CSV(df2, 'probsNonStatinary')
+        else:
+            pass
+    Savedf2CSV(df2,'probsNonStatinary')
