@@ -64,23 +64,75 @@ def chromosomXgraphGender(cgStart: str):
 def chromosomXnonStationary():
     warnings.filterwarnings("ignore", category=UserWarning, module="pandas")
     from statsmodels.tsa.stattools import adfuller
-    probs = ReadfCSV('ProbsGender')
-    probs = ReadfCSV('ProbsGender').columns.tolist()[1:]
+    probs = ReadfCSV('Probs').index.values.tolist()
     refbase = ReadfPARQUET('HEALTHY_REFBASE')
     info = ReadfPARQUET('HEALTHY_INFO')
     df = refbase.T.copy()
-    print(probs)
     df = df[probs]
     df.index = info.loc[df.index.values.tolist()]['age']
     df2 = pd.DataFrame()
-    for col in tqdm(df.columns):
-        series = df[col].groupby(df.index)
+    df = df.T
+    df.drop_duplicates(inplace=True)
+    for col in tqdm(df.index.values.tolist()):
+        series = df.loc[col].groupby(df.columns.values.tolist())
         series = series.mean()
         result = adfuller(series)
         p_value = result[1]
-        if p_value > 0.05:
-            df2[col] = df[col]
+        if p_value <= 0.05:
+            df2[col] = df.loc[col]
             Savedf2CSV(df2, 'probsNonStatinary')
         else:
             pass
+    df2.index = refbase.columns
     Savedf2CSV(df2,'probsNonStatinary')
+
+def IQR(data :pd.DataFrame, prob: str):
+    df = data.copy()
+    mean = df[prob].mean()
+    std = df[prob].std()
+    for idx in df.index:
+        if df.loc[idx][prob] > mean + 2*std or df.loc[idx][prob] < mean - 2*std:
+            df.drop(idx, axis=0, inplace=True)
+    return df
+
+def chromosomXgraphStationary():
+    probsNonStatinary = ReadfCSV('probsNonStatinary')
+    probs = probsNonStatinary.columns.values.tolist()
+    info = ReadfPARQUET('HEALTHY_INFO')
+    ages = info.loc[probsNonStatinary.index]['age']
+    df = pd.DataFrame()
+    for prob in probs:
+        df['ages'] = ages
+        df[prob] = probsNonStatinary[prob]
+        df = IQR(df,prob)
+        fig = plt.figure()
+        fig.suptitle(prob)
+        ax1 = plt.subplot(111)
+        ax1.scatter(df['ages'], df[prob])
+        plt.savefig('Images' + os.sep + prob + '.png')
+        plt.tight_layout()
+
+def chromosomXgraphStationary3plots():
+    probsNonStatinary = ReadfCSV('probsNonStatinary')
+    probs = probsNonStatinary.columns.values.tolist()
+    info = ReadfPARQUET('HEALTHY_INFO')
+    ages = info.loc[probsNonStatinary.index]['age']
+    df = pd.DataFrame()
+    for prob in probs:
+        df['ages'] = ages
+        df[prob] = probsNonStatinary[prob]
+        df = IQR(df,prob)
+        fig = plt.figure()
+        fig.suptitle(prob)
+        ax1 = plt.subplot(311)
+        ax1.scatter(df['ages'], df[prob])
+        ax2 = plt.subplot(312)
+        means = df[prob].groupby(df['ages']).mean()
+        ax2.scatter(means.index.values, means)
+        ax3 = plt.subplot(313)
+        std = df[prob].groupby(df['ages']).std()
+        ax3.scatter(std.index.values, std)
+        plt.savefig('Images/3Plots' + os.sep + prob + '.png')
+        plt.tight_layout()
+
+chromosomXgraphStationary3plots()

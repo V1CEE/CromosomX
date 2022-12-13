@@ -24,6 +24,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Files\MGPdf.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Files\Probs.csv">
           <value>
             <Attribute>
@@ -31,14 +38,14 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\Files\ProbsGeder.csv">
+        <entry key="\Files\main_df.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\Files\main_df.csv">
+        <entry key="\Files\probsNonStatinary.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
