@@ -135,4 +135,51 @@ def chromosomXgraphStationary3plots():
         plt.savefig('Images/3Plots' + os.sep + prob + '.png')
         plt.tight_layout()
 
-chromosomXgraphStationary3plots()
+
+def chromosomXgraphStationary3plotsGender(cgstart:str, gender:str):
+    probsNonStatinary = ReadfCSV('probsNonStatinary')
+    probs = probsNonStatinary.columns.values.tolist()
+    info = ReadfPARQUET('HEALTHY_INFO')
+    merged = probsNonStatinary.merge(info, left_index=True, right_index=True)
+    males_ages = merged[merged['gender'] == 'male']['age']
+    male_gsm = merged[merged['gender'] == 'male'].index.values.tolist()
+    female_ages = merged[merged['gender'] == 'female']['age']
+    female_gsm = merged[merged['gender'] == 'female'].index.values.tolist()
+    df = pd.DataFrame()
+    if gender == 'male':
+        for prob in tqdm(probs[probs.index(cgstart):]):
+            df['ages'] = males_ages
+            df[prob] = merged.loc[male_gsm][prob]
+            df = IQR(df,prob)
+            fig = plt.figure()
+            fig.suptitle(prob)
+            ax1 = plt.subplot(311)
+            ax1.scatter(df['ages'], df[prob])
+            ax2 = plt.subplot(312)
+            means = df[prob].groupby(df['ages']).mean()
+            ax2.scatter(means.index.values, means)
+            ax3 = plt.subplot(313)
+            std = df[prob].groupby(df['ages']).std()
+            ax3.scatter(std.index.values, std)
+            plt.savefig('Images/3Plots' + os.sep + prob + 'Male.png')
+            plt.tight_layout()
+    else:
+        for prob in probs[probs.index(cgstart):]:
+            df['ages'] = female_ages
+            df[prob] = merged.loc[female_gsm][prob]
+            df = IQR(df,prob)
+            fig = plt.figure()
+            fig.suptitle(prob)
+            ax1 = plt.subplot(311)
+            ax1.scatter(df['ages'], df[prob])
+            ax2 = plt.subplot(312)
+            means = df[prob].groupby(df['ages']).mean()
+            ax2.scatter(means.index.values, means)
+            ax3 = plt.subplot(313)
+            std = df[prob].groupby(df['ages']).std()
+            ax3.scatter(std.index.values, std)
+            plt.savefig('Images/3Plots' + os.sep + prob + 'Female.png')
+            plt.tight_layout()
+
+
+chromosomXgraphStationary3plotsGender('cg00121904','female')
