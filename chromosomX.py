@@ -95,6 +95,28 @@ def IQR(data :pd.DataFrame, prob: str):
             df.drop(idx, axis=0, inplace=True)
     return df
 
+def IQRbyAge(data :pd.Series):
+    info = ReadfPARQUET('HEALTHY_INFO')
+    df = data.copy()
+    ages = list(set(info['age']))#removes duplicates
+    DFlist = []
+    for age in ages:
+        indexes = info[info['age'] == age].index.values.tolist() # get gsm of people with the corresponding age parameter
+        indexes = [x for x in indexes if x in df.index.values.tolist()] ##some gsm are in info but not in stationary dataframe
+        if len(indexes) != 0:
+            ValuesOfAge = df.loc[indexes] #values of beta values of people with the corresponding age parameter
+            mean = ValuesOfAge.mean()
+            std = ValuesOfAge.std()
+            for i,value in enumerate(ValuesOfAge):
+                series = pd.Series()
+                if value <= mean + 2*std or value >= mean-2*std:
+                    series[ValuesOfAge.index.values.tolist()[i]] = value
+            DFlist.append(series)
+    df = pd.concat(DFlist)
+    return df
+
+
+
 def chromosomXgraphStationary():
     probsNonStatinary = ReadfCSV('probsNonStatinary')
     probs = probsNonStatinary.columns.values.tolist()
@@ -182,4 +204,38 @@ def chromosomXgraphStationary3plotsGender(cgstart:str, gender:str):
             plt.tight_layout()
 
 
-chromosomXgraphStationary3plotsGender('cg00121904','female')
+def chromosomXNonStationaryCleanerForEachAge(probsNonStationary: pd.DataFrame):
+    import warnings
+    warnings.simplefilter(action='ignore', category=FutureWarning)
+    info = ReadfPARQUET('HEALTHY_INFO')
+    MaleDF = probsNonStationary[info.loc[probsNonStationary.index]['gender'] == 'male']
+    FemaleDF = probsNonStationary[info.loc[probsNonStationary.index]['gender'] == 'female']
+    tupleDfMaleList = []
+    tupleDfFemaleList = []
+    for prob in tqdm(probsNonStationary.columns):
+        tupleDfMaleList.append((prob,IQRbyAge(MaleDF[prob])))
+        tupleDfFemaleList.append((prob,IQRbyAge(FemaleDF[prob])))
+    MaleDF = pd.DataFrame()
+    FemaleDF = pd.DataFrame()
+    MaleDF[tupleDfMaleList[0][0]] = tupleDfMaleList[0][1]
+    FemaleDF[tupleDfFemaleList[0][0]] = tupleDfFemaleList[0][1]
+    for item1 in tupleDfMaleList[1:]:
+        MaleDF = pd.merge(MaleDF, item1[1].to_frame(item1[0]), right_index=True,left_index=True , how='outer')
+    for item2 in tupleDfFemaleList[1:]:
+        FemaleDF = pd.merge(FemaleDF, item2[1].to_frame(item2[0]), right_index=True,left_index=True, how='outer')
+    for prob in MaleDF.columns:
+        fig,axis = plt.subplots(1,1)
+        axis.scatter(info.loc[MaleDF.index.values]['age'], MaleDF[prob])
+        axis.set_title(prob)
+        fig.savefig(r'C:\Users\shake\PycharmProjects\pythonProject\Images\AfterClean\'' + prob + 'Male' + '.png')
+        plt.close()
+    for prob in FemaleDF.columns:
+        fig, axis = plt.subplots(1,1)
+        axis.scatter(info.loc[FemaleDF.index.values]['age'], FemaleDF[prob])
+        axis.set_title(prob)
+        fig.savefig(r'C:\Users\shake\PycharmProjects\pythonProject\Images\AfterClean\'' + prob + 'Female' + '.png')
+        plt.close()
+    print(1)
+
+
+chromosomXNonStationaryCleanerForEachAge(ReadfCSV('probsNonStatinary'))
