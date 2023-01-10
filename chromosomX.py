@@ -238,4 +238,14 @@ def chromosomXNonStationaryCleanerForEachAge(probsNonStationary: pd.DataFrame):
     print(1)
 
 
-chromosomXNonStationaryCleanerForEachAge(ReadfCSV('probsNonStatinary'))
+def func():
+    df = ReadfPARQUET(r"NewDataBatchForSwitchpoint\GSE144858_data")
+    print(1)
+    return 1
+
+func()
+
+
+df = pd.read_csv(#enter the csv file)
+mean = df['prob'].mean()
+std = df['prob'].std()
